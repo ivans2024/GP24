@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodbakery IVAN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-10 10:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: foodbakery-ivan"
+
+#: foodbakery-ivan.php:95
+msgid ""
+"<em><b>Foodbakery IVAN</b></em> needs the <b>Foodbakery</b> plugin. Please "
+"install and activate it."
+msgstr ""
+
+#: includes/frontend/class_orders_notification_frontend.php:126
+msgid "Acknowledge"
+msgstr ""
+
+#: includes/backend/cash-module-disable-backend.php:29
+msgid "Cash Module"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
+
+#. Name of the plugin
+msgid "Foodbakery IVAN"
+msgstr ""
+
+#. Description of the plugin
+msgid "Foodbakery IVAN Add on"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr ""
+
+#: includes/frontend/class_orders_notification_frontend.php:122
+msgid "New Order"
+msgstr ""
+
+#: includes/frontend/class_orders_notification_frontend.php:116
+msgid "Order ID"
+msgstr ""

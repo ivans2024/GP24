@@ -1,0 +1,6262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-20 08:59+0000\n"
+"PO-Revision-Date: 2023-07-21 09:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+msgid "/ Per Night"
+msgstr "/ Por noche"
+
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+msgid "Dashboard"
+msgstr "Panel de control "
+
+msgid "day"
+msgstr "día"
+
+msgid "days"
+msgstr "días"
+
+msgid "does not shared your email, please provide a valid email address."
+msgstr ""
+"No comparte tu correo electrónico, proporciona una dirección de correo "
+"electrónico válida."
+
+msgid "Forgot Password?"
+msgstr "¿Has olvidado tu contraseña?"
+
+msgid "Hour"
+msgstr "Hora"
+
+msgid "Hours"
+msgstr "Horas"
+
+msgid "in"
+msgstr "en"
+
+msgid "Max Order :"
+msgstr "Orden máxima:"
+
+msgid "Min Order :"
+msgstr "Orden mínima:"
+
+msgid "Minute"
+msgstr "Minuto"
+
+msgid "Minutes"
+msgstr "Minutos"
+
+msgid "one of your restaurant removed from shortlists."
+msgstr "una de tus pizzerías ha sido retirada tus favoritas"
+
+msgid "Share"
+msgstr "Compartir"
+
+msgid "Single Banner"
+msgstr "Banner individual"
+
+msgid "Words typed:"
+msgstr "Palabras escritas:"
+
+msgid "%)"
+msgstr "%)"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d Comments"
+msgstr "%d Comentarios"
+
+msgid "%d Verified Reviews"
+msgstr "%d Reseñas verificadas"
+
+msgid "%s Message"
+msgstr "%s Mensaje"
+
+msgid "%s Messages"
+msgstr "%s Mensajes"
+
+msgid ""
+"&nbsp; <span style=\"color: #060;\">Your inquiry has been sent User will "
+"contact you shortly</span>"
+msgstr ""
+"& nbsp; <span style = \"color: #060;\"> Tu consulta ha sido enviada al "
+"usuario, se comunicará contigo en breve </span>"
+
+msgid ""
+"&nbsp; <span style=\"color: #ff0000;\">*The mail could not be sent due to "
+"some resons, Please try again</span>"
+msgstr ""
+"& nbsp; <span style = \"color: #ff0000;\">*El correo no se pudo enviar "
+"debido a algunas razones, intenta nuevamente </span>"
+
+msgid "You have already added review for this order.'"
+msgstr "Ya has agregado una reseña para este pedido."
+
+msgid "(Cash on Delivery)"
+msgstr "(Efectivo al momento de la entrega)"
+
+msgid "#ERROR!"
+msgstr "#ERROR!"
+
+msgid ", please <a href=\"%s\">check the error log</a>"
+msgstr ", por favor <a href=\"%s\"> Verifica el registro de errores </a>"
+
+msgid "- Select Services -"
+msgstr "-  Selecciona Servicios -"
+
+msgid "--Select Restaurant--"
+msgstr "--Selecciona Pizzería--"
+
+msgid "2 Columns"
+msgstr "2 columnas"
+
+msgid "24 Support"
+msgstr "24 Soporte"
+
+msgid "3 Columns"
+msgstr "3 columnas"
+
+msgid ": Opens at"
+msgstr ": Abre en"
+
+msgid "</a> ."
+msgstr "</a>."
+
+msgid "<a href=\"%s\">Add new Cuisines</a>"
+msgstr "<a href=\"%s\"> Agregar nuevos estilos de pizza </a>"
+
+msgid "<a href=\"%s\">Add new tags</a>"
+msgstr "<a href=\"%s\"> Agregar nuevas etiquetas </a>"
+
+msgid "[%s] New User Registration"
+msgstr "[%s] Registro de nuevos usuarios"
+
+msgid "[Line %1$s] %2$s"
+msgstr "[Line %1$s] %2$s"
+
+msgid "A client error occurred:"
+msgstr "Se produjo un error de cliente:"
+
+msgid "A commision amount will deduct for each order."
+msgstr "Un monto de la comisión se deducirá para cada pedido."
+
+msgid "A service error occurred:"
+msgstr "Se produjo un error de servicio:"
+
+msgid "About Info Options"
+msgstr "Acerca de las opciones de información"
+
+msgid "Access Restricted"
+msgstr "Acceso restringido"
+
+msgid "Access Token"
+msgstr "Token de acceso"
+
+msgid "Access Token Secret"
+msgstr "Token de acceso secreto"
+
+msgid "Account Display Name"
+msgstr "Nombre de la pantalla de cuenta"
+
+msgid "Account No"
+msgstr "Número de cuenta"
+
+msgid "Account Number"
+msgstr "Número de cuenta"
+
+msgid "Account Settings"
+msgstr "Configuraciones de la cuenta"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Activation"
+msgstr "Activación"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Active Reviews"
+msgstr "Reseñas activas"
+
+msgid "Ad sense Code"
+msgstr "Código Ad sense "
+
+msgid "Add"
+msgstr "Agregar"
+
+msgid "Add Another"
+msgstr "Agrega otro"
+
+msgid "add another choice"
+msgstr "Agregar otra opción"
+
+msgid "Add Banner"
+msgstr "Agregar banner"
+
+msgid "Add Category"
+msgstr "Añadir categoría"
+
+msgid "Add duration of package."
+msgstr "Agrega la duración del paquete."
+
+msgid "Add duration of restaurant."
+msgstr "Agrega la duración de la pizzería."
+
+msgid "Add Element"
+msgstr "Agregar elemento"
+
+msgid "Add Feature"
+msgstr "Agregar característica"
+
+msgid "Add Icon"
+msgstr "Agregar icono"
+
+msgid "Add information of your bank (Bank Name)."
+msgstr "Agrega información de tu banco (Nombre del banco)."
+
+msgid ""
+"Add LinkedIn application ID. To get your Linked-in Application ID, go to "
+"your LinkedIn Dashboard"
+msgstr ""
+"Agregar ID de aplicación LinkedIn. Para obtener tu ID de aplicación "
+"vinculada, vaya a tu panel de control de LinkedIn"
+
+msgid "Add Location"
+msgstr "Añade una ubicación"
+
+msgid "Add Members"
+msgstr "Añadir miembros"
+
+msgid "Add Membership"
+msgstr "Agregar membresía"
+
+msgid "Add Membership Field"
+msgstr "Agregar campo de membresía"
+
+msgid "Add Membership to List"
+msgstr "Agregar membresía a la lista"
+
+msgid "Add Menu Category"
+msgstr "Agregar una categoría a la carta"
+
+msgid "Add Menu Item"
+msgstr "Agregar item a la carta"
+
+msgid "Add Menu Item Extra"
+msgstr "Agregar item extra a la carta"
+
+msgid "Add More"
+msgstr "Añadir más"
+
+msgid "Add New Booking Status"
+msgstr "Agregar nuevo estado de reserva"
+
+msgid "Add New Cuisine"
+msgstr "Agregar nueva cocina"
+
+msgid "Add New Currency"
+msgstr "Agregar nueva moneda"
+
+msgid "Add New Email"
+msgstr "Agregar nuevo correo electrónico"
+
+msgid "Add New Feature"
+msgstr "Agregar nueva función"
+
+msgid "Add New Location"
+msgstr "Agregar nueva ubicación"
+
+msgid "Add New Membership Order"
+msgstr "Agregar nuevo orden de membresía"
+
+msgid "add new on admin barEmail"
+msgstr "Agregar nuevo en Admin barEmail"
+
+msgid "add new on admin barWithdrawal"
+msgstr "Agregar nuevo en admin Barwithdrawal"
+
+msgid ""
+"Agregar ID de aplicación LinkedIn. Para obtener tu ID de aplicación "
+"vinculada, vaya a tu panel de control de LinkedIn"
+msgstr "Agregar un nuevo estado de pedido"
+
+msgid "Add New Publisher"
+msgstr "Agregar nuevo editor"
+
+msgid "Add New Restaurant"
+msgstr "Agregar nueva pizzería"
+
+msgid "Add new restaurant"
+msgstr "Agregar nueva pizzería"
+
+msgid "Add New Restaurant Menu"
+msgstr "Agregar nueva carta de pizzería"
+
+msgid "Add New Review"
+msgstr "Agregar nueva reseña"
+
+msgid "Add New Tag"
+msgstr "Agregar nueva etiqueta"
+
+msgid "Add New Transaction"
+msgstr "Agregar nueva transacción"
+
+msgid "Add New Withdrawal"
+msgstr "Agregar nuevo retiro"
+
+msgid "Add no of documents allowed in this package."
+msgstr "Agregar número de documentos permitidos en este paquete."
+
+msgid "Add no of featured restaurants."
+msgstr "Agregar número de pizzerías destacadas."
+
+msgid "Add no of pictures allowed in this package."
+msgstr "Agregar número de imágenes permitidas en este paquete."
+
+msgid "Add no of restaurant allowed in this package."
+msgstr "Agregar número de pizzería permitida en este paquete."
+
+msgid "Add no of services allowed in this package."
+msgstr "Agregar número de los servicios permitidos en este paquete."
+
+msgid "Add no of tags allowed in this package."
+msgstr "Agregar número de las etiquetas permitidas en este paquete."
+
+msgid "Add no of top categories restaurants."
+msgstr "Agregar número de las categorías principales pizzerías."
+
+msgid "Add or Remove Locations"
+msgstr "Agregar o eliminar ubicaciones"
+
+msgid "Add Order/Inquiry"
+msgstr "Agregar pedido/consulta"
+
+msgid "Add package price in this field."
+msgstr "Agrega el precio del paquete en este campo."
+
+msgid "Add Price Table"
+msgstr "Agregar tabla de precios"
+
+msgid "Add Restaurant"
+msgstr "Agregar pizzería"
+
+msgid "Add Restaurant Setting"
+msgstr "Agregar configuración de pizzería"
+
+msgid "Add Review"
+msgstr "Agregar una opinión"
+
+msgid "Add Row"
+msgstr "Añadir fila"
+
+msgid "Add Safety Text"
+msgstr "Agregar texto de seguridad"
+
+msgid "Add Safety Text to List"
+msgstr "Agregar texto de seguridad a la lista"
+
+msgid "Add Section"
+msgstr "Agregar sección"
+
+msgid "Add Tag"
+msgstr "Añadir etiqueta"
+
+msgid "Add Team Member"
+msgstr "Agregar miembro del equipo"
+
+msgid "Add time lapse here in minutes ( 1 to 60 )"
+msgstr "Agrega el lapso de tiempo aquí en minutos (1 a 60)"
+
+msgid "Add to List"
+msgstr "Agregar a la lista"
+
+msgid "Add to Menu"
+msgstr "Agregar a la carta"
+
+msgid "Add to Menu Item list"
+msgstr "Agregar a la lista de elementos de la carta"
+
+msgid "Add widgets here to appear in your restaurents element right sidebar."
+msgstr ""
+"Agrega widgets aquí para aparecer en la barra lateral derecha de tu elemento "
+"de pizzerías."
+
+msgid ""
+"Add your Authorize.net login ID here. You will get it while signing up on "
+"Authorize.net."
+msgstr ""
+"Agrega tu ID de inicio de sesión de Authorize.net aquí. Lo obtendrás "
+"mientras te registras en Authorize.net."
+
+msgid ""
+"Add your Authorize.net Transaction Key here. You will get this key while "
+"signing up on Authorize.net"
+msgstr ""
+"Aquí debes agregar tu ID de aplicación de Facebook. Obtendrás esta "
+"identificación cuando crees la aplicación de Facebook."
+
+msgid "Add your bank account Number where you want receive payment."
+msgstr "Agrega tu número de cuenta bancaria donde desees recibir el pago."
+
+msgid "Add your business Email address here to proceed PayPal payments."
+msgstr ""
+"Agrega la dirección de correo electrónico de tu negocio aquí para proceder "
+"pagos de PayPal."
+
+msgid ""
+"Add your business Email address here to proceed Skrill-MoneryBooker payments."
+"."
+msgstr ""
+"Agrega la dirección de correo electrónico de tu negocio aquí para proceder a "
+"los pagos de Skrill-Monerybooker."
+
+msgid "Added"
+msgstr "Agregado"
+
+msgid "Added to List"
+msgstr "Agregado a la lista"
+
+msgid "Added to Selected List"
+msgstr "Agregado a la lista da"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Address :"
+msgstr "Dirección :"
+
+msgid "Address Maximum Text Limit"
+msgstr "Dirección límite máximo de texto"
+
+msgid "Admin invoice"
+msgstr "Factura administrativa"
+
+msgid "admin menuEmails"
+msgstr "admin menuEmails"
+
+msgid "admin menuWithdrawals"
+msgstr "admin menuWithdrawals"
+
+msgid "Ads Images / Videos Limit"
+msgstr "Imágenes de anuncios / Límite de videos"
+
+msgid "Ads Management"
+msgstr "Gestión de anuncios"
+
+msgid "Ads Management Settings"
+msgstr "Configuración de gestión de anuncios"
+
+msgid "Ads Switch"
+msgstr "Interruptor de anuncios"
+
+msgid "Advance Settings"
+msgstr "Configuraciones avanzadas"
+
+msgid "Ago"
+msgstr "Atrás"
+
+msgid "ago"
+msgstr "atrás"
+
+msgid "Alert Details"
+msgstr "Detalles de alerta"
+
+msgid "Align Center"
+msgstr "Alinear al centro"
+
+msgid "Align Left"
+msgstr "Alinear a la izquierda"
+
+msgid "Align Right"
+msgstr "Alinear a la derecha"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "ALL Categories"
+msgstr "Todas las categorias"
+
+msgid "All Categories"
+msgstr "todas las categorias"
+
+msgid "All Cuisines"
+msgstr "Todos los estilos de pizza"
+
+msgid ""
+"All kinds of dining experiences are waiting to be discovered. Check out the "
+"best restaurants and Book Using following Form."
+msgstr "Vive una experiencia PizzaLover, tendrás un trato especial."
+
+msgid "All Locations"
+msgstr "Todas las localizaciones"
+
+msgid "All Religons"
+msgstr "Todas las religiones"
+
+msgid "All Restaurants"
+msgstr "Todas las pizzerías"
+
+msgid "All Settings Saved"
+msgstr "Todas las configuraciones guardadas"
+
+msgid "All Tags"
+msgstr "Todas las etiquetas"
+
+msgid "All the transactions will be placed in this currency."
+msgstr "Todas las transacciones se realizarán en esta moneda."
+
+msgid "Allow user to add review without login."
+msgstr "Permitir que el usuario agregue reseña sin iniciar sesión."
+
+msgid "Allowed address maximum text limit."
+msgstr "Límite máximo de texto de dirección permitida."
+
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+msgid "Already Added Banners"
+msgstr "Banners ya agregados"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "Amount"
+msgstr "Monto"
+
+msgid "An error occured while processing payment form."
+msgstr "Se produjo un error al procesar el formulario de pago."
+
+msgid "An error Occured, please try again later"
+msgstr "Se produjo un error, inténtelo de nuevo más tarde"
+
+msgid "An error occurred. Try again later."
+msgstr "Ocurrió un error. Inténtalo de nuevo más tarde."
+
+msgid "An error was encountered while trying to send the test e-mail."
+msgstr ""
+"Se encontró un error al intentar enviar el correo electrónico de prueba."
+
+msgid "Analytics and Tracking"
+msgstr "Análisis y seguimiento"
+
+msgid "And"
+msgstr "Y"
+
+msgid "Announcement Background Color"
+msgstr "Color de fondo del anuncio"
+
+msgid "Announcement Description For Buyer Dashboard"
+msgstr "Descripción del anuncio para panel de control del comprador"
+
+msgid "Announcement Description For Restaurant Dashboard"
+msgstr "Descripción del anuncio para panel de control de Pizzeria"
+
+msgid "Announcement Title For Buyer Dashboard"
+msgstr "Título del anuncio para panel de control del comprador"
+
+msgid "Announcement Title For Restaurant Dashboard"
+msgstr "Título del anuncio para panel de control de Pizzeria"
+
+msgid "API Settings"
+msgstr "Configuración de API"
+
+msgid "Api Settings"
+msgstr "Configuración de API"
+
+msgid "Applied"
+msgstr "Aplicado"
+
+msgid "Apply Now"
+msgstr "Aplica ya"
+
+msgid "Approved"
+msgstr "Aprobado"
+
+msgid "Approved Buyer Profile"
+msgstr "Perfil de comprador aprobado"
+
+msgid "Approved Publisher Profile"
+msgstr "Perfil de editor aprobado"
+
+msgid "Ask user to share his location."
+msgstr "Solicita al usuario que comparta su ubicación."
+
+msgid "Atleast one supper admin required for a company"
+msgstr "Al menos un administrador de la cena requerido para una empresa"
+
+msgid "Atleast one supper admin required for a restaurant"
+msgstr "Al menos un administrador de la cena requerido para una pizzería"
+
+msgid "Attachments"
+msgstr "Archivos adjuntos"
+
+msgid "Authentication failed due to Invalid Credentials"
+msgstr "La autenticación falló debido a credenciales no válidas"
+
+msgid "Authentication Failed."
+msgstr "La autenticación falló."
+
+msgid "Author Earnings"
+msgstr "Ganancias del autor"
+
+msgid "Authorize.net Ipn Url"
+msgstr "Authorize.net IPN URL"
+
+msgid "Authorize.net Sandbox"
+msgstr "Autorize.net sandbox"
+
+msgid "Authorize.net Settings"
+msgstr "Autorize.net Configuración"
+
+msgid "Auto Approve Reviews"
+msgstr "Auto aprobación de reseñas"
+
+msgid "Auto Complete"
+msgstr "Autocompletar"
+
+msgid "Auto Country Detection"
+msgstr "Detección de países automática"
+
+msgid "Auto Reviews Approval"
+msgstr "Aprobación automática de reseña"
+
+msgid "Availability"
+msgstr "Disponibilidad"
+
+msgid "Availability: %s"
+msgstr "Disponibilidad: %s"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Average"
+msgstr "Promedio"
+
+msgid "Awaiting Activation"
+msgstr "Esperando activación"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Backend Locations & Maps Settings"
+msgstr "Configuración de ubicaciones de back-end y mapas"
+
+msgid "Backup"
+msgstr "Respaldo"
+
+msgid "Backup Generated."
+msgstr "Copia de seguridad generada."
+
+msgid "Bank detail"
+msgstr "Detalle bancario"
+
+msgid "Bank Information"
+msgstr "Información bancaria"
+
+msgid "Bank Transfer Settings"
+msgstr "Configuración de transferencia bancaria"
+
+msgid "Banner Code"
+msgstr "Código banner"
+
+msgid "Banner Style"
+msgstr "Estilo banner"
+
+msgid "Banner Title"
+msgstr "Título de banner"
+
+msgid "Banner Type"
+msgstr "Tipo de banner"
+
+msgid "Banner Url"
+msgstr "URL de banner"
+
+msgid "Banner View"
+msgstr "Visión de banner"
+
+msgid "Base Currency"
+msgstr "Moneda base"
+
+msgid "based on %s reviews"
+msgstr "basados en %s reseñas"
+
+msgid "BEGIN %s"
+msgstr "Comenzar %s"
+
+msgid "Best Match"
+msgstr "Mejor coincidencia"
+
+msgid "Big Image"
+msgstr "Imagen grande"
+
+msgid "Biography"
+msgstr "Biografía"
+
+msgid "Biography should not be empty"
+msgstr "La biografía no debe estar vacía"
+
+msgid "Blank"
+msgstr "Vacío"
+
+msgid "Blue Essence"
+msgstr "Esencia azul"
+
+msgid "Blue Water"
+msgstr "Agua Azul"
+
+msgid "Bluish"
+msgstr "Azulado"
+
+msgid "Book a Table"
+msgstr "Reservar"
+
+msgid "Book a table"
+msgstr "Reservar"
+
+msgid "Book Day Off"
+msgstr "Reservar día libre"
+
+msgid "Book off day"
+msgstr "Reservar el día"
+
+msgid "Book This Restaurant"
+msgstr "Realiza tu reserva"
+
+msgid "Booked"
+msgstr "Reservado"
+
+msgid "Booking Date"
+msgstr "Fecha de reserva"
+
+msgid "Booking Detail"
+msgstr "Detalle de la reserva"
+
+msgid "Booking Form"
+msgstr "Formulario de reserva"
+
+msgid "Booking ID"
+msgstr "ID de reserva"
+
+msgid "Booking Status"
+msgstr "Estado de la reservación"
+
+msgid "Booking Statuses"
+msgstr "Estado de reserva"
+
+msgid "Booking Time"
+msgstr "Hora de la reserva"
+
+msgid "Bookings"
+msgstr "Reservaciones"
+
+msgid "Bottom Banner"
+msgstr "Banner inferior"
+
+msgid "Brows"
+msgstr "Navegar"
+
+msgid "Browse"
+msgstr "Navegar"
+
+msgid "Browse file"
+msgstr "Buscar Archivo"
+
+msgid "Buton Link"
+msgstr "Botón de Link"
+
+msgid "Button Text"
+msgstr "Botón de texto"
+
+msgid "Button Title"
+msgstr "Título de botón"
+
+msgid "Button URL"
+msgstr "URL de botón"
+
+msgid "Buy Membership"
+msgstr "Comprar membresía"
+
+msgid "Buy New Membership"
+msgstr "Comprar una nueva membresía"
+
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+msgid "Buyer"
+msgstr "Comprador"
+
+msgid "Buyer Dashboard Announcements"
+msgstr "Anuncios del panel de control del comprador"
+
+msgid "Buyer Invoice"
+msgstr "Factura del comprador"
+
+msgid "By Registering You Confirm That You Accept The"
+msgstr "Al registrarte, confirmas que aceptas los términos y condiciones"
+
+msgid "Calendar Demo"
+msgstr "Demostración de calendario"
+
+msgid "Call Us"
+msgstr "Llámanos"
+
+msgid "Can respond to reviews"
+msgstr ""
+"Puedesmostrar la etiqueta pizzeria Abierta / Cerrada para cada pizzería en "
+"la lista de pizzerías"
+
+msgid "Can`t write cropped File"
+msgstr "No puedo escribir archivo recortado"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cancel Draw"
+msgstr "Cancelar sorteo"
+
+msgid "Cancel Order"
+msgstr "Cancelar orden"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Candidate Contact from job hunt"
+msgstr "Contacto candidato de Job Hunt"
+
+msgid "Candidate Skills Sets"
+msgstr "Conjuntos de habilidades de candidatas"
+
+msgid "Candidate Skills Sets total percentage cannot exceeds from 100."
+msgstr ""
+"El conjunto de habilidades de candidatos no puede exceder un porcentaje "
+"total de 100."
+
+msgid "Candidates Dashboard"
+msgstr "Panel de candidatos"
+
+msgid "Candidates Fields"
+msgstr "Campos de candidatos"
+
+msgid "Cannot extract data from uploaded file or no file was uploaded."
+msgstr ""
+"No se puede extraer datos del archivo cargado o no se cargó ningún archivo."
+
+msgid "Capacity"
+msgstr "Capacidad"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Captcha should must be validate"
+msgstr "Captcha debe ser validado"
+
+msgid "Captcha should must be validate."
+msgstr "Captcha debe ser validado."
+
+msgid "Card"
+msgstr "Tarjeta"
+
+msgid "Cash"
+msgstr "Dinero"
+
+msgid "Cash on Delivery"
+msgstr "Efectivo en la entrega"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Categories *"
+msgstr "Categorías *"
+
+msgid "Categories By"
+msgstr "Categorías por"
+
+msgid "Categories for suggestions"
+msgstr "Categorías para sugerencias"
+
+msgid "Category Colour"
+msgstr "Color de categoría"
+
+msgid "Category Description"
+msgstr "Descripción de categoría"
+
+msgid "Change Password"
+msgstr "Contraseña"
+
+msgid "Charges"
+msgstr "Cargos"
+
+msgid "Charges:"
+msgstr "Cargos:"
+
+msgid "Check your email address for you new password."
+msgstr "Verifica tu dirección de correo electrónico para tu nueva contraseña."
+
+msgid "Chilled"
+msgstr "Enfriado"
+
+msgid "ChimpStudio"
+msgstr "ChimpStudio"
+
+msgid "Author of the plugin"
+msgstr "Autor del complemento"
+
+msgid "Choose file"
+msgstr "Elige el archivo"
+
+msgid "Choose from the most used Locations"
+msgstr "Elige entre las ubicaciones más utilizadas"
+
+msgid "Choose Icon"
+msgstr "Elige icono"
+
+msgid "Choose location"
+msgstr "Elegir la ubicación"
+
+msgid "Choose Membership"
+msgstr "Elige Membresía"
+
+msgid "Choose some Cuisines"
+msgstr "Elige algunas cocinas"
+
+msgid "Choose Style"
+msgstr "Elige estilo"
+
+msgid "Choose..."
+msgstr "Elegir..."
+
+msgid "Circle Radius"
+msgstr "Radio circular"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Clad Me"
+msgstr "Revestido"
+
+msgid "Claim Restaurant"
+msgstr "Reclamar pizzería"
+
+msgid "Classic"
+msgstr "Clásico"
+
+msgid "Click on the button bellow to get access token."
+msgstr "Haga clic en el botón a continuación para obtener el token de acceso."
+
+msgid "Click one of the options below"
+msgstr "Haga clic en una de las opciones a continuación"
+
+msgid "Click to Add"
+msgstr "Haga clic para agregar"
+
+msgid "Click to Add Item"
+msgstr "Haga clic para agregar el elemento"
+
+msgid "Click to add opening Hours"
+msgstr "Haga clic para agregar horarios de apertura"
+
+msgid "Click to login with Demo User"
+msgstr "Haga clic para iniciar sesión con el usuario de demostración"
+
+msgid "Clicks"
+msgstr "Clics"
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "Closed"
+msgstr "Cerrado"
+
+msgid "Closed Now"
+msgstr "Cerrado ahora"
+
+msgid "Closing Time"
+msgstr "Hora de cierra"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Collapse all Filters"
+msgstr "Colapsar todos los filtros"
+
+msgid "Collapse in Search"
+msgstr "Colapso en la búsqueda"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Columns"
+msgstr "Columnas"
+
+msgid "Comments"
+msgstr "Comentarios"
+
+msgid "Commission - for sale"
+msgstr "Comisión - En venta"
+
+msgid "Commission Based"
+msgstr "Basado en la comisión"
+
+msgid "Commission Charged"
+msgstr "Comisión cargada"
+
+msgid "Commission Percentage"
+msgstr "Porcentaje de comisión"
+
+msgid "Common Elements"
+msgstr "Elementos comunes"
+
+msgid "Company Name"
+msgstr "Nombre de empresa"
+
+msgid "Complete Address"
+msgstr "Completa tu dirección"
+
+msgid "Completed"
+msgstr "Entregado"
+
+msgid "Confirm New Password"
+msgstr "Confirmar nueva contraseña"
+
+msgid "Confirm new password should not be empty"
+msgstr "Confirmar que la nueva contraseña no debe estar vacía"
+
+msgid "Confirm Order"
+msgstr "Confirmar pedido"
+
+msgid "Congratulations"
+msgstr "Genial!"
+
+msgid "Connection prefix"
+msgstr "Prefijo de conexión"
+
+msgid "Consumer Key"
+msgstr "Llave del consumidor"
+
+msgid "Consumer Secret"
+msgstr "Secreto del consumidor"
+
+msgid "Contact details"
+msgstr "Detalles de contacto"
+
+msgid "Contact Email"
+msgstr "Email de contacto"
+
+msgid "Contact Form Options"
+msgstr "Opciones de formulario de contacto"
+
+msgid "Contact Form Received"
+msgstr "Formulario de contacto recibido"
+
+msgid "Contact Information"
+msgstr "Información del contacto"
+
+msgid "Content Blocks"
+msgstr "Bloques de contenido"
+
+msgid ""
+"Control Authorize.net sandbox Account with this switch. If this switch is "
+"set to ON, payments will be proceed with sandbox account."
+msgstr ""
+"Control Authorize.net Sandbox Cuenta con este conmutador. Si este "
+"interruptor se establece en ON, los pagos se realizarán con la cuenta "
+"Sandbox."
+
+msgid ""
+"Control PayPal sandbox Account with this switch. If this switch is set to ON,"
+" payments will be proceed with sandbox account."
+msgstr ""
+"Controle la cuenta de PayPal Sandbox con este interruptor. Si este "
+"interruptor se establece en ON, los pagos se realizarán con la cuenta "
+"Sandbox."
+
+msgid "Conversion Rate"
+msgstr "Tasa de conversión"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Country *"
+msgstr "País *"
+
+msgid "County"
+msgstr "Condado"
+
+msgid "Cover Image"
+msgstr "Imagen de portada"
+
+msgid "Cover Padding Bottom"
+msgstr "Cubierta de fondo de acolchado"
+
+msgid "Cover Padding Top"
+msgstr "Cubierta de la parte superior del acolchado"
+
+msgid "Create Account"
+msgstr "Crear una cuenta"
+
+msgid "Create Restaurant"
+msgstr "Crear pizzería"
+
+msgid "Create Your Food Bakery Account"
+msgstr "Crea tu cuenta de Food Bakery"
+
+msgid "Created:"
+msgstr "Creado:"
+
+msgid "Cs:Locations"
+msgstr "CS: ubicaciones"
+
+msgid "Cuisine"
+msgstr "Cocina"
+
+msgid "Cuisine categories"
+msgstr "Categorías de cocina"
+
+msgid "Cuisines"
+msgstr "Estilos de pizza"
+
+msgid "Cuisines *"
+msgstr "Cocinas *"
+
+msgid "Currencies"
+msgstr "Monedas"
+
+msgid "Currency"
+msgstr "Divisa"
+
+msgid "Currency Alignment"
+msgstr "Alineación monetaria"
+
+msgid "Currency Options"
+msgstr "Opciones de divisas"
+
+msgid "Currency Symbol"
+msgstr "Símbolo de moneda"
+
+msgid "Current Membership"
+msgstr "Membresía actual"
+
+msgid "Current Password"
+msgstr "Contraseña actual"
+
+msgid "Current password should not be empty"
+msgstr "La contraseña actual no debe estar vacía"
+
+msgid "Currently there are and issue"
+msgstr "Actualmente hay un problema"
+
+msgid "Custom Css"
+msgstr "CSS personalizado"
+
+msgid "Custom Fields"
+msgstr "Campos Personalizados"
+
+msgid "Custom Logo"
+msgstr "Logotipo personalizado"
+
+msgid "Customer Deatil"
+msgstr "Detalle del cliente"
+
+msgid "Customer Detail"
+msgstr "Detalle del cliente"
+
+msgid "Customer Name"
+msgstr "Nombre del cliente"
+
+msgid "Customer Reviews For"
+msgstr "Puedes responder a las reseñas"
+
+msgid "Customer Reviews For Food Bakery"
+msgstr "Los PizzaLovers dicen:"
+
+msgid "CV Search"
+msgstr "Búsqueda de CV"
+
+msgid "Daily"
+msgstr "Diariamente"
+
+msgid ""
+"Dashboard and Front-End login/register option can be hide by turning off "
+"this switch."
+msgstr ""
+"El panel de control y la opción de inicio de sesión/registro front-end se "
+"pueden ocultar apagando este interruptor."
+
+msgid "Dashboard Pagination"
+msgstr "Paginación del panel de control "
+
+msgid "DATE"
+msgstr "FECHA"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Date : %s"
+msgstr "Fechas : %s"
+
+msgid "Date Format"
+msgstr "Formato de fecha"
+
+msgid "Date: %s"
+msgstr "Fechas: %s"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Default"
+msgstr "Defecto"
+
+msgid "Default - Selected From Plugin Options"
+msgstr "Valor predeterminado: do de las opciones de plugin"
+
+msgid "Default Location"
+msgstr "Ubicación predeterminada"
+
+msgid ""
+"Default Location Set default location for your site. This location can be "
+"set from Restaurants > Locations in back end admin area. This will show "
+"location of admin only. It is not linked with Geo-location or Candidate."
+msgstr ""
+"Ubicación predeterminada Establecer ubicación predeterminada para tu sitio. "
+"Esta ubicación se puede establecer desde pizzerías> ubicaciones en el área "
+"de administración de Back End. Esto mostrará solo la ubicación del "
+"administrador. No está vinculado con la ubicación geográfica o el candidato."
+
+msgid "Default Locations"
+msgstr "Ubicaciones predeterminadas"
+
+msgid "Default Open/Close Filter"
+msgstr "Filtro predeterminado de abrir/cerrar"
+
+msgid "Default Profile Placeholder"
+msgstr "Marcador de posición de perfil predeterminado"
+
+msgid "Default Radius Circle."
+msgstr "Círculo de radio predeterminado."
+
+msgid "Default Sidebars"
+msgstr "Barras laterales predeterminadas"
+
+msgid "Default Status"
+msgstr "Estado predeterminado"
+
+msgid "Default Value"
+msgstr "Valor por defecto"
+
+msgid "Default View"
+msgstr "Vista predeterminada"
+
+msgid ""
+"Define <em data-target=\"#suggestions-box\" data-toggle=\"modal\">Search "
+"criteria</em> to search for specific"
+msgstr ""
+"Definir <em data-target = \"#sugerencia-box\" data-toggle = \"modal\"> "
+"Criterios de búsqueda </em> para una búsqueda mas específica"
+
+msgid "Define a set of score values."
+msgstr "Defina un conjunto de valores de puntaje."
+
+msgid "Define Commission Percentage i.e 10"
+msgstr "Definir porcentaje de comisión, por ejemplo 10"
+
+msgid "Delate Row"
+msgstr "Borrar fila"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete Area"
+msgstr "Borrar área"
+
+msgid "Delete permanently"
+msgstr "Borrar permanentemente"
+
+msgid "Delete Profile"
+msgstr "Borrar perfil"
+
+msgid "Delete Successfully"
+msgstr "Eliminado con éxito"
+
+msgid "Deliver in %s Minutes"
+msgstr "Entregar en %s minutos"
+
+msgid "Delivery"
+msgstr "Entrega"
+
+msgid "Delivery &amp; Pickup"
+msgstr "Entrega y amp; recogida"
+
+msgid "Delivery Date:"
+msgstr "Fecha de entrega:"
+
+msgid "Delivery Fee"
+msgstr "Gastos de envío"
+
+msgid "Delivery fee"
+msgstr "Gastos de envío"
+
+msgid "Delivery Fee:"
+msgstr "Gastos de envío:"
+
+msgid "Delivery fee:"
+msgstr "Gastos de envío:"
+
+msgid "Delivery Time"
+msgstr "Tiempo de entrega"
+
+msgid "Delivery time"
+msgstr "Tiempo de entrega"
+
+msgid "Delivery Time:"
+msgstr "Tiempo de entrega:"
+
+msgid "Delivery/Pickup"
+msgstr "Entrega/recogida"
+
+msgid "Demo User Login"
+msgstr "Inicio de sesión del usuario de demostración"
+
+msgid "Demo User Modification Allowed"
+msgstr "Modificación de usuario de demostración permitida"
+
+msgid "Demo users are not allowed to modify information."
+msgstr "Los usuarios de demostración no pueden modificar información."
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Description."
+msgstr "Descripción."
+
+msgid "Detail"
+msgstr "Detalle"
+
+msgid "Detail Page Options"
+msgstr "Opciones de página de detalle"
+
+msgid "Disable cash on Delivery?"
+msgstr "¿Deshabilitar efectivo en la entrega?"
+
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+msgid "display name should not be empty"
+msgstr "El nombre de la pantalla no debe estar vacío"
+
+msgid "Display total number of restaurants"
+msgstr "Mostrar número total de pizzerías"
+
+msgid "Do you want google to give suggestions to auto complete?"
+msgstr "¿Quieres que Google te dé sugerencias para completar automáticamente?"
+
+msgid "Do you want Pre Orders filter in restaurant listings?"
+msgstr "¿Quieres un filtro de pedidos anticipados en listados de pizzeria?"
+
+msgid "Do you want to detect country automatically using user's IP?"
+msgstr "¿Deseas detectar el país automáticamente utilizando la IP del usuario?"
+
+msgid "Do you want to Reviews get approved automatically?"
+msgstr "¿Quieres que las reseñas se aprueben automáticamente?"
+
+msgid "Do you want to show services dropdown in form."
+msgstr "¿Deseas mostrar la carta desplegable de servicios en el formulario?"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Draw on Map"
+msgstr "Dibujar en el mapa"
+
+msgid "Drawn Area"
+msgstr "Área dibujada"
+
+msgid "Dribbble"
+msgstr "Regatear"
+
+msgid "DROPDOWN"
+msgstr "DESPLEGABLE"
+
+msgid "Dropdown"
+msgstr "Desplegable"
+
+msgid "Dropdown : %s"
+msgstr "Listas : %s"
+
+msgid "Dropdown: %s"
+msgstr "Listas : %s"
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "Dynamic Fields"
+msgstr "Campos dinámicos"
+
+msgid "Earnings"
+msgstr "Ganancias"
+
+msgid "Earnings of this month is:"
+msgstr "Las ganancias de este mes son:"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit Cuisine"
+msgstr "Editar cocina"
+
+msgid "Edit Currency"
+msgstr "Editar moneda"
+
+msgid "Edit Email"
+msgstr "Editar correo electrónico"
+
+msgid "Edit Extras"
+msgstr "Editar extras"
+
+msgid "Edit Location"
+msgstr "Editar ubicación"
+
+msgid "Edit Membership"
+msgstr "Editar membresía"
+
+msgid "Edit Membership Order"
+msgstr "Editar orden de membresía"
+
+msgid "Edit Order/Inquiry"
+msgstr "Editar pedido/consulta"
+
+msgid "Edit Price Table"
+msgstr "Editar tabla de precios"
+
+msgid "Edit Publisher"
+msgstr "Editar editor"
+
+msgid "Edit Restaurant"
+msgstr "Editar pizzería"
+
+msgid "Edit Review"
+msgstr "Editar reseña"
+
+msgid "Edit Tag"
+msgstr "Editar etiqueta"
+
+msgid "Edit Transaction"
+msgstr "Editar transacción"
+
+msgid "Edit Withdrawal"
+msgstr "Editar retiro"
+
+msgid "Element Pricing Tables"
+msgstr "Tablas de precios de elementos"
+
+msgid "Element Sub Title"
+msgstr "Subtítulo del elemento"
+
+msgid "Element Title"
+msgstr "Título de elemento"
+
+msgid "EMAIL"
+msgstr "EMAIL"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "emailAdd New"
+msgstr "Correo electrónico NUEVO"
+
+msgid "Email *"
+msgstr "Correo electrónico *"
+
+msgid "Email :"
+msgstr "Correo electrónico :"
+
+msgid "Email : %s"
+msgstr "Correo electrónico: %s"
+
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+msgid "Email Address *"
+msgstr "Dirección de correo electrónico *"
+
+msgid "Email address already exists"
+msgstr "La dirección de correo ya existe"
+
+msgid "email address is not valid"
+msgstr "La dirección de correo electrónico no es válida"
+
+msgid "email address is not valid."
+msgstr "La dirección de correo electrónico no es válida."
+
+msgid "email address is not valid.</span><br/>"
+msgstr "La dirección de correo electrónico no es válida. </span> <br/>"
+
+msgid ""
+"Email Address is required, kindly provide all details to complete "
+"registration."
+msgstr ""
+"Se requiere la dirección de correo electrónico, proporciona todos los "
+"detalles para completar el registro."
+
+msgid "email already exists!"
+msgstr "¡el Email ya existe!"
+
+msgid "Email available."
+msgstr "Correo electrónico disponible."
+
+msgid "Email Details"
+msgstr "Detalles de correo electrónico"
+
+msgid "Email Field should not be empty."
+msgstr "El campo de correo electrónico no debe estar vacío."
+
+msgid "Email Frequency"
+msgstr "Frecuencia de correo electrónico"
+
+msgid "Email has been sent Successfully"
+msgstr "El correo electrónico ha sido enviado con éxito"
+
+msgid "Email Headers"
+msgstr "Encabezados por correo electrónico"
+
+msgid "email should not be empty"
+msgstr "El correo electrónico no debe estar vacío"
+
+msgid "Email should not be empty."
+msgstr "El correo electrónico no debe estar vacío."
+
+msgid "Email Status"
+msgstr "Estado de correo electrónico"
+
+msgid "Email: %s"
+msgstr "Correo electrónico: %s"
+
+msgid "Employer Contact from job hunt"
+msgstr "Contacto del empleador de Job Hunt"
+
+msgid "Employer Dashboard"
+msgstr "Panel de control de empleadores"
+
+msgid "Enable Comments"
+msgstr "Habilitar comentarios"
+
+msgid "Enable debugging?"
+msgstr "Habilitar la depuración?"
+
+msgid "Enable Field Title"
+msgstr "Habilitar el título de campo"
+
+msgid "Enable In Search"
+msgstr "Habilitar en la búsqueda"
+
+msgid "Enable Inputs"
+msgstr "Habilitar entradas"
+
+msgid "Enable Multi Select"
+msgstr "Habilitar selección múltiple"
+
+msgid "Enable Multiple Reviews"
+msgstr "Habilitar reseñas múltiples "
+
+msgid "Enable Price Search"
+msgstr "Habilitar búsqueda de precios"
+
+msgid "Enable Search"
+msgstr "Habilitar búsqueda"
+
+msgid "Enable SMTP to Send Emails?"
+msgstr "¿Habilitar SMTP para enviar correos electrónicos?"
+
+msgid "Enable Upload"
+msgstr "Habilitar carga"
+
+msgid "Enable/Disable field title in booking form."
+msgstr "Habilitar/deshabilitar el campo de título en forma de reserva."
+
+msgid "Enable/Disable header location"
+msgstr "Habilitar/deshabilitar la ubicación del encabezado"
+
+msgid "Enable/Disable header restaurant type"
+msgstr "Habilitar/deshabilitar encabezado del tipo de pizzería"
+
+msgid "Enable/Disable sent email logs"
+msgstr "Habilitar/deshabilitar registros de correo electrónico enviados"
+
+msgid "Enter Booking Status"
+msgstr "Ingresa el estado de la reserva"
+
+msgid "Enter button url here."
+msgstr "Ingresa botón de URL aquí."
+
+msgid "Enter e-mail address.."
+msgstr "Introduce la dirección de correo electrónico.."
+
+msgid "Enter element restaurant_title here."
+msgstr "Ingresa elemento pizzeria_title aquí."
+
+msgid "Enter element sub title here."
+msgstr "Ingresa el subtítulo del elemento aquí."
+
+msgid "Enter element title here."
+msgstr "Ingresa el título del elemento aquí."
+
+msgid "Enter email address..."
+msgstr "Introduce la dirección de correo electrónico..."
+
+msgid "Enter Error Message In any case Mail Not Submited."
+msgstr "Ingresa el mensaje de error en cualquier caso el correo no enviado."
+
+msgid "Enter Label"
+msgstr "ENTRAR Etiqueta"
+
+msgid "Enter location here."
+msgstr "Ingresa la ubicación aquí."
+
+msgid "Enter Mail Successfully Send Message."
+msgstr "Ingresa el correo de envío con éxito."
+
+msgid "Enter Membership Title here."
+msgstr "Ingresa el título de membresía aquí."
+
+msgid "Enter order Status"
+msgstr "Ingresa el estado del pedido"
+
+msgid "Enter phone number here."
+msgstr "Ingresa el número de teléfono aquí."
+
+msgid "Enter Price here."
+msgstr "Ingresa el precio aquí."
+
+msgid "Enter price here."
+msgstr "Ingresa el precio aquí."
+
+msgid "Enter Restaurant Menu"
+msgstr "Ingresa la carta Pizzeria"
+
+msgid "Enter time here."
+msgstr "Ingresa el tiempo aquí."
+
+msgid "Enter Title here."
+msgstr "Ingresa el título aquí."
+
+msgid "Enter title here."
+msgstr "Ingresa el título aquí."
+
+msgid "Enter you complete address with city, state or country."
+msgstr "Ingresa tu dirección completa con ciudad, estado o país."
+
+msgid ""
+"Enter your email address below and we'll send you an email with instructions "
+"on how to change your password"
+msgstr ""
+"Ingresa tu dirección de correo electrónico a continuación y te enviaremos un "
+"correo electrónico con instrucciones sobre cómo cambiar tu contraseña"
+
+msgid "Enter your Smtp host here, It is name of your service provider"
+msgstr "Ingresa tu host SMTP aquí, es el nombre de tu proveedor de servicios"
+
+msgid "Enter your Smtp port here, e.g 25 or 465, This is generally 25."
+msgstr ""
+"Ingresa tu puerto SMTP aquí, por ejemplo, 25 o 465, esto es generalmente 25."
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "Error Code"
+msgstr "Código de error"
+
+msgid "Error Deleting file!"
+msgstr "Error de eliminación del archivo!"
+
+msgid "Error during file upload."
+msgstr "Error durante la carga del archivo."
+
+msgid "Error Message"
+msgstr "Mensaje de error"
+
+msgid "Error Restoring file!"
+msgstr "Error de restaurar el archivo!"
+
+msgid "ERROR Return Code:"
+msgstr "Código de retorno de error:"
+
+msgid "Error saving file!"
+msgstr "¡Archivo de ahorro de errores!"
+
+msgid "Error! There is some Problem."
+msgstr "¡Error! Hay algún problema."
+
+msgid "Error: Try Again?"
+msgstr "Error: ¿Vuelve a intentarlo?"
+
+msgid "Exact Location/Radius"
+msgstr "Ubicación exacta/radio"
+
+msgid "example 20"
+msgstr "Ejemplo 20"
+
+msgid "Expired"
+msgstr "Venció"
+
+msgid "Expired on:"
+msgstr "Vencido el:"
+
+msgid "Expiry"
+msgstr "Expiración"
+
+msgid "Expiry Date"
+msgstr "Fecha de caducidad"
+
+msgid "Export All Users"
+msgstr "Exportar a todos los usuarios"
+
+msgid "Export Options"
+msgstr "Opciones de exportación"
+
+msgid "Export Users"
+msgstr "Exportar usuarios"
+
+msgid ""
+"Ingresa tu dirección de correo electrónico a continuación y le enviaremos un "
+"correo electrónico con instrucciones sobre cómo cambiar tu contraseña"
+msgstr "Configuración de características adicionales"
+
+msgid "Extra Feature Title"
+msgstr "Título de la función adicional"
+
+msgid "Extra Fields"
+msgstr "Campos adicionales"
+
+msgid "Extra profile information"
+msgstr "Información de perfil adicional"
+
+msgid "Extra Type"
+msgstr "Tipo extra"
+
+msgid "Extras"
+msgstr "Extras"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Access Token"
+msgstr "Token de acceso de Facebook"
+
+msgid "Facebook Application ID"
+msgstr "ID de aplicación de Facebook"
+
+msgid "Facebook Login On/Off"
+msgstr "Facebook Iniciar sesión/Desactivar"
+
+msgid "Facebook Secret"
+msgstr "Secreto de Facebook"
+
+msgid "Fancy"
+msgstr "Lujoso"
+
+msgid "Fastest delivery"
+msgstr "Entrega más rápida"
+
+msgid "Feacherd only"
+msgstr "Sólo destacadas"
+
+msgid "Feature List"
+msgstr "Lista de destacadas"
+
+msgid "Feature Restaurant"
+msgstr "Pizzería destacada"
+
+msgid "Feature Settings"
+msgstr "Configuración de características"
+
+msgid "Feature Title"
+msgstr "Título destacado"
+
+msgid "Featured"
+msgstr "Destacadas"
+
+msgid "Featured Restaurant"
+msgstr "Pizzería destacada"
+
+msgid "Featured Restaurant Image"
+msgstr "Imagen de pizzería destacada"
+
+msgid "Featured Restaurants"
+msgstr "Pizzerías destacadas"
+
+msgid "Features"
+msgstr "Características"
+
+msgid "Feel Like Eating"
+msgstr "Algún estilo de Pizza?"
+
+msgid "field"
+msgstr "campo"
+
+msgid "Field Name is Required"
+msgstr "Se requiere el nombre del campo"
+
+msgid "Field name is required."
+msgstr "Se requiere el nombre del campo."
+
+msgid "Field Size"
+msgstr "Tamaño del campo"
+
+msgid "Field Title"
+msgstr "Título de campo"
+
+msgid "Field Type"
+msgstr "Tipo de campo"
+
+msgid "File"
+msgstr "Expediente"
+
+msgid "File '%s' Deleted Successfully"
+msgstr "Archivo '%s' eliminado con éxito"
+
+msgid "File '%s' Restore Successfully"
+msgstr "El archivo '%s' restaurado correctamente"
+
+msgid "File '%s' Restored Successfully"
+msgstr "Archivo '%s' restaurado con éxito"
+
+msgid "File Import Successfully"
+msgstr "Importación de archivos exitosa"
+
+msgid "File Imported Successfully"
+msgstr "Archivo importado correctamente"
+
+msgid "File Upload"
+msgstr "Subir archivo"
+
+msgid "File Upload: %s"
+msgstr "Carga de archivo: %s"
+
+msgid "File URL"
+msgstr "URL de archivo"
+
+msgid "Filter by"
+msgstr "Filtrado por"
+
+msgid "Filters By"
+msgstr "Filtros por"
+
+msgid "Financing Calculator"
+msgstr "Calculadora financiera"
+
+msgid "Financing calculator ON / OFF"
+msgstr "Calculadora de financiamiento encendida / apagada"
+
+msgid "Find On Map"
+msgstr "Encontrar en el mapa"
+
+msgid "Find on Map"
+msgstr "Encontrar en el mapa"
+
+msgid "First Name"
+msgstr "Primer nombre"
+
+msgid "First name"
+msgstr "Primer nombre"
+
+msgid "first name should not be empty"
+msgstr "El primer nombre no debe estar vacío"
+
+msgid "First Value"
+msgstr "Primer valor"
+
+msgid "Fixed redirect url for login"
+msgstr "URL de redirección fija para iniciar sesión"
+
+msgid "Flat Pale"
+msgstr "Pálido"
+
+msgid "Food Image"
+msgstr "Imagen de comida"
+
+msgid "Food Items"
+msgstr "Alimentos"
+
+msgid "Food Menu"
+msgstr "Carta"
+
+msgid "Foodbakery"
+msgstr "Foodbakery"
+
+msgid "Description of the plugin"
+msgstr "Descripción del complemento"
+
+msgid "Foodbakery Banner Ads"
+msgstr "Anuncios de banner de alimentos"
+
+msgid "Foodbakery Publisher"
+msgstr "FoodBakery Publisher"
+
+msgid "FOODBAKERY REGISTER OPTIONS"
+msgstr "Opciones de registro de FoodBakery"
+
+msgid "Foodbakery Restaurent Message"
+msgstr "Mensaje de pizzerías de FoodBakery"
+
+msgid "Foodbakery Settings"
+msgstr "Configuración de FoodBakery"
+
+msgid "Foodbakery: Banner Ads"
+msgstr "Foodbakery: anuncios de banner"
+
+msgid "Base ID"
+msgstr "ID de base"
+
+msgid "Foodbakery: Restaurent Message"
+msgstr "Foodbakery: mensaje de pizzerías"
+
+msgid "For cancellation or more infomation Please Contact Us"
+msgstr "Para la cancelación o más información, contáctenos"
+
+msgid "For the precise location, you can drag and drop the pin."
+msgstr "Para la ubicación precisa, puede arrastrar y soltar el pin."
+
+msgid "Forgot Password"
+msgstr "Has olvidado tu contraseña"
+
+msgid "Form Builder Fields"
+msgstr "Campos de construcción de formulario"
+
+msgid "Form Button Label"
+msgstr "Etiqueta de botón de formulario"
+
+msgid "Form Terms Label"
+msgstr "Etiqueta de términos de formulario"
+
+msgid "Form Terms Link"
+msgstr "Enlace de términos de formulario"
+
+msgid "Form Title"
+msgstr "Título de formulario"
+
+msgid "Free"
+msgstr "Libre"
+
+msgid "Free Restaurants Posting"
+msgstr "Publicación de pizzerías gratis"
+
+msgid "Fri"
+msgstr "Vie"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "Friday On?"
+msgstr "Viernes activo?"
+
+msgid "From"
+msgstr "De"
+
+msgid "From Date"
+msgstr "A partir de la fecha"
+
+msgid "Frontend Changeable"
+msgstr "Frontend cambiable"
+
+msgid "Frontend Location Parts"
+msgstr "Partes de ubicación frontend"
+
+msgid "Full Name"
+msgstr "Nombre completo"
+
+msgid "Full Name / Business Name"
+msgstr "Nombre completo / nombre comercial"
+
+msgid "Gallery"
+msgstr "Galería"
+
+msgid "Gallery Images"
+msgstr "Imágenes de la galería"
+
+msgid "Gateways"
+msgstr "Puertas de enlace"
+
+msgid "Gateways Settings"
+msgstr "Configuración de las puertas de enlace"
+
+msgid "General Info"
+msgstr "Información general"
+
+msgid "General Options"
+msgstr "Opciones generales"
+
+msgid "General Settings"
+msgstr "Configuración general"
+
+msgid "Generate Backup"
+msgstr "Generar copia de seguridad"
+
+msgid "Generated Files"
+msgstr "Archivos generados"
+
+msgid "Geo Location"
+msgstr "Geo localización"
+
+msgid "Get Access Token"
+msgstr "Obtener token de acceso"
+
+msgid "Getting Started Button"
+msgstr "Botón de inicio"
+
+msgid "give review"
+msgstr "Dejar reseña"
+
+msgid "Given Reviews"
+msgstr "Reseñas dadas"
+
+msgid "Good"
+msgstr "Bueno"
+
+msgid "Google"
+msgstr "Google"
+
+msgid "Google API key"
+msgstr "Clave de la API de Google"
+
+msgid "Google Client ID"
+msgstr "ID de cliente de Google"
+
+msgid "Google Client Secret"
+msgstr "Cliente secreto de Google"
+
+msgid "Google Login On/Off"
+msgstr "Iniciar sesión Google Activar/Desactivar"
+
+msgid "Google Plus"
+msgstr "Google Plus"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Guests"
+msgstr "Huéspedes"
+
+msgid "Header Button"
+msgstr "Botón de encabezado"
+
+msgid "Header Location"
+msgstr "Ubicación del encabezado"
+
+msgid "Header Restaurant Type"
+msgstr "Encabezado Tipo de pizzería"
+
+msgid "Header Restaurent Type"
+msgstr "Encabezado Tipo de pizzería"
+
+msgid "Heading"
+msgstr "Encabezado"
+
+msgid "Help Text"
+msgstr "Texto de ayuda"
+
+msgid "Herbert Map"
+msgstr "Mapa de Herbert"
+
+msgid ""
+"Here you can add VAT percentage according to your country laws & regulations."
+msgstr ""
+"Aquí puede agregar porcentaje de IVA de acuerdo con las leyes y regulaciones "
+"de tu país."
+
+msgid "Here you can add your Authorize.net IPN URL."
+msgstr ""
+"Aquí puedes agregar porcentaje de IVA de acuerdo con las leyes y "
+"regulaciones de tu país."
+
+msgid "Here you can add your PayPal IPN URL."
+msgstr "Aquí puedes agregar tu URL de PayPal IPN."
+
+msgid "Here you can add your Skrill-MoneryBooker IPN URL."
+msgstr "Aquí puedes agregar tu URL IPN Skrill-MoneryBooker."
+
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore Locations."
+msgstr ""
+"Aquí puedes generar/descargar copias de seguridad. También puedes usar estas "
+"copias de seguridad para restaurar las ubicaciones."
+
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore Restaurant type categories."
+msgstr ""
+"Aquí puedes generar/descargar copias de seguridad. También puedes usar estas "
+"copias de seguridad para restaurar las categorías de tipos de pizzeria."
+
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore settings."
+msgstr ""
+"Aquí puedes generar/descargar copias de seguridad. También puedes usar estas "
+"copias de seguridad para restaurar la configuración."
+
+msgid ""
+"Here you have to add your Facebook application ID. You will get this ID when "
+"you create Facebook App."
+msgstr ""
+"Aquí debes agregar tu ID de aplicación de Facebook. Obtendrás esta "
+"identificación cuando crees la aplicación de Facebook."
+
+msgid "Hi,"
+msgstr "Hola,"
+
+msgid ""
+"Hi, this is the %s plugin e-mailing you a test message from your WordPress "
+"blog."
+msgstr ""
+"Hola, este es el %s plugin que enviar mensaje de prueba desde tu blog wp."
+
+msgid "Highest Rating"
+msgstr "Calificación más alta"
+
+msgid "Home Featured Restaurant"
+msgstr "Inicio Pizzeria destacada"
+
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr "http://themeforest.net/user/chimpstudio/"
+
+msgid "URI of the plugin"
+msgstr "Uri del complemento"
+
+msgid "Author URI of the plugin"
+msgstr "Autor URI del complemento"
+
+msgid "i.e +1 321 828 6662"
+msgstr "Es decir, +1 321 828 6662"
+
+msgid "i.e 10"
+msgstr "Es decir 10"
+
+msgid "i.e 15"
+msgstr "Es decir 15"
+
+msgid "i.e 200"
+msgstr "Es decir 200"
+
+msgid "i.e Alard Willaim"
+msgstr "Es decir, Alard William"
+
+msgid "i.e alard@example.com"
+msgstr "i.elaard@example.com"
+
+msgid "i.e alardwillaim"
+msgstr "es decir, alardwillaim"
+
+msgid "i.e Pizza Hut"
+msgstr "es decir, Palacio de la pizza"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Icon Uploaded."
+msgstr "Icono cargado."
+
+msgid "Icy Blue"
+msgstr "Azul helado"
+
+msgid "Id"
+msgstr "Identificación"
+
+msgid "ID Number"
+msgstr "Número de identificación"
+
+msgid ""
+"If Set to \"Yes\" user can filter the restaurants from search based on this "
+"field."
+msgstr ""
+"Si se establece en \"Sí\", el usuario puede filtrar las pizzerías desde la "
+"búsqueda en función de este campo."
+
+msgid ""
+"If this switch set to ON new user will be auto approved. If switch is set to "
+"OFF admin will have to approve the new user."
+msgstr ""
+"Si este interruptor establecido en el nuevo usuario se aprobará "
+"automáticamente. Si Switch está configurado en OFF Admin tendrá que aprobar "
+"el nuevo usuario."
+
+msgid ""
+"If this switch will be OFF, no payment will be processed via Authorize.net."
+msgstr ""
+"Si este conmutador estará apagado, no se procesará ningún pago a través de "
+"Authorize.net."
+
+msgid ""
+"If this switch will be OFF, no payment will be processed via Bank Transfer."
+msgstr ""
+"Si este interruptor estará apagado, no se procesará ningún pago mediante "
+"transferencia bancaria."
+
+msgid "If this switch will be OFF, no payment will be processed via Paypal."
+msgstr ""
+"Si este interruptor estará apagado, no se procesará ningún pago a través de "
+"PayPal."
+
+msgid ""
+"If this switch will be OFF, no payment will be processed via Skrill-"
+"MoneyBooker."
+msgstr ""
+"Si este interruptor estará apagado, no se procesará ningún pago a través de "
+"Skrill-MoneyBooker."
+
+msgid ""
+"If you have a discount code,<br> you will be able to input it<br> at the "
+"payments stage."
+msgstr ""
+"Si tiene un código de descuento, <br> podrá ingresarlo <br> en la etapa de "
+"pagos."
+
+msgid "Ilustracao"
+msgstr "Ilustración"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Image Gallery"
+msgstr "Galería de imágenes"
+
+msgid "Image per Ad"
+msgstr "Imagen por anuncio"
+
+msgid "Image size should not exceed more than 1mb."
+msgstr "El tamaño de la imagen no debe exceder más de 1 MB."
+
+msgid "Images Gallery"
+msgstr "Galería de imágenes"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "import & export"
+msgstr "Importar y exportar"
+
+msgid "Import / Export Users"
+msgstr "Importar / Exportar usuarios"
+
+msgid "Import Locations"
+msgstr "Importar ubicaciones"
+
+msgid "Import Options"
+msgstr "Importar opciones"
+
+msgid "Import Restaurant Type Categories"
+msgstr "Importar categorías de tipo de pizzería"
+
+msgid "Import User Data"
+msgstr "Importar datos de usuario"
+
+msgid "Import Users"
+msgstr "Importar usuarios"
+
+msgid "Import Users Data"
+msgstr "Importar datos de usuarios"
+
+msgid "Import/Export Locations"
+msgstr "Importar / Exportar ubicaciones"
+
+msgid "Import/Export Restaurant Type Categories"
+msgstr "Importar / Exportar categorías de tipo de pizzería"
+
+msgid "In Content"
+msgstr "En el contenido"
+
+msgid "In Process"
+msgstr "En proceso"
+
+msgid ""
+"In this text box, you can add any help text whatever you want to show on "
+"front end for assistance of users regarding bank payment."
+msgstr ""
+"En este cuadro de texto, puedes agregar cualquier texto de ayuda que desees "
+"mostrar en la parte delantera para la ayuda de los usuarios con respecto al "
+"pago bancario."
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "Incomplete data."
+msgstr "Datos incompletos."
+
+msgid "Increament"
+msgstr "Incremento"
+
+msgid "Increment Step"
+msgstr "Paso de incremento"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Information *"
+msgstr "Información *"
+
+msgid "Input"
+msgstr "Input"
+
+msgid "Input + Slider"
+msgstr "Entrada + control deslizante"
+
+msgid ""
+"Input the Url from another location and hit Import Button to apply settings."
+msgstr ""
+"Ingresa la URL desde otra ubicación y presione el botón Importar para "
+"aplicar la configuración."
+
+msgid ""
+"Input the Url from another location and hit Import Button to import "
+"locations."
+msgstr ""
+"Ingresa la URL desde otra ubicación y presione el botón Importar para "
+"importar ubicaciones."
+
+msgid ""
+"Input the URL from another location and hit Import Button to import "
+"restaurant type categories."
+msgstr ""
+"Ingresa la URL desde otra ubicación y presione el botón Importar para "
+"importar categorías de tipos de pizzeria."
+
+msgid "Inquire Form ON / OFF"
+msgstr "Formulario de consulta encendido / apagado"
+
+msgid "Inquiry"
+msgstr "Consulta"
+
+msgid "inquiry"
+msgstr "consulta"
+
+msgid "Inquiry Form"
+msgstr "Formulario de consulta"
+
+msgid "Insert"
+msgstr "Insertar"
+
+msgid ""
+"Insert Twitter Access Token for permissions. When you create your Twitter "
+"App, you will get this Token"
+msgstr ""
+"Inserta el token de acceso de Twitter para permisos. Cuando crees tu "
+"aplicación de Twitter, obtendrás este token"
+
+msgid ""
+"Insert Twitter Access Token Secret here. When you create your Twitter App, "
+"you will get this Token"
+msgstr ""
+"Inserta el secreto de token de acceso de Twitter aquí. Cuando crees tu "
+"aplicación de Twitter, obtendrás este token"
+
+msgid ""
+"Insert Twitter Consumer Key here. When you create your Twitter App, you will "
+"get this key."
+msgstr ""
+"Inserta la llave del consumidor de Twitter aquí. Cuando crees tu aplicación "
+"de Twitter, obtendrás esta clave."
+
+msgid ""
+"Insert Twitter Consumer secret here. When you create your Twitter App, you "
+"will get this key."
+msgstr ""
+"Inserta el secreto del consumidor de Twitter aquí. Cuando crees tu "
+"aplicación de Twitter, obtendrás esta clave."
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Invalid current password"
+msgstr "Contraseña actual inválida"
+
+msgid "Invalid Data."
+msgstr "Datos inválidos."
+
+msgid "Invalid e-mail address."
+msgstr "Dirección de correo electrónico no válida."
+
+msgid "Invalid password."
+msgstr "Contraseña invalida."
+
+msgid "Invalid username or password."
+msgstr "Usuario o contraseña invalido."
+
+msgid "Invitation Link"
+msgstr "Enlace de invitación"
+
+msgid "Invitation Received"
+msgstr "Invitación recibida"
+
+msgid "Invitation successfully sent!"
+msgstr "¡Invitación enviada con éxito!"
+
+msgid "IP Address:"
+msgstr "Dirección IP:"
+
+msgid "ISO"
+msgstr "ISO"
+
+msgid "ISO Code"
+msgstr "Código ISO"
+
+msgid "Job Credit"
+msgstr "Crédito de trabajo"
+
+msgid "Job Settings"
+msgstr "Configuración de trabajo"
+
+msgid "Job Type Color"
+msgstr "Tipo de trabajo Color"
+
+msgid "Job(s)"
+msgstr "Trabajo(s)"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Large"
+msgstr "Largo"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "last name should not be empty"
+msgstr "El apellido no debe estar vacío"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "leave blank to leave unchanged"
+msgstr "dejar en blanco para dejar sin cambios"
+
+msgid "Left Filters"
+msgstr "Filtros izquierdos"
+
+msgid "Left Filters Counts"
+msgstr "Los filtros izquierdos cuentan"
+
+msgid "Less cuisines"
+msgstr "Menos cocinas"
+
+msgid "Light and Dark"
+msgstr "Luz y oscuridad"
+
+msgid "Light Blue Water"
+msgstr "Agua azul claro"
+
+msgid "Light Dream"
+msgstr "Sueño ligero"
+
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+msgid "Linkedin Access Token"
+msgstr "Token de acceso de LinkedIn"
+
+msgid "LinkedIn Application Id"
+msgstr "ID de aplicación de LinkedIn"
+
+msgid "Linkedin Secret"
+msgstr "Secreto de LinkedIn"
+
+msgid "Listed Phone Number"
+msgstr "Listado de número de teléfono"
+
+msgid "Load from IcoMoon selection.json"
+msgstr "Cargar desde la selección de Icomoon.json"
+
+msgid "Load Icon"
+msgstr "Icono de carga"
+
+msgid "Load Json"
+msgstr "Cargar json"
+
+msgid "Load More Reviews Option"
+msgstr "Cargar más opción de reseñas"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Location / Map"
+msgstr "Localización / Mapa"
+
+msgid "Location Coordinates"
+msgstr "Coordenadas de ubicación"
+
+msgid "Location Form Fields"
+msgstr "Campos de formulario de ubicación"
+
+msgid "Location's Fields"
+msgstr "Campos de ubicación"
+
+msgid "Location's Fields Selector"
+msgstr "Selector de campos de la ubicación"
+
+msgid "Location's Levels"
+msgstr "Niveles de ubicación"
+
+msgid "Location/Map"
+msgstr "Mapa de localización"
+
+msgid "Locations"
+msgstr "Ubicación"
+
+msgid "Locations Levels"
+msgstr "Niveles de ubicaciones"
+
+msgid "Locations Settings"
+msgstr "Configuración de ubicaciones"
+
+msgid "Log in"
+msgstr "Inicia tu sesión"
+
+msgid "Login"
+msgstr "Acceso"
+
+msgid "login"
+msgstr "acceso"
+
+msgid "Login / Register"
+msgstr "Inicia tu sesión / registrate"
+
+msgid "Login again to change password."
+msgstr "Inicia sesión nuevamente para cambiar la contraseña."
+
+msgid "Login error"
+msgstr "Error de inicio de sesión"
+
+msgid "Login Here"
+msgstr "Inicia sesión aquí"
+
+msgid "Login here"
+msgstr "Inicia sesión aquí"
+
+msgid "Login Id"
+msgstr "Ingresa tu identificación"
+
+msgid "Login Page"
+msgstr "Página de inicio de sesión"
+
+msgid "Login Successfully..."
+msgstr "Inicio de sesión con éxito ..."
+
+msgid "Login To Your Account"
+msgstr "Ingresa a tu cuenta"
+
+msgid "Login with"
+msgstr "Inicia sesión con"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Loops"
+msgstr "Bucles"
+
+msgid "Lowest Rating"
+msgstr "Calificación más baja"
+
+msgid "Mailer Response"
+msgstr "Respuesta del correo"
+
+msgid "Mailing Information"
+msgstr "Información por correo"
+
+msgid ""
+"Manage user registration via Facebook here. If this switch is set ON, users "
+"will be able to sign up / sign in with Facebook. If it will be OFF, users "
+"will not be able to register / sign in through Facebook."
+msgstr ""
+"Administra el registro del usuario a través de Facebook aquí. Si este "
+"interruptor está configurado, los usuarios podrán registrarse / iniciar "
+"sesión con Facebook. Si estará apagado, los usuarios no podrán registrarse / "
+"iniciar sesión a través de Facebook."
+
+msgid ""
+"Manage user registration via Google here. If this switch is set ON, users "
+"will be able to sign up / sign in with Google. If it will be OFF, users will "
+"not be able to register / sign in through Google."
+msgstr ""
+"Administra el registro de usuarios a través de Google aquí. Si este "
+"interruptor está configurado, los usuarios podrán registrarse / iniciar "
+"sesión con Google. Si estará apagado, los usuarios no podrán registrarse / "
+"iniciar sesión a través de Google."
+
+msgid ""
+"Manage user registration via Twitter here. If this switch is set ON, users "
+"will be able to sign up / sign in with Twitter. If it will be OFF, users "
+"will not be able to register / sign in through Twitter."
+msgstr ""
+"Administra el registro del usuario a través de Twitter aquí. Si este "
+"interruptor está configurado, los usuarios podrán registrarse / iniciar "
+"sesión con Twitter. Si estará apagado, los usuarios no podrán registrarse / "
+"iniciar sesión a través de Twitter."
+
+msgid ""
+"Manage your captcha code for secured Signup here. If this switch will be ON, "
+"user can register after entering Captcha code. It helps to avoid robotic / "
+"spam sign-up"
+msgstr ""
+"Administra tu código CAPTCHA para el registro seguro aquí. Si este "
+"conmutador estará encendido, el usuario puede registrarse después de "
+"ingresar el código CaptCha. Ayuda a evitar el registro robótico / spam"
+
+msgid "Manager Contact phone"
+msgstr "Teléfono de contacto del gerente"
+
+msgid "Manager Name"
+msgstr "Nombre del gerente"
+
+msgid "Map Box"
+msgstr "Caja de mapa"
+
+msgid "Map Cluster Icon"
+msgstr "Icono de clúster de mapa"
+
+msgid "Map Marker Icon"
+msgstr "Icono de marcador de mapa"
+
+msgid "Map Marker Image"
+msgstr "Imagen del marcador de mapa"
+
+msgid "Map Settings"
+msgstr "Configuración de mapa"
+
+msgid "Map Style"
+msgstr "Estilo de mapa"
+
+msgid "Map View"
+msgstr "Vista del mapa"
+
+msgid "Max characters:"
+msgstr "Máximo de caractéres:"
+
+msgid "Max Range"
+msgstr "Rango máximo"
+
+msgid "Maximum Delivery Order"
+msgstr "Orden de entrega máxima"
+
+msgid "Maximum Pickup Order"
+msgstr "Orden máximo de recogida"
+
+msgid "Maximum Value"
+msgstr "Valor máximo"
+
+msgid "Me"
+msgstr "Yo"
+
+msgid "Media Element"
+msgstr "Elemento de medios"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Membership"
+msgstr "Afiliación"
+
+msgid "Membership Detail"
+msgstr "Detalle de membresía"
+
+msgid "Membership :"
+msgstr "Afiliación :"
+
+msgid "Membership Additional Fields"
+msgstr "Membresía campos adicionales"
+
+msgid "Membership Duration"
+msgstr "Duración de membresía"
+
+msgid "Membership Duration ( Days )"
+msgstr "Duración de membresía (días)"
+
+msgid "Membership Expired"
+msgstr "Membresía expiró"
+
+msgid "Membership Expiry"
+msgstr "Membresía Vencida"
+
+msgid "Membership Expiry Date"
+msgstr "Fecha de vencimiento de la membresía"
+
+msgid "Membership Featured"
+msgstr "Membresía presentada"
+
+msgid "Membership Field"
+msgstr "Campo de membresía"
+
+msgid "Membership Id"
+msgstr "ID de membresía"
+
+msgid "Membership Info"
+msgstr "Información de membresía"
+
+msgid "Membership Name"
+msgstr "Nombre de membresía"
+
+msgid "Membership name"
+msgstr "Nombre de membresía"
+
+msgid "Membership Options"
+msgstr "Opciones de membresía"
+
+msgid "Membership Order Id"
+msgstr "ID de orden de membresía"
+
+msgid "Membership Order Options"
+msgstr "Opciones de orden de membresía"
+
+msgid "Membership Orders"
+msgstr "Órdenes de membresía"
+
+msgid "Membership Purchased"
+msgstr "Membresía comprada"
+
+msgid "Membership Settings"
+msgstr "Configuración de membresía"
+
+msgid "Membership Subscribe Action"
+msgstr "Membresía suscribir acción"
+
+msgid "Membership subscribed successfully."
+msgstr "Membresía suscrita con éxito."
+
+msgid "Membership Title"
+msgstr "Título de membresía"
+
+msgid "Membership Type"
+msgstr "Tipo de membresía"
+
+msgid "Membership Updated."
+msgstr "Membresía actualizada."
+
+msgid "Membership Used Restaurant"
+msgstr "Membresía pizzeria"
+
+msgid "Membership User"
+msgstr "Usuario de membresía"
+
+msgid "Memberships"
+msgstr "Membresías"
+
+msgid "Memberships Detail Page"
+msgstr "Página de detalles de membresías"
+
+msgid "Memberships Order"
+msgstr "Pedido de membresías"
+
+msgid "Menu"
+msgstr "Carta"
+
+msgid "Menu Builder"
+msgstr "Carta"
+
+msgid "Menu Categories"
+msgstr "Categorías de carta"
+
+msgid "Menu category added successfully."
+msgstr "Categoría de carta agregada correctamente."
+
+msgid "Menu Category Title"
+msgstr "Título de la categoría de carta"
+
+msgid "Menu item added successfully"
+msgstr "Elemento de carta agregado correctamente"
+
+msgid "Menu Item Description test"
+msgstr "Descripción de prueba de elemento de menú"
+
+msgid "Menu item extra added successfully"
+msgstr "Elemento de carta adicional agregado correctamente"
+
+msgid "Menu Item Price"
+msgstr "Precio del elemento de la carta"
+
+msgid "Menu Item Title"
+msgstr "Título del elemento de la carta"
+
+msgid "Menu item updated successfully"
+msgstr "Elemento de carta actualizado correctamente"
+
+msgid "Menu Items"
+msgstr "Elementos de carta"
+
+msgid "Menu Location"
+msgstr "Ubicación de la carta"
+
+msgid "Menu Name *"
+msgstr "Nombre de la carta *"
+
+msgid "Menu Order Options"
+msgstr "Opciones de pedido de carta"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Message should have more than 50 characters"
+msgstr "El mensaje debe tener más de 50 caracteres"
+
+msgid "Meta Key"
+msgstr "Meta clave"
+
+msgid "Miles"
+msgstr "Millas"
+
+msgid "Min characters:"
+msgstr "Min caracteres:"
+
+msgid "Min Order"
+msgstr "Pedido mínimo"
+
+msgid "Min Range"
+msgstr "Rango mínimo"
+
+msgid "Minimum Delivery Order"
+msgstr "Pedido mínimo de entrega"
+
+msgid "Minimum Order Value"
+msgstr "Valor de pedido mínimo"
+
+msgid "Minimum order value"
+msgstr "Valor de pedido mínimo"
+
+msgid "Minimum Pickup Order"
+msgstr "Orden mínimo de recogida"
+
+msgid "Minimum Value"
+msgstr "Valor mínimo"
+
+msgid "Mismatch Password fields."
+msgstr "Los campos de contraseña no coinciden."
+
+msgid "Modern"
+msgstr "Moderno"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Monday"
+msgstr "Lunes"
+
+msgid "Monday On?"
+msgstr "Lunes activo?"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Months"
+msgstr "Meses"
+
+msgid "More Advance Filter"
+msgstr "Filtro más avanzado"
+
+msgid "Moret"
+msgstr "Moret"
+
+msgid "Mostly Used Tags"
+msgstr "Etiquetas principalmente usadas"
+
+msgid "Move to trash"
+msgstr "Mover a la papelera"
+
+msgid "Multi Select"
+msgstr "Selección múltiple"
+
+msgid "Multiple (CheckBoxes)"
+msgstr "Múltiples (casillas de verificación)"
+
+msgid "My Bookings"
+msgstr "Mis reservas"
+
+msgid "My location"
+msgstr "Mi ubicación"
+
+msgid "My Orders"
+msgstr "Mis órdenes"
+
+msgid "My Profile"
+msgstr "Mi perfil"
+
+msgid "My Restaurant"
+msgstr "Mi Pizzería"
+
+msgid "My Restaurants"
+msgstr "Mis Pizzerías"
+
+msgid "My Reviews"
+msgstr "Mis reseñas"
+
+msgid "My Shortlisted Restaurants"
+msgstr "Mis pizzerías favoritas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name *"
+msgstr "Nombre *"
+
+msgid "Name :"
+msgstr "Nombre :"
+
+msgid "Name already exist."
+msgstr "El nombre ya existe."
+
+msgid "Name already exists"
+msgstr "Nombre ya existe"
+
+msgid "Name Available."
+msgstr "Nombre disponible."
+
+msgid "New Currency Item"
+msgstr "Nuevo artículo de moneda"
+
+msgid "New Email"
+msgstr "Nuevo correo electrónico"
+
+msgid "New Here?"
+msgstr "¿Nuevo aquí?"
+
+msgid "New Location"
+msgstr "Nueva ubicación"
+
+msgid "New Location Name"
+msgstr "Nuevo nombre de ubicación"
+
+msgid "New Membership Order Item"
+msgstr "Nuevo artículo de orden de membresía"
+
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+msgid "New password and confirm password does not match"
+msgstr "Nueva contraseña y confirmar la contraseña no coinciden"
+
+msgid "New password should not be empty"
+msgstr "Nueva contraseña no debe estar vacía"
+
+msgid "New Restaurant Item"
+msgstr "Nuevo artículo de pizzería"
+
+msgid "New Review"
+msgstr "Nueva reseña"
+
+msgid "New Tag Name"
+msgstr "Nuevo nombre de la etiqueta"
+
+msgid "New Transaction Item"
+msgstr "Nuevo elemento de transacción"
+
+msgid "New Withdrawal"
+msgstr "Nuevo retiro"
+
+msgid "Newest Reviews"
+msgstr "Reseñas más recientes"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Nill"
+msgstr "Altillo"
+
+msgid "No"
+msgstr "No"
+
+msgid "No Custom Field Found"
+msgstr "No se encontró un campo personalizado"
+
+msgid "No emails found in Trash."
+msgstr "No se encuentran correos electrónicos en la basura."
+
+msgid "No emails found."
+msgstr "No se encontraron correos electrónicos."
+
+msgid "No Icon added."
+msgstr "No se agregó ningún icono."
+
+msgid "No location found"
+msgstr "No se encontró una ubicación"
+
+msgid "No locations found."
+msgstr "No se encontraron ubicaciones."
+
+msgid "No Menu Category added."
+msgstr "No se agregó categoría de carta."
+
+msgid "No Menu Items added."
+msgstr "No se agregaron elementos de carta."
+
+msgid "No of CV's"
+msgstr "No de CV"
+
+msgid "No of Pictures Allowed"
+msgstr "Número de fotos permitidas"
+
+msgid "No of Restaurants in Membership"
+msgstr "Número de pizzerías en la membresía"
+
+msgid "No off days added."
+msgstr "No se agregaron días libres."
+
+msgid "No permissions to upload file"
+msgstr "No hay permisos para cargar archivo"
+
+msgid "No Posts found"
+msgstr "No se han encontrado publicaciones"
+
+msgid "No Publisher"
+msgstr "No editor"
+
+msgid "No recored found"
+msgstr "No se encontró el recurrido"
+
+msgid "No restaurant Found."
+msgstr "No se encontró pizzería."
+
+msgid "No reviews found in Trash."
+msgstr "No se encuentran reseñas en la basura."
+
+msgid "No reviews found."
+msgstr "No se encontraron reseñas."
+
+msgid "No statement found."
+msgstr "No se encontró ninguna declaración."
+
+msgid "No user was successfully imported%s."
+msgstr "Ningún usuario fue importado con éxito%s."
+
+msgid "No withdrawals found in Trash."
+msgstr "No se encontraron retiros en la basura."
+
+msgid "No withdrawals found."
+msgstr "No se encontraron retiros."
+
+msgid "No withdrawls requests found."
+msgstr "No se encontraron solicitudes de retiros."
+
+msgid "No, Cancel"
+msgstr "No, cancelar"
+
+msgid "None"
+msgstr "Ninguna"
+
+msgid "Not Approved Buyer Profile"
+msgstr "Perfil del comprador no aprobado"
+
+msgid "Not Approved Publisher Profile"
+msgstr "Perfil del editor no aprobado"
+
+msgid "Not found"
+msgstr "Extraviado"
+
+msgid "Nothing found"
+msgstr "Nada Encontrado"
+
+msgid "Nothing found in Trash"
+msgstr "Nada encontrado en la basura"
+
+msgid ""
+"Notice: please make the foodbakery %s writable so that you can see the error "
+"log."
+msgstr ""
+"Aviso: haga que FoodBakery %s sea escrita para que pueda ver el registro de "
+"errores."
+
+msgid "Notification"
+msgstr "Notificación"
+
+msgid "NUMBER"
+msgstr "NÚMERO"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Number of Banners"
+msgstr "Número de banners"
+
+msgid "Number of Documents"
+msgstr "Número de documentos"
+
+msgid "Number of Pictures"
+msgstr "Número de fotos"
+
+msgid "Number of Pictures Allowed"
+msgstr "Número de imágenes permitidas"
+
+msgid "Number of Restaurant"
+msgstr "Número de pizzería"
+
+msgid "Number of reviews to list"
+msgstr "Número de reseñas a la lista"
+
+msgid "Number of Services"
+msgstr "Número de servicios"
+
+msgid "Number of suggestions to show"
+msgstr "Número de sugerencias para mostrar"
+
+msgid "Number of Tags"
+msgstr "Número de etiquetas"
+
+msgid "Number of Tags Allowed"
+msgstr "Número de etiquetas permitidas"
+
+msgid "Number: %s"
+msgstr "Número: %s"
+
+msgid "Nutritional Information icons"
+msgstr "Iconos de información nutricional"
+
+msgid "of"
+msgstr "de"
+
+msgid "of diners recommend this restaurant"
+msgstr "la recomiendan"
+
+msgid "off"
+msgstr "apagado"
+
+msgid "Off day added to List."
+msgstr "Día libre agregado a la lista."
+
+msgid "Off Days"
+msgstr "Días libres"
+
+msgid "Old Password is incorrect."
+msgstr "Antigua contraseña es incorrecta."
+
+msgid "on"
+msgstr "en"
+
+msgid "One Time"
+msgstr "Una vez"
+
+msgid "Only a restaurant can subscribe a Membership."
+msgstr "Sólo una pizzería puede suscribir una membresía."
+
+msgid ""
+"Only check this if you are experiencing problems and would like more error "
+"reporting to occur. Uncheck this once you have finished debugging."
+msgstr ""
+"Sólo verifica esto si estás experimentando problemas y deseas que ocurran "
+"más informes de errores. Desactivar esto una vez que hayas terminado de "
+"depurar."
+
+msgid ""
+"Only customers can order to this, you cannot order to your own restaurant."
+msgstr ""
+"Sólo los clientes pueden ordenar esto, no puedes ordenar a tu propia "
+"pizzería."
+
+msgid "Only customers can write reviews"
+msgstr "Sólo los clientes pueden escribir reseñas"
+
+msgid "Only numbers are allowed"
+msgstr "Sólo se permiten números"
+
+msgid "Oops something went wrong updating your account."
+msgstr "Vaya, algo salió mal actualizando tu cuenta."
+
+msgid "Open"
+msgstr "Abierto"
+
+msgid "Open Now"
+msgstr "Abierto ahora"
+
+msgid "Open/Close Filter"
+msgstr "Filtro abierto/cerrado"
+
+msgid "Opening Hour Time Laps ( In Minutes )"
+msgstr "Laps de hora de la hora de apertura (en minutos)"
+
+msgid "Opening Hours"
+msgstr "Horario de apertura"
+
+msgid "Opening Status"
+msgstr "Estado de apertura"
+
+msgid "Opening Time"
+msgstr "Hora de apertura"
+
+msgid "Opens at"
+msgstr "Abre a las "
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "OR"
+msgstr "Ó"
+
+msgid "Order"
+msgstr "Ordenar"
+
+msgid "order"
+msgstr "ordenar"
+
+msgid "Order - %s"
+msgstr "Pedidos - %s"
+
+msgid "Order Detail"
+msgstr "Detalle de la orden"
+
+msgid "Order detail"
+msgstr "Detalle de la orden"
+
+msgid "Order ID"
+msgstr "ID del pedido"
+
+msgid "Order Id"
+msgstr "ID del pedido"
+
+msgid "Order id"
+msgstr "ID del pedido"
+
+msgid "Order ID:"
+msgstr "ID del pedido:"
+
+msgid "Order Now"
+msgstr "Ordenar ahora"
+
+msgid "Order Review"
+msgstr "Reseña del pedido"
+
+msgid "Order Status"
+msgstr "Estado de pedido"
+
+msgid "Order status has been changed."
+msgstr "El estado del pedido ha sido cambiado."
+
+msgid "Order status not changed."
+msgstr "El estado del pedido no ha cambiado."
+
+msgid "Order Status:"
+msgstr "Estado del pedido:"
+
+msgid "Order Summary"
+msgstr "Resumen de pedido"
+
+msgid "Order Total"
+msgstr "Total del pedido"
+
+msgid "Order Type"
+msgstr "Tipo de orden"
+
+msgid "Order User"
+msgstr "Pedido de usuario"
+
+msgid "Order/Inquiry"
+msgstr "Pedido/consulta"
+
+msgid "Order/Inquiry User"
+msgstr "Pedido/consulta usuario"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Orders / Inquiries"
+msgstr "Pedidos"
+
+msgid "Orders Statuses"
+msgstr "Estado de pedidos"
+
+msgid "Orders/Bookings"
+msgstr "Pedidos/reservas"
+
+msgid "Orders/Bookings Status"
+msgstr "Estado de pedidos/reservas"
+
+msgid "Orders/Inquiries"
+msgstr "Pedidos"
+
+msgid "Orders/Inquiries Options"
+msgstr "Opciones de pedidos/consultas"
+
+msgid "Organization"
+msgstr "Organización"
+
+msgid "Other Detail"
+msgstr "Otro detalle"
+
+msgid "Other Features"
+msgstr "Otras características"
+
+msgid "Other Information"
+msgstr "Otra información"
+
+msgid "Others"
+msgstr "Otros"
+
+msgid "Out standing"
+msgstr "Sobresaliente"
+
+msgid "Overall Rating"
+msgstr "Calificación general"
+
+msgid "Overall rating"
+msgstr "Calificación general"
+
+msgid "Overview %s"
+msgstr "Descripción general %s"
+
+msgid "Owner of the restaurent is not allowed to add review."
+msgstr "El propietario de la pizzería no puede agregar una reseña."
+
+msgid "Package - %s"
+msgstr "Paquete - %s"
+
+msgid "Page Elements"
+msgstr "Elementos de página"
+
+msgid "Page Settings"
+msgstr "Configuración de página"
+
+msgid "Pagination"
+msgstr "Paginación"
+
+msgid "Paid"
+msgstr "Pagado"
+
+msgid "Parent Cuisine"
+msgstr "Cocina matriz"
+
+msgid "Parent Cuisine Clone"
+msgstr "Clon de cocina matriz"
+
+msgid "Parent Emails:"
+msgstr "Correos electrónicos principales:"
+
+msgid "Parent Location"
+msgstr "Ubicación principal"
+
+msgid "Parent Location:"
+msgstr "Ubicación principal:"
+
+msgid "Parent Tag"
+msgstr "Etiqueta matriz"
+
+msgid "Parent Withdrawals:"
+msgstr "Retiros principales:"
+
+msgid "Password"
+msgstr "Clave"
+
+msgid "Password and confirm password did not matched"
+msgstr "Contraseña y confirmar la contraseña no coincidió"
+
+msgid "Password Change"
+msgstr "Cambio de contraseña"
+
+msgid "Password Changed."
+msgstr "Contraseña cambiada."
+
+msgid "Password field is empty."
+msgstr "El campo de contraseña está vacío."
+
+msgid "Password is incorrect."
+msgstr "La contraseña es incorrecta."
+
+msgid "Password nag"
+msgstr "Contraseña NAG"
+
+msgid "Password should not be empty."
+msgstr "La contraseña no debe estar vacía."
+
+msgid "Password:"
+msgstr "Clave:"
+
+msgid "Pay with %s"
+msgstr "Pagar con %s"
+
+msgid "Payment Gateway"
+msgstr "Pasarela"
+
+msgid "Payment Information"
+msgstr "Información del pago"
+
+msgid "Payment Methods"
+msgstr "Métodos de pago"
+
+msgid "Payment Status:"
+msgstr "Estado de pago:"
+
+msgid "Payment Text"
+msgstr "Texto de pago"
+
+msgid "Paypal Business Email"
+msgstr "Correo electrónico comercial de PayPal"
+
+msgid "Paypal Ipn Url"
+msgstr "URL de PayPal IPN"
+
+msgid "Paypal Sandbox"
+msgstr "PayPal Sandbox"
+
+msgid "Paypal Settings"
+msgstr "Configuración de PayPal"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Pending Reviews"
+msgstr "Reseñas pendientes"
+
+msgid "People Served"
+msgstr "Personas atendidas"
+
+msgid "Per Head"
+msgstr "Por cabeza"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "phone"
+msgstr "teléfono"
+
+msgid "Phone No"
+msgstr "Número de teléfono"
+
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+msgid "Phone Number *"
+msgstr "Número de teléfono *"
+
+msgid "Phone Number :"
+msgstr "Número de teléfono :"
+
+msgid "Phone number should not be empty"
+msgstr "El número de teléfono no debe estar vacío"
+
+msgid "Photo Gallery"
+msgstr "Galería de fotos"
+
+msgid "Pick Up Fee:"
+msgstr "Tarifa de recogida:"
+
+msgid "Pick Up in %s Minutes"
+msgstr "Recoger en %s minutos"
+
+msgid "Pick Up Time:"
+msgstr "Hora de recogida:"
+
+msgid "Pick-Up"
+msgstr "Recogida"
+
+msgid "Pickup"
+msgstr "Recogida"
+
+msgid "PickUp Fee"
+msgstr "Tarifa de recogida"
+
+msgid "Pickup fee"
+msgstr "Tarifa de recogida"
+
+msgid "PickUp Time"
+msgstr "Hora de recogida"
+
+msgid "Pickup time"
+msgstr "Hora de recogida"
+
+msgid "Pinterest"
+msgstr "Pinterest"
+
+msgid "Place Holder"
+msgstr "Marcador de posición"
+
+msgid ""
+"Please add text for announcement description that shows at buyer dashboard ."
+msgstr ""
+"Agrega el texto para la descripción del anuncio que se muestra en el panel "
+"de control del comprador."
+
+msgid ""
+"Please add text for announcement description that shows at restaurant "
+"dashboard ."
+msgstr ""
+"Agrega el texto para la descripción del anuncio que se muestra en el panel "
+"de control de la pizzería"
+
+msgid "Please add text for announcement title that shows at buyer dashboard ."
+msgstr ""
+"Agrega texto para el título de anuncio que se muestra en el panel de control "
+"del comprador."
+
+msgid ""
+"Please add text for announcement title that shows at restaurant dashboard ."
+msgstr ""
+"Agrega texto para el título de anuncio que se muestra en el panel de control "
+"de la pizzería"
+
+msgid "Please Banner Code here"
+msgstr "Por favor, el código de banner aquí"
+
+msgid "Please check and accept Terms and Conditions to Register Successfully."
+msgstr ""
+"Verifica y acepta términos y condiciones para registrarte correctamente."
+
+msgid "Please check facebook account developers settings."
+msgstr ""
+"Consulta la configuración de los desarrolladores de cuentas de Facebook."
+
+msgid "Please check your email for login details."
+msgstr ""
+"Consulta tu correo electrónico para obtener detalles de inicio de sesión."
+
+msgid "Please create user profile."
+msgstr ""
+"Aquí debes agregar tu ID de aplicación de Facebook. Obtendrás esta "
+"identificación cuando crees la aplicación de Facebook."
+
+msgid "Please enter Banner Type"
+msgstr "Ingresa el tipo de banner"
+
+msgid "Please enter a valid email address."
+msgstr "Por favor, introduce una dirección de correo electrónico válida."
+
+msgid "Please enter a valid email."
+msgstr "Por favor introduce una dirección de correo electrónico válida."
+
+msgid ""
+"Please enter a valid username. You can only enter alphanumeric value and "
+"only ( _ ) longer than or equals 5 chars"
+msgstr ""
+"Ingresa un nombre de usuario válido. Solo puedes ingresar valores "
+"alfanuméricos y debe ser de 5 o más caracteres"
+
+msgid ""
+"Please enter a valid Username. You can only enter alphanumeric value and "
+"only ( _ ) longer than or equals 5 chars."
+msgstr ""
+"Ingresa un nombre de usuario válido. Solo puede ingresar el valor "
+"alfanumérico y solo (_) más tiempo o igual a 5 caracteres."
+
+msgid "Please enter a value less than number of restaurant Allowed"
+msgstr "Ingresa un valor inferior al número de pizzerías permitidas"
+
+msgid "Please enter Banner Ad sense Code"
+msgstr "Ingresa el código de sentido de anuncio de banner"
+
+msgid "Please enter Banner Title"
+msgstr "Por favor ingresa el título de banner"
+
+msgid "Please enter email."
+msgstr "Ingresa el correo electrónico."
+
+msgid "Please enter email.</span><br/>"
+msgstr "Ingresa el correo electrónico. </span> <br/>"
+
+msgid "Please enter Meta Key without special character and space."
+msgstr "Ingresa Meta Key sin carácter especial y espacio."
+
+msgid "Please enter Meta Key without special characters and spaces"
+msgstr "Ingresa la meta clave sin caracteres y espacios especiales"
+
+msgid "Please enter name."
+msgstr "Por favor ingresa el nombre."
+
+msgid "Please enter name.</span>"
+msgstr "Ingresa el nombre. </span>"
+
+msgid "Please enter valid amount."
+msgstr "Ingresa la cantidad válida."
+
+msgid "Please enter valid price."
+msgstr "Ingresa el precio válido."
+
+msgid ""
+"Please enter your correct email and we will send you a password on that "
+"email."
+msgstr "Vaya, algo salió mal actualizando tu cuenta."
+
+msgid "Please fill the compulsory fields first."
+msgstr "Por favor, llena primero los campos obligatorios."
+
+msgid "Please Insert Item"
+msgstr "Por favor inserta el artículo"
+
+msgid "Please Login as Buyer to Place an Order."
+msgstr "Inicia sesión como comprador para realizar un pedido."
+
+msgid "Please login in order to post review."
+msgstr "Inicia sesión para publicar la reseña."
+
+msgid "Please logout first then try to login again"
+msgstr ""
+"Por favor, cierra sesión primero y luego intenta iniciar sesión nuevamente"
+
+msgid "Please logout first then try to registration again"
+msgstr ""
+"Por favor, cierra sesión primero y luego intenta registrarte nuevamente"
+
+msgid "Please Number of Banners here"
+msgstr "Por favor, número de banners aquí"
+
+msgid "Please provide Delivery Time in minutes."
+msgstr "Proporciona tiempo de entrega en minutos."
+
+msgid "Please provide description of your review."
+msgstr "Proporciona una descripción de tu reseña."
+
+msgid "Please provide email address"
+msgstr "Proporciona la dirección de correo electrónico"
+
+msgid "Please provide full name."
+msgstr "Proporciona nombre completo."
+
+msgid "Please provide google captcha API keys"
+msgstr "Proporciona las claves de la API de Google Captcha"
+
+msgid "Please provide PickUp Time in minutes."
+msgstr "Proporciona tiempo de recogida en minutos."
+
+msgid "Please provide title of your review."
+msgstr "Proporciona el título de tu reseña."
+
+msgid "Please provide valid email address."
+msgstr "Proporciona una dirección de correo electrónico válida."
+
+msgid "Please put number of suggestions."
+msgstr "Introduce un número de sugerencias."
+
+msgid "Please Select"
+msgstr "Porfavor elige"
+
+msgid "Please Select Banner Style"
+msgstr "Selecciona el estilo de banner"
+
+msgid "Please select a package."
+msgstr "--Selecciona Pizzería--"
+
+msgid "Please select a page"
+msgstr "Selecciona una página"
+
+msgid ""
+"Please select a page for package details. This page is set in page template "
+"drop down. To create publisher dashboard page, go to Pages > Add new page, "
+"set the page template to 'publisher' in the right menu."
+msgstr ""
+"Selecciona una página para los detalles del paquete. Esta página está "
+"configurada en la plantilla de página desplegable. Para crear la página del "
+"panel de control del editor, vaya a páginas> Agregar nueva página, configure "
+"la plantilla de página en 'editor' en la carta correcto."
+
+msgid "Please select a user for buyer login"
+msgstr "Selecciona un usuario para el inicio de sesión del comprador"
+
+msgid "Please select a user for restaurant login"
+msgstr "Selecciona un usuario para el inicio de sesión de pizzería"
+
+msgid "Please select atleast one option for"
+msgstr "Selecciona al menos una opción para"
+
+msgid "Please Select Banner Image"
+msgstr "Selecciona la imagen de banner"
+
+msgid "Please select Banner Link Target"
+msgstr "Selecciona el objetivo del enlace de banner"
+
+msgid "Please Select Buyer"
+msgstr "Selecciona el comprador"
+
+msgid "Please Select Captcha Field"
+msgstr "Selecciona el campo Captcha"
+
+msgid "Please select captcha field."
+msgstr "Selecciona el campo Captcha"
+
+msgid "Please Select categories"
+msgstr "Selecciona categorías"
+
+msgid "Please Select Cousines from plugin options"
+msgstr "Selecciona Cousines de las opciones de complemento"
+
+msgid "Please Select element view."
+msgstr "Selecciona la vista del elemento."
+
+msgid "Please select Required menu items."
+msgstr "Selecciona los elementos de la carta requeridos."
+
+msgid "Please Select Restaurant"
+msgstr "Selecciona Pizzería"
+
+msgid "Please Select Specialism"
+msgstr "Selecciona la especialidad"
+
+msgid "Please Select specialism"
+msgstr "Selecciona la especialidad"
+
+msgid "Please select your desired location"
+msgstr "Selecciona la ubicación deseada"
+
+msgid "Please select.."
+msgstr "Selecciona .."
+
+msgid "Please set API key"
+msgstr "Establecela tecla API"
+
+msgid ""
+"Please transfer amount To this account, After payment Received we will "
+"process your Order"
+msgstr ""
+"Transfiere el monto a esta cuenta, después de recibir el pago, procesaremos "
+"tu pedido"
+
+msgid "Please upload images only."
+msgstr "Por favor, carga solo imágenes."
+
+msgid "Please Wait..."
+msgstr "Espere por favor..."
+
+msgid "Please wait..."
+msgstr "Espere por favor..."
+
+msgid "PM"
+msgstr "PM"
+
+msgid "poor"
+msgstr "pobre"
+
+msgid "Popular Cousines"
+msgstr "Pizzerías mas populares"
+
+msgid "Popular Locations"
+msgstr "Ubicaciones populares"
+
+msgid "Post a reply"
+msgstr "Publica una respuesta"
+
+msgid "POST DOES NOT EXIST."
+msgstr "La publicación no existe."
+
+msgid "Post Multi Select"
+msgstr "Post Multi Select"
+
+msgid "Post Name"
+msgstr "Publicar nombre"
+
+msgid "Post new comments"
+msgstr "Publicar nuevos comentarios"
+
+msgid "Post new reviews"
+msgstr "Publicar nuevas reseñas"
+
+msgid "post type general nameEmails"
+msgstr "Tipo de publicación General Name-Mails"
+
+msgid "post type general nameWithdrawals"
+msgstr "Tipo de publicación General NameWithDrawals"
+
+msgid "post type singular nameEmail"
+msgstr "Tipo de publicación Singular NameMail"
+
+msgid "post type singular nameWithdrawal"
+msgstr "Tipo de publicación Singular NameWithDrawal"
+
+msgid "Posted"
+msgstr "Publicado"
+
+msgid "Posted by"
+msgstr "Publicado por"
+
+msgid "Posted on:"
+msgstr "Publicado en:"
+
+msgid "Posts"
+msgstr "Publicaciones"
+
+msgid "Posts Per Page"
+msgstr "Publicaciones por página"
+
+msgid "Pre Orders"
+msgstr "Pedidos anticipados"
+
+msgid "Pre Orders Filter"
+msgstr "Filtro de pedidos previos"
+
+msgid "Pre-Order"
+msgstr "Hacer un pedido"
+
+msgid "Prev"
+msgstr "Previo"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Price *"
+msgstr "Precio *"
+
+msgid "Price edit"
+msgstr "Edición de precios"
+
+msgid "Price Field Label"
+msgstr "Etiqueta de campo de precio"
+
+msgid "Price On Request"
+msgstr "Precio en demanda"
+
+msgid "Price per"
+msgstr "Precio por"
+
+msgid "Price Per Person"
+msgstr "Precio por persona"
+
+msgid "Price Search Style"
+msgstr "Estilo de búsqueda por precios"
+
+msgid "Price Table"
+msgstr "Lista de precios"
+
+msgid "Price Table Options"
+msgstr "Opciones de lista de precios"
+
+msgid "Price Tables"
+msgstr "Listas de precio"
+
+msgid "Price: %s"
+msgstr "Precios %s"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid "Problem in uploading File."
+msgstr "Problema en la carga del archivo."
+
+msgid "Processing"
+msgstr "Estamos haciendo el pedido"
+
+msgid "Processing..."
+msgstr "Procesando..."
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Profile Approved"
+msgstr "Perfil aprobado"
+
+msgid "Profile Image"
+msgstr "Imagen de perfil"
+
+msgid "Profile Images"
+msgstr "Imágenes de perfil"
+
+msgid "Profile Setting"
+msgstr "Ajustes de perfil"
+
+msgid "Profile Settings"
+msgstr "Configuración de perfil"
+
+msgid "Profile Status"
+msgstr "Estado del perfil"
+
+msgid "Profile Type"
+msgstr "Tipo de perfil"
+
+msgid "Profile Type should not be empty."
+msgstr "El tipo de perfil no debe estar vacío."
+
+msgid "Profile Url"
+msgstr "URL del perfil"
+
+msgid "Profile Url already taken"
+msgstr "URL de perfil ya tomada"
+
+msgid "Profile Url should not be empty"
+msgstr "La URL de perfil no debe estar vacía"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Publisher"
+msgstr "Editor"
+
+msgid "Publisher Auto Approval"
+msgstr "Aprobación automática del editor"
+
+msgid "Publisher Dashboard"
+msgstr "Panel de editor"
+
+msgid "Publisher Data"
+msgstr "Datos del editor"
+
+msgid "Publisher Description"
+msgstr "Descripción del editor"
+
+msgid "Publisher Name"
+msgstr "Nombre del editor"
+
+msgid "Publisher Phone"
+msgstr "Teléfono del editor"
+
+msgid "Publisher Profile Manage"
+msgstr "Administrar el perfil del editor"
+
+msgid "Publisher Settings"
+msgstr "Configuración del editor"
+
+msgid "Publisher Website"
+msgstr "Sitio web del editor"
+
+msgid "Publishers"
+msgstr "Editores"
+
+msgid "Purchased Memberships"
+msgstr "Membresías compradas"
+
+msgid ""
+"Put your Facebook Secret here. You can find it in your Facebook Application "
+"Dashboard"
+msgstr ""
+"Introduce tu secreto de Facebook aquí. Puedes encontrarlo en el panel de "
+"control de tu aplicación de Facebook"
+
+msgid "Put your Google API key here. To get API, go to your Google account"
+msgstr ""
+"Introduce tu clave de Google API aquí. Para obtener API, vaya a tu cuenta de "
+"Google"
+
+msgid ""
+"Put your Google client ID here. To get this ID, go to your Google account "
+"Dashboard"
+msgstr ""
+"Introduce tu ID de cliente de Google aquí. Para obtener esta identificación, "
+"vaya al panel de control de cuentas de Google"
+
+msgid ""
+"Put your google client secret here. To get client secret, go to your Google "
+"account"
+msgstr ""
+"Introduce a tu cliente de Google en secreto aquí. Para obtener el secreto "
+"del cliente, vaya a tu cuenta de Google"
+
+msgid "Put your google+ redirect url here."
+msgstr "Introduce tu URL de redirección de Google+ aquí."
+
+msgid ""
+"Put your LinkedIn Secret here. You can find it in your LinkedIn Application "
+"Dashboard"
+msgstr ""
+"Introduce tu secreto de LinkedIn aquí. Puedes encontrarlo en el panel de "
+"control de tuaplicación LinkedIn"
+
+msgid ""
+"Put your site key for captcha. You can get this site key after registering "
+"your site on Google."
+msgstr ""
+"Introduce la llave de tu sitio para Captcha. Puedes obtener esta clave del "
+"sitio después de registrar tu sitio en Google."
+
+msgid ""
+"Put your site Secret key for captcha. You can get this Secret Key after "
+"registering your site on Google."
+msgstr ""
+"Introduce la llave secreta de tu sitio para Captcha. Puedesobtener esta "
+"clave secreta después de registrar tu sitio en Google."
+
+msgid "Quality"
+msgstr "Calidad"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Quantity: %s"
+msgstr "Cantidad: %s"
+
+msgid "Random Banners"
+msgstr "Banners aleatorios"
+
+msgid "RANGE"
+msgstr "RANGO"
+
+msgid "Range"
+msgstr "Rango"
+
+msgid "Range : %s"
+msgstr "Rango: %s"
+
+msgid "Range: %s"
+msgstr "Rango: %s"
+
+msgid "Rate and Write a Review"
+msgstr "Califica y escribe una reseña"
+
+msgid "Rating summary"
+msgstr "Experiencia"
+
+msgid "Rating Value [1-100]"
+msgstr "Valor de calificación [1-100]"
+
+msgid "Ratings"
+msgstr "Calificaciones"
+
+msgid "Ratings Summary"
+msgstr "Resumen de calificaciones"
+
+msgid "Read More Comments"
+msgstr "Leer más comentarios"
+
+msgid "Read More Reviews"
+msgstr "Leer más reseñas"
+
+msgid "Read More..."
+msgstr "Lee más..."
+
+msgid "Reason"
+msgstr "Razón"
+
+msgid "Receipt"
+msgstr "Recibo"
+
+msgid "Received"
+msgstr "Recibido"
+
+msgid "Received Booking"
+msgstr "Reserva recibida"
+
+msgid "Received Order"
+msgstr "Pedido recibido"
+
+msgid "Receiver Email"
+msgstr "Correo electrónico del receptor"
+
+msgid "Receiver, or receivers of the mail."
+msgstr "Receptor o receptores del correo."
+
+msgid "Recent Bookings"
+msgstr "Reservas recientes"
+
+msgid "Recent Orders"
+msgstr "Órdenes recientes"
+
+msgid "Recent Orders/Inquiries"
+msgstr "Órdenes/consultas recientes"
+
+msgid "Records found"
+msgstr "Registros encontrados"
+
+msgid "Recruiters"
+msgstr "Reclutadores"
+
+msgid "Redirecting to payment gateway website..."
+msgstr "Redirección al sitio web de Payment Gateway ..."
+
+msgid "Register"
+msgstr "Regístrate!"
+
+msgid "register"
+msgstr "Registro"
+
+msgid "Registerd Successfully"
+msgstr "Registrado con éxito"
+
+msgid "Registered Users"
+msgstr "Usuarios registrados"
+
+msgid "Registering restaurant is free. Continue with next."
+msgstr "El registro de pizzería es gratuita. Continuar con Siguiente."
+
+msgid "Registration is disabled."
+msgstr "El registro está inhabilitado."
+
+msgid "Related Restaurant"
+msgstr "Pizzería relacionada"
+
+msgid "Reload"
+msgstr "Recargar"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Remove This"
+msgstr "Elimina esto"
+
+msgid "remove this choice"
+msgstr "Eliminar esta elección"
+
+msgid "Removed"
+msgstr "Remoto"
+
+msgid "Removed From Favourite"
+msgstr "Eliminado de favoritos"
+
+msgid "Removed From Selected List"
+msgstr "Eliminado de la lista da"
+
+msgid "Reply for"
+msgstr "Responder a"
+
+msgid "Request sent successfully."
+msgstr "Solicitud enviada con éxito."
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Required Fields"
+msgstr "Campos requeridos"
+
+msgid "Required options"
+msgstr "Opciones requeridas"
+
+msgid "Reservation Order"
+msgstr "Orden de reserva"
+
+msgid "Reservation Paid"
+msgstr "Reserva pagada"
+
+msgid "Reservation Received"
+msgstr "Reserva recibida"
+
+msgid "Reserve My Spot"
+msgstr "Reserve mi lugar"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Reset All"
+msgstr "Resetear todo"
+
+msgid "Reset All Options"
+msgstr "Restablecer todas las opciones"
+
+msgid "Reset Fields"
+msgstr "Restablecer campos"
+
+msgid "Respond to Reviews"
+msgstr "Responder a las reseñas"
+
+msgid "Restaurant"
+msgstr "Pizzería"
+
+msgid "Restaurant Added"
+msgstr "Pizzería agregada"
+
+msgid "Restaurant added successfully and packages processed"
+msgstr "Pizzería agregada con éxito y paquetes procesados"
+
+msgid "Restaurant Added Successfully."
+msgstr "Pizzería agregada con éxito!"
+
+msgid "Restaurant Alerts"
+msgstr "Alertas de pizzería"
+
+msgid "Restaurant Approved"
+msgstr "Alertas de pizzería"
+
+msgid "Restaurant Banner"
+msgstr "Banner de pizzería"
+
+msgid "Restaurant Categories"
+msgstr "Categorías de pizzería"
+
+msgid "Restaurant Count"
+msgstr "Conteo de pizzería"
+
+msgid "Restaurant Counts"
+msgstr "Conteos de pizzería"
+
+msgid "Restaurant Cover Image"
+msgstr "Imagen de portada de pizzería"
+
+msgid "Restaurant Dashboard Announcements"
+msgstr "Anuncios del panel de control de pizzería"
+
+msgid "Restaurant Detail Banner"
+msgstr "Banner de detalle de pizzería"
+
+msgid "Restaurant Duration"
+msgstr "Duración de pizzería"
+
+msgid "Restaurant Duration ( Days )"
+msgstr "Duración de pizzería (días)"
+
+msgid "Restaurant Expired"
+msgstr "Pizzería expiró"
+
+msgid "Restaurant Expiry"
+msgstr "Expiración de pizzería"
+
+msgid "Restaurant Expiry Duration ( Days )"
+msgstr "Expiración de pizzería, duración (días)"
+
+msgid "Restaurant found"
+msgstr "Pizzería encontrada"
+
+msgid "Restaurant Icon"
+msgstr "Icono de pizzería"
+
+msgid "Restaurant Id"
+msgstr "Identificación de pizzería"
+
+msgid "Restaurant Image"
+msgstr "Imagen de pizzería"
+
+msgid "Restaurant Info"
+msgstr "Pizzería info."
+
+msgid "Restaurant Invoice"
+msgstr "Factura de pizzería"
+
+msgid "Restaurant is closed at this time."
+msgstr "Pizzería cerrada en este momento."
+
+msgid "Restaurant Left Filter Banner"
+msgstr "Pizzería banner de filtro izquierdo"
+
+msgid "Restaurant Locations"
+msgstr "Ubicaciones de pizzería"
+
+msgid "Restaurant Logo"
+msgstr "Logotipo de pizzería"
+
+msgid "Restaurant Menu *"
+msgstr "Carta de pizzería *"
+
+msgid "Restaurant Menu Icon"
+msgstr "Icono de carta de pizzería"
+
+msgid "Restaurant Menu Image"
+msgstr "Imagen de la carta de pizzería"
+
+msgid "Restaurant Menus"
+msgstr "Cartas de pizzería"
+
+msgid "Restaurant Name"
+msgstr "Nombre de pizzería"
+
+msgid "Restaurant name *"
+msgstr "Nombre de pizzería *"
+
+msgid "Restaurant name should not be empty"
+msgstr "El nombre de la pizzería no debe estar vacío"
+
+msgid "Restaurant not Approved"
+msgstr "Pizzería no aprobada"
+
+msgid "Restaurant not attached yet."
+msgstr "Pizzería aún no adjunta."
+
+msgid "Restaurant not opened this day, Please choose another day"
+msgstr "Ésta pizzería no abre este día, elige otro día"
+
+msgid "Restaurant Old Status"
+msgstr "Pizzería / antiguo estado"
+
+msgid "Restaurant Open/Close"
+msgstr "Horarios"
+
+msgid "Restaurant Owner"
+msgstr "Propietario de Pizzería"
+
+msgid "Restaurant Owner:"
+msgstr "Propietario de Pizzería:"
+
+msgid "Restaurant phone"
+msgstr "Teléfono de la Pizzería"
+
+msgid "Restaurant Pre-Order"
+msgstr "Pizzería pre-pedido"
+
+msgid "Restaurant Price"
+msgstr "Precio de pizzería"
+
+msgid "Restaurant Price Option"
+msgstr "Opción de precio de pizzería"
+
+msgid "Restaurant Setting"
+msgstr "Configuración de pizzería"
+
+msgid "Restaurant Setting Icon / Image"
+msgstr "icono / imagen de configuración de pizzería"
+
+msgid "Restaurant Setting Menu Icon / Image"
+msgstr "icono / imagen de la carta de configuración de pizzería"
+
+msgid "Restaurant Setting Options"
+msgstr "opciones de configuración de pizzería"
+
+msgid "Restaurant Settings"
+msgstr "Configuración de pizzería"
+
+msgid "Restaurant Success Settings"
+msgstr "Configuración de éxito de Pizzeria"
+
+msgid "Restaurant Title"
+msgstr "Título de pizzería"
+
+msgid "Restaurant Types"
+msgstr "Tipos de pizzería"
+
+msgid ""
+"Restaurant update emails are sent to the employer when his/her posted "
+"restaurant is updated"
+msgstr ""
+"Los correos electrónicos de actualización de pizzeria se envían al empleador "
+"cuando se actualiza tu pizzería publicada"
+
+msgid "Restaurant Updated."
+msgstr "Pizzería actualizada."
+
+msgid "Restaurant's found"
+msgstr "Pizzerías encontradas"
+
+msgid ""
+"Restaurant's on pending are sent to the publisher when the payment is "
+"successfull but restaurant is not active by admin"
+msgstr ""
+"Pizzerías en pendiente son envíadas al editor cuando el pago es exitoso, "
+"pero el administrador no la tiene como activa"
+
+msgid "restaurant_categories Options"
+msgstr "opciones de pizzeria_categories"
+
+msgid "Restaurants"
+msgstr "Pizzerías"
+
+msgid "Restaurants Duration"
+msgstr "Duración de pizzerías"
+
+msgid "Restaurants Expiry"
+msgstr "Pizzerías vencidas o expiradas"
+
+msgid "Restaurants Features"
+msgstr "Características de pizzerías"
+
+msgid "Restaurants Fields"
+msgstr "Campos de pizzerías"
+
+msgid "Restaurants Menus"
+msgstr "Cartas de pizzerías"
+
+msgid "Restaurants Options"
+msgstr "Opciones de pizzerías"
+
+msgid "Restaurants Publish/Pending On/Off"
+msgstr "Pizzerías publicar/pendiente encendido/apagado"
+
+msgid "Restaurants Settings"
+msgstr "Configuración de pizzerías"
+
+msgid "Restaurants Sub Title"
+msgstr "Subtítulo de pizzerías"
+
+msgid "Restaurants Title"
+msgstr "Título de pizzerías"
+
+msgid "Restaurents Element Sidebar"
+msgstr "Barra lateral de elementos de pizzerías"
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Resturant name"
+msgstr "Nombre de restrurante"
+
+msgid "Result Page"
+msgstr "Página de resultados"
+
+msgid "results"
+msgstr "resultados"
+
+msgid "Review"
+msgstr "Revisar"
+
+msgid "Review & Ratings"
+msgstr "Reseña y calificaciones"
+
+msgid "Review Added"
+msgstr "Reseña agregada"
+
+msgid "Review Max Length"
+msgstr "Longitud máxima de reseña"
+
+msgid "Review Min Length"
+msgstr "Longitud mínima de reseña"
+
+msgid "review not found"
+msgstr "reseña no encontrada"
+
+msgid "Review Reply Added"
+msgstr "Respuesta de reseña agregada"
+
+msgid "Review Title"
+msgstr "Título de reseña"
+
+msgid "Reviews"
+msgstr "Reseñas"
+
+msgid "Reviews Allowed"
+msgstr "Reseñas permitidas"
+
+msgid "Reviews Coming Soon"
+msgstr "Comentarios Próximamente"
+
+msgid "Reviews Detail"
+msgstr "Detalles de reseñas"
+
+msgid "Reviews Given"
+msgstr "Reseñas dadas"
+
+msgid "Reviews On/Off"
+msgstr "Detalles de reseñas"
+
+msgid "Reviews Settings"
+msgstr "Configuración de reseñas"
+
+msgid "Reviews Without Login"
+msgstr "Reseñas sin iniciar sesión"
+
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+msgid "Roles & Permission"
+msgstr "Roles y permiso"
+
+msgid "Rows"
+msgstr "Hilera"
+
+msgid "RPN Map"
+msgstr "Mapa de RPN"
+
+msgid "Safety Settings"
+msgstr "Configuración de seguridad"
+
+msgid "Safety Text Settings"
+msgstr "Configuración de texto de seguridad"
+
+msgid "Sale - %s"
+msgstr "Ventas - %s"
+
+msgid "Samisel"
+msgstr "Samisel"
+
+msgid "Sat"
+msgstr "Sáb"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Saturday On?"
+msgstr "Sábado activo?"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Save All Settings"
+msgstr "Guardar toda la configuración"
+
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+msgid "Saved Notifications"
+msgstr "Notificaciones guardadas"
+
+msgid "Schedule With Time"
+msgstr "Programar con tiempo"
+
+msgid "Score Value"
+msgstr "Valor de puntaje"
+
+msgid "Score Values"
+msgstr "Valores de puntaje"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Search Emails"
+msgstr "Correos electrónicos de búsqueda"
+
+msgid "Search Engine Optimization"
+msgstr "Optimización de motores de búsqueda"
+
+msgid "Search food item"
+msgstr "Buscar en la carta"
+
+msgid "Search Keyword"
+msgstr "Buscar por palabra clave"
+
+msgid "Search Keywords:"
+msgstr "Buscar palabras clave:"
+
+msgid "Search Location"
+msgstr "Ubicación de búsqueda"
+
+msgid "Search Locations"
+msgstr "Ubicación de búsqueda"
+
+msgid "Search Options"
+msgstr "Opciones de búsqueda"
+
+msgid "Search Result Page"
+msgstr "Página de resultados de búsqueda"
+
+msgid "Search Reviews"
+msgstr "Buscar reseñas "
+
+msgid "Search Style"
+msgstr "Estilo de búsqueda"
+
+msgid "Search Tags"
+msgstr "Etiquetas de búsqueda"
+
+msgid "Search This Location on Map"
+msgstr "Busca esta ubicación en el mapa"
+
+msgid "Search Withdrawals"
+msgstr "Buscar retiros"
+
+msgid "Searches & Alerts"
+msgstr "Búsquedas y alertas"
+
+msgid "Secret Key"
+msgstr "Llave secreta"
+
+msgid "SECTION"
+msgstr "SECCIÓN"
+
+msgid "Section"
+msgstr "Sección"
+
+msgid "Section Description"
+msgstr "Descripción de la sección"
+
+msgid "Section Text"
+msgstr "Texto de sección"
+
+msgid "Section: %s"
+msgstr "Sección: %s"
+
+msgid "See more cuisines"
+msgstr "Ver más cocinas"
+
+msgid "See more locations"
+msgstr "Ver más ubicaciones"
+
+msgid "Select"
+msgstr "Selecciona"
+
+msgid "Select a City which you want to use in locations or select \"All\"."
+msgstr ""
+"Selecciona la ciudad que quieras usar en ubicaciones o selecciona \"All\"."
+
+msgid "Select a Country which you want to use in locations or select \"All\"."
+msgstr ""
+"Selecciona un país que quieras usar en ubicaciones o selecciona \"All\"."
+
+msgid "Select a State which you want to use in locations or select \"All\"."
+msgstr ""
+"Selecciona un estado que quieras usar en ubicaciones o selecciona \"All\"."
+
+msgid "Select a Town which you want to use in locations or select \"All\"."
+msgstr ""
+"Selecciona una ciudad que quieras usar en ubicaciones o selecciona \"All\"."
+
+msgid "Select a user"
+msgstr "Selecciona un usuario"
+
+msgid "Select Banner View"
+msgstr "Selecciona vista de banner"
+
+msgid "Select Booking Status"
+msgstr "Selecciona el estado de la reserva"
+
+msgid "Select City"
+msgstr "Selecciona ciudad"
+
+msgid "Select Country"
+msgstr "Selecciona país"
+
+msgid "Select County"
+msgstr "Selecciona ciudad"
+
+msgid "Select Cuisine"
+msgstr "Selecciona la pizzería"
+
+msgid "Select Cuisines"
+msgstr "Selecciona Pizzerías"
+
+msgid "Select Currency"
+msgstr "Selecciona el tipo de moneda"
+
+msgid "Select Date Range"
+msgstr "Rango de fechas de selección"
+
+msgid "Select field type from this dropdown."
+msgstr "Selecciona tipo de campo de este carta desplegable."
+
+msgid "Select Membership"
+msgstr "Selecciona membresía"
+
+msgid "Select Order Type"
+msgstr "Selecciona el tipo de moneda"
+
+msgid "Select Orders Status"
+msgstr "Selecciona el estado de pedidos"
+
+msgid "Select Package"
+msgstr "Selecciona paquete"
+
+msgid "Select package type from this dropdown."
+msgstr "Selecciona el tipo de paquete de este carta desplegable."
+
+msgid ""
+"Select page for Candidates dashboard here. This page is set in page template "
+"drop down. To create Candidate dashboard page, go to Pages > Add new page, "
+"set the page template to 'Candidate' in the right menu."
+msgstr ""
+"Selecciona la página para el panel de control de candidatos aquí. Esta "
+"página está configurada en la plantilla de página desplegable. Para crear la "
+"página del panel de control de candidatos, vaya a páginas> Agregar nueva "
+"página, configure la plantilla de página en 'candidato' en la carta correcto."
+
+msgid ""
+"Select page for employer dashboard here. This page is set in page template "
+"drop down. To create employer dashboard page, go to Pages > Add new page, "
+"set the page template to 'employer' in the right menu."
+msgstr "Selecciona paquete"
+
+msgid ""
+"Select page for Privacy Policy here. This page is set in page template drop "
+"down."
+msgstr ""
+"Selecciona la página para la política de privacidad aquí. Esta página está "
+"configurada en la plantilla de página desplegable."
+
+msgid ""
+"Select page for publisher dashboard here. This page is set in page template "
+"drop down. To create publisher dashboard page, go to Pages > Add new page, "
+"set the page template to 'publisher' in the right menu."
+msgstr ""
+"Selecciona la página para elpanel de control del editor aquí. Esta página "
+"está configurada en la plantilla de página desplegable. Para crear la página "
+"del panel de control del editor, vaya a páginas> Agregar nueva página, "
+"configure la plantilla de página en 'editor' en la carta correcto."
+
+msgid "Select Page for Sharing"
+msgstr "Selecciona la página para compartir"
+
+msgid ""
+"Select page for Terms and Conditions here. This page is set in page template "
+"drop down."
+msgstr ""
+"Selecciona la página para ver los términos y condiciones aquí. Esta página "
+"está configurada en la plantilla de página desplegable."
+
+msgid "Select Payment Gateway"
+msgstr "Selecciona la pasarela de pago"
+
+msgid "Select Popular Cousines"
+msgstr "Selecciona pizzerías populares"
+
+msgid "Select Publisher"
+msgstr "Selecciona editor"
+
+msgid "Select Restaurant categories to show."
+msgstr "Selecciona categorías de pizzería para mostrar."
+
+msgid "Select Restaurant locations to show."
+msgstr "Selecciona paquete"
+
+msgid "Select Restaurant Setting"
+msgstr "Selecciona configuración de pizzería"
+
+msgid "Select restaurant type Cuisines from this dropdown."
+msgstr "Selecciona tipo de Pizzeria de esta carta desplegable."
+
+msgid "Select restaurant type suggested tags from this dropdown."
+msgstr ""
+"Selecciona etiquetas sugeridas de tipo Pizzeria de este carta desplegable."
+
+msgid "Select Result Page"
+msgstr "Selecciona la página de resultados"
+
+msgid "Select review reply for"
+msgstr "Selecciona Revisar respuesta para"
+
+msgid "Select Single Restaurant."
+msgstr "Selecciona Pizzería única."
+
+msgid "Select State"
+msgstr "Selecciona estado"
+
+msgid "Select Tags"
+msgstr "Selecciona etiquetas"
+
+msgid "Select the levels you want to use for locations."
+msgstr "Selecciona los niveles que quieras usar para ubicaciones."
+
+msgid "Select Town"
+msgstr "Selecciona pueblo"
+
+msgid "Select Type"
+msgstr "Selecciona tipo"
+
+msgid "Select User"
+msgstr "Selecciona usuario"
+
+msgid ""
+"Select which location parts(Country, State, City, Town) you want to use on "
+"frontend. You can select only from location parts those you have selected on "
+"backend."
+msgstr ""
+"Selecciona qué partes de la ubicación (país, estado, ciudad, pueblo) deseas "
+"usar en la interfaz. Puedes seleccionar solo de las partes de ubicación las "
+"que has seleccionado en el backend."
+
+msgid "Select yes if you allow users pre orders."
+msgstr "Selecciona SÍ si permites a tus usuarios repetir pedidos anteriores."
+
+msgid "Select/Unselect all"
+msgstr "Selecciona/deselecciona todo"
+
+msgid "Self"
+msgstr "Uno mismo"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Send e-mail via GMail?"
+msgstr "¿Enviar correo electrónico a través de Gmail?"
+
+msgid "Send Enquiry By Email"
+msgstr "Enviar consulta por correo electrónico"
+
+msgid "Send Invitation"
+msgstr "Enviar invitación"
+
+msgid "Send invitation"
+msgstr "Enviar invitación"
+
+msgid "Send Request"
+msgstr "Enviar petición"
+
+msgid "Send to new users"
+msgstr "Enviar a nuevos usuarios"
+
+msgid "Sender e-mail"
+msgstr "Correo electrónico del remitente"
+
+msgid "Sender name"
+msgstr "Nombre del remitente"
+
+msgid "Sent Booking"
+msgstr "Reserva enviada"
+
+msgid "Sent Email Logs"
+msgstr "Registros de correo electrónico enviados"
+
+msgid "Sent Emails"
+msgstr "Correos electrónicos enviados"
+
+msgid "Sent Order"
+msgstr "Pedido enviado"
+
+msgid "Sent To"
+msgstr "Enviado a"
+
+msgid "Separate Locations with commas"
+msgstr "Ubicaciones separadas con comas"
+
+msgid "Service"
+msgstr "Servicio"
+
+msgid "Service & Rates"
+msgstr "Servicio y tarifas"
+
+msgid "Service added to List."
+msgstr "Servicio agregado a la lista."
+
+msgid "Service Area Size"
+msgstr "Tamaño del área de servicio"
+
+msgid "Service User"
+msgstr "Usuario de servicio"
+
+msgid "Services"
+msgstr "Servicios"
+
+msgid "Services Dropdown"
+msgstr "Desplegable de servicios"
+
+msgid "Services Options"
+msgstr "Opciones de servicios"
+
+msgid "Services: %s"
+msgstr "Servicios: %s"
+
+msgid ""
+"Set default location for your site (Country, City & Address). This location "
+"can be set from Restaurants > Locations in back end admin area. This will "
+"show location of admin only and willl fetch results from the given location "
+"first. It is not linked with Geo-location or Candidate."
+msgstr ""
+"Consulta tu correo electrónico para obtener detalles de inicio de sesión."
+
+msgid "Set default street address here."
+msgstr "Establece la dirección de la calle predeterminada aquí. "
+
+msgid "Set element Category Colour"
+msgstr "Establece color de categoría de elemento"
+
+msgid "Set element Style here"
+msgstr "Establece estilo de elemento aquí"
+
+msgid "Set element title alignment here"
+msgstr "Establece alineación del título del elemento aquí"
+
+msgid "Set free restaurant posting expiry duration in days"
+msgstr "Establece la duración de la cadena de cadena de pizzería en días"
+
+msgid "Set Map Style."
+msgstr "Establece estilo de mapa."
+
+msgid ""
+"Set the specific page where you want to show search results. The slected "
+"page must have restaurants page element on it. (Add restaurants page element "
+"while creating the restaurant search result page)."
+msgstr ""
+"Establece la página específica donde quieras mostrar los resultados de "
+"búsqueda. La página seleccionada debe tener un elemento de página de "
+"pizzerías. (Agrega el elemento de página de pizzerías mientras crea la "
+"página de resultados de búsqueda de pizzeria)."
+
+msgid "Set zoom level 1 to 15 only."
+msgstr "Establece zoom de nivel 1 a 15 solamente."
+
+msgid ""
+"Sets the From e-mail address for all outgoing messages. Leave blank to use "
+"the WordPress default. This value will be used even if you do not enable "
+"SMTP. NOTE: This may not take effect depending on your mail server and "
+"settings, especially if using SMTPAuth (such as for GMail)."
+msgstr ""
+"Establece la dirección de correo electrónico de todos los mensajes salientes."
+" Deja en blanco para usar el valor predeterminado de WordPress. Este valor "
+"se utilizará incluso si no habilitas SMTP. Nota: Esto puede no entrar en "
+"vigencia según tu servidor de correo y tu configuración, especialmente si "
+"usas SMTPauth (como para Gmail)."
+
+msgid ""
+"Sets the From name for all outgoing messages. Leave blank to use the "
+"WordPress default. This value will be used even if you do not enable SMTP."
+msgstr ""
+"Establece el Nombre de remitente para todos los mensajes salientes. Deja en "
+"blanco para usar el valor predeterminado de WordPress. Este valor se "
+"utilizará incluso si no habilitas SMTP."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Share Job"
+msgstr "Compartir trabajo"
+
+msgid "share more"
+msgstr "Comparte más"
+
+msgid "Shortcode"
+msgstr "Código corto"
+
+msgid "Shortlist"
+msgstr "Pizzerías favoritas"
+
+msgid "Shortlisted"
+msgstr "Sumado a tus pizzerías favoritas"
+
+msgid "Shortlists"
+msgstr "Mis pizzerías favoritas"
+
+msgid "Show all"
+msgstr "Mostrar todo"
+
+msgid "Show login section in Menu"
+msgstr "Mostrar sección de inicio de sesión en la carta"
+
+msgid "Show Open/Close Labels"
+msgstr "Mostrar etiquetas abiertas/cerradas"
+
+msgid "Show Pagination"
+msgstr "Mostrar paginación"
+
+msgid "Show password nag on new users signon"
+msgstr "Mostrar contraseña nag en nuevos usuarios"
+
+msgid "Show Restaurant Count"
+msgstr "Show Pizzeria Count"
+
+msgid "Show Twitter"
+msgstr "Mostrar Twitter"
+
+msgid "Show with in"
+msgstr "Mostrar con"
+
+msgid "Showing"
+msgstr "Demostración"
+
+msgid "Sidebar Banner"
+msgstr "Banner de barra lateral"
+
+msgid "Sign In With Facebook"
+msgstr "Iniciar sesión usando Facebook"
+
+msgid "Sign In With Google"
+msgstr "Inicia sesión con Google"
+
+msgid "Sign In With Twitter"
+msgstr "Registrate con Twitter"
+
+msgid "Sign out"
+msgstr "Desconectar"
+
+msgid "Sign Up"
+msgstr "Inscribirse"
+
+msgid "Signout"
+msgstr "Desconectar"
+
+msgid "Signup"
+msgstr "Registro"
+
+msgid "Signup Fields"
+msgstr "Campos de registro"
+
+msgid "Similar Posts"
+msgstr "Publicaciones similares"
+
+msgid "Simple"
+msgstr "Simple"
+
+msgid "Single (Radio button)"
+msgstr "Single (botón de radio)"
+
+msgid "Single Choice"
+msgstr "Elección única"
+
+msgid "Single Line"
+msgstr "Linea sola"
+
+msgid "Single Page Layout"
+msgstr "Diseño de una sola página"
+
+msgid "Single Restaurant Options"
+msgstr "Opciones de pizzería individual"
+
+msgid "Single Submission"
+msgstr "Sumisión individual"
+
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+msgid "Skrill-MoneryBooker Business Email"
+msgstr "Skrill-monerybooker correo electrónico comercial"
+
+msgid "Skrill-MoneryBooker Ipn Url"
+msgstr "Skrill-monerybooker IPN URL"
+
+msgid "Skrill-MoneyBooker Settings"
+msgstr "Configuración de Skrill-MoneyBooker"
+
+msgid "Slider"
+msgstr "Control deslizante"
+
+msgid "Slug"
+msgstr "Babosa"
+
+msgid "Small"
+msgstr "Pequeña"
+
+msgid "small icon"
+msgstr "pequeño icono"
+
+msgid "Small Image"
+msgstr "Imagen pequeña"
+
+msgid "SMTP Configuration"
+msgstr "Configuración SMTP"
+
+msgid "SMTP Host Name"
+msgstr "Nombre de host SMTP"
+
+msgid "SMTP Password"
+msgstr "Contraseña SMTP"
+
+msgid "SMTP Port"
+msgstr "Puerto SMTP"
+
+msgid "SMTP Settings"
+msgstr "Configuración SMTP"
+
+msgid "SMTP username"
+msgstr "Nombre de usuario SMTP"
+
+msgid "Social Auto Post"
+msgstr "Autopublicación social"
+
+msgid "Social Auto Post Settings"
+msgstr "Configuración de autopublicación social"
+
+msgid "Social Icon"
+msgstr "Icono social"
+
+msgid "Social Impressions Reach"
+msgstr "Alcance de impresiones sociales"
+
+msgid "Social Login"
+msgstr "Inicio de sesión social"
+
+msgid "Social Networks"
+msgstr "Redes sociales"
+
+msgid "Social Share"
+msgstr "Compartir social"
+
+msgid "Social Sharing"
+msgstr "Compartiendo socialmente"
+
+msgid "social sharing"
+msgstr "compartiendo socialmente"
+
+msgid "Some users were successfully imported but some were not%s."
+msgstr "Algunos usuarios fueron importados con éxito, pero otros no fueron%s."
+
+msgid "Something went wrong"
+msgstr "Algo salió mal"
+
+msgid "Something went wrong, booking could not be processed."
+msgstr "Algo salió mal, la reserva no se pudo procesar."
+
+msgid "Something went wrong, Email could not be processed.."
+msgstr "Algo salió mal, el correo electrónico no se pudo procesar."
+
+msgid ""
+"something went wrong, most likely file is to large for upload. check "
+"upload_max_filesize, post_max_size and memory_limit in you php.ini"
+msgstr ""
+"Algo salió mal, lo más probable es que el archivo sea demasiado grande para "
+"cargar. Verifica upload_max_filesize, post_max_size y memoria_limit en tu "
+"php.ini"
+
+msgid "Something went wrong: %s"
+msgstr "Algo salió mal: %s"
+
+msgid "Something Wrong, Please try later."
+msgstr "Algo mal, intenta más tarde."
+
+msgid "Sorry !"
+msgstr "Lo siento !"
+
+msgid "Sorry! Email already exists."
+msgstr "¡Lo siento! El Email ya existe."
+
+msgid "Sorry! No Menu Category added."
+msgstr "¡Lo siento! No se agregó categoría de carta."
+
+msgid "Sorry! No Menu Found."
+msgstr "¡Lo siento! No se encontró una carta."
+
+msgid "Sorry! reviews not found."
+msgstr "¡Lo siento! Reseñas no encontradas."
+
+msgid "Sorry! there is no package in your list."
+msgstr "¡Lo siento! No hay paquete en tu lista."
+
+msgid "Sorry! there is no package in your list.."
+msgstr "¡Lo siento! no hay paquete en tulista."
+
+msgid "Sorry! there is no team member in your list."
+msgstr "¡Lo siento! No hay miembro del equipo en tu lista."
+
+msgid "Sorry! Username already exists."
+msgstr "¡Lo siento! Nombre de usuario ya existe."
+
+msgid "Sorry, no more reviews."
+msgstr "Lo siento, no más reseñas."
+
+msgid "Sorry, You have already added review for this order."
+msgstr "Lo siento, ya ha agregado una reseña para este pedido."
+
+msgid "Sorry, You have already added review for this restaurent."
+msgstr "Lo siento, ya has agregado una reseña para esta pizzería."
+
+msgid "Sort By"
+msgstr "Ordenar por"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Special character not allowed but only (_,-)."
+msgstr "Carácter especial no permitido pero solo (_,-)."
+
+msgid "Special Characters are not allowed"
+msgstr "Caracteres especiales no están permitidos"
+
+msgid "Specialisms"
+msgstr "Especialismo"
+
+msgid "Sponsored"
+msgstr "Pizzería destacada"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Statement"
+msgstr "Estado de cuenta"
+
+msgid "Statements"
+msgstr "Cuentas"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "Submissions"
+msgstr "Presentaciones"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Submit for review"
+msgstr "Enviar para reseña"
+
+msgid "Submit message"
+msgstr "Enviar mensaje"
+
+msgid "Submit Order"
+msgstr "Enviar orden"
+
+msgid "Submit your Comment"
+msgstr "Envíe tu comentario"
+
+msgid "Submit your Review"
+msgstr "Publico mi reseña!"
+
+msgid "Subscribe and Get latest updates and offers by Email"
+msgstr ""
+"Suscríbase y obtenga las últimas actualizaciones y ofertas por correo "
+"electrónico"
+
+msgid "Subscribed Memberships"
+msgstr "Membresías suscritas"
+
+msgid "Subscription"
+msgstr "Suscripción"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+msgid "success"
+msgstr "éxito"
+
+msgid "Success Email"
+msgstr "Correo electrónico de éxito"
+
+msgid "Success FAX"
+msgstr "Fax de éxito"
+
+msgid "Success Image"
+msgstr "Imagen de éxito"
+
+msgid "Success Message"
+msgstr "Mensaje de éxito"
+
+msgid "Success Phone"
+msgstr "Teléfono de éxito"
+
+msgid "Successfully loaded icons"
+msgstr "Iconos cargados con éxito"
+
+msgid "Successfully Updated!"
+msgstr "¡Actualizado exitosamente!"
+
+msgid "Suggested Restaurants"
+msgstr "Pizzerías sugeridas"
+
+msgid "Suggested Restaurants Settings"
+msgstr "Configuración sugerida de pizzerías"
+
+msgid "Suggested Tags"
+msgstr "Etiquetas sugeridas"
+
+msgid "Suitable files are .doc, docx, rft, pdf & .pdf"
+msgstr "Los archivos adecuados son .doc, docx, rft, pdf & .pdf"
+
+msgid "Summary"
+msgstr "Resumen"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Sunday On?"
+msgstr "Domingo activo?"
+
+msgid "Super Admin Successfully Removed"
+msgstr "Super administrador eliminado con éxito"
+
+msgid "Supper Admin"
+msgstr "Administrador de la cena"
+
+msgid "Table Booking"
+msgstr "Reserva de mesa"
+
+msgid "Tag"
+msgstr "Etiqueta"
+
+msgid "Tag Name"
+msgstr "Nombre de la etiqueta"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Tags Clouds"
+msgstr "Etiquetas nubes"
+
+msgid "Target"
+msgstr "Objetivo"
+
+msgid "Team Management"
+msgstr "Staff"
+
+msgid "Team Member"
+msgstr "Miembro del equipo"
+
+msgid "Team member successfully added!"
+msgstr "¡Miembro del equipo agregado con éxito!"
+
+msgid "Team Member Successfully Removed"
+msgstr "Miembro del equipo eliminado con éxito"
+
+msgid "Team member successfully updated!"
+msgstr "¡Miembro del equipo actualizado con éxito!"
+
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+msgid "Team Memeber"
+msgstr "Miembro del equipo"
+
+msgid "Tell about your experience or leave a tip for others"
+msgstr "Comenta sobre tu experiencia o deja un consejo para los demás"
+
+msgid "Terms & Conditions"
+msgstr "Términos y condiciones"
+
+msgid "Terms & Conditions On/Off"
+msgstr "Términos y condiciones encendido/apagado"
+
+msgid "Terms and Conditions"
+msgstr "Términos y condiciones"
+
+msgid "Test e-mail sent."
+msgstr "Prueba de correo electrónico enviado."
+
+msgid "TEXT"
+msgstr "TEXTO"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Text : %s"
+msgstr "Texto: %s"
+
+msgid "Text Area"
+msgstr "Área de texto"
+
+msgid "Text Area : %s"
+msgstr "Área de texto: %s"
+
+msgid "Text here.."
+msgstr "Texto aquí.."
+
+msgid "Text Us"
+msgstr "Envíanos un mensaje de texto"
+
+msgid "Text: %s"
+msgstr "Texto: %s"
+
+msgid "TEXTAREA"
+msgstr "TEXTAREA"
+
+msgid "TextArea"
+msgstr "TextArea"
+
+msgid "Textarea"
+msgstr "Textarea"
+
+msgid "TextArea: %s"
+msgstr "TextArea: %s"
+
+msgid "Thank You"
+msgstr "Gracias!"
+
+msgid "Thank you. Your order has been received."
+msgstr "Gracias! Tu orden ha sido recibida."
+
+msgid "The body of the e-mail includes this time-stamp: %s."
+msgstr "El cuerpo del correo electrónico incluye este sello de tiempo: %s."
+
+msgid "The profile email does not exist, Please try later"
+msgstr "El correo electrónico del perfil no existe, intenta más tarde"
+
+msgid "The profile email does not exist, Please try later."
+msgstr "El correo electrónico del perfil no existe, intenta más tarde."
+
+msgid "There are no items in your basket."
+msgstr "No hay artículos en tu cesta."
+
+msgid "There are no restaurants matching your search."
+msgstr "No hay pizzerías que coincidan con tu búsqueda."
+
+msgid "There are no specialisms available."
+msgstr "No hay especialidades disponibles."
+
+msgid "There is an error in your users data import, please try later"
+msgstr ""
+"Hay un error en la importación de datos de sus usuarios, intenta más tarde."
+
+msgid "There is no user registered with that email address."
+msgstr "No hay un usuario registrado con esa dirección de correo electrónico."
+
+msgid "There is problem while connecting to twitter"
+msgstr "Hay un problema mientras se conecta a Twitter"
+
+msgid "This amount is greater than your earnings."
+msgstr "Esta cantidad es mayor que sus ganancias."
+
+msgid "This date is already added in off days list."
+msgstr "Esta fecha ya está agregada en la lista de días libres."
+
+msgid "This email is already exist."
+msgstr "Este correo electrónico ya existe."
+
+msgid "This feature \"%s\" is already exist. Please create with another Title"
+msgstr "Esta característica \"%s\" ya existe. Por favor crea con otro título"
+
+msgid ""
+"This Google profile is already linked with other account. Linking process "
+"failed!"
+msgstr ""
+"Este perfil de Google ya está vinculado con otra cuenta. ¡El proceso de "
+"vinculación falló!"
+
+msgid "This is a test mail"
+msgstr "Este es un correo de prueba"
+
+msgid "This is custom css area"
+msgstr "Este es el área CSS personalizada"
+
+msgid ""
+"This profile is already linked with other account. Linking process failed!"
+msgstr ""
+"Este perfil ya está vinculado con otra cuenta. ¡El proceso de vinculación "
+"falló!"
+
+msgid "This restaurant allows Pre orders."
+msgstr "Esta pizzería te permite repetir tus pedidos anteriores."
+
+msgid ""
+"This switch will control VAT calculation and its payment along with package "
+"price. If this switch will be ON, user must have to pay VAT percentage "
+"separately. Turn OFF the switch to exclude VAT from payment."
+msgstr ""
+"Este interruptor controlará el cálculo del IVA y tu pago junto con el precio "
+"del paquete. Si este interruptor estará encendido, el usuario debe pagar el "
+"porcentaje de IVA por separado. Apague el interruptor para excluir al IVA "
+"del pago."
+
+msgid ""
+"This template is used for sending email to employer when restaurant does not "
+"get approved by admin."
+msgstr ""
+"Esta plantilla se utiliza para enviar correo electrónico al empleador cuando "
+"Pizzeria no es aprobado por el administrador."
+
+msgid ""
+"This Template is used for sending email to employer when restaurant status "
+"approved"
+msgstr ""
+"Esta plantilla se utiliza para enviar correo electrónico al empleador cuando "
+"se aprueba el estado de la pizzería"
+
+msgid ""
+"This template is used for sending email to site owner when a normal "
+"user/candiate/employer register."
+msgstr ""
+"Este interruptor controlará el cálculo del IVA y tu pago junto con el precio "
+"del paquete. Si este interruptor estará encendido, el usuario debe pagar el "
+"porcentaje de IVA por separado. Apaga el interruptor para excluir al IVA del "
+"pago."
+
+msgid "This template is used sending email to user when reset password."
+msgstr ""
+"Esta plantilla se utiliza enviando correo electrónico al usuario cuando se "
+"restablezca la contraseña."
+
+msgid "This template is used to send email when new contact form received."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando recibió un nuevo "
+"formulario de contacto."
+
+msgid "This template is used to send email when new package expired."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando expiró el nuevo "
+"paquete."
+
+msgid "This template is used to send email when new package purchased."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando se compró el "
+"nuevo paquete."
+
+msgid "This template is used to send email when new package used."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando se usa un nuevo "
+"paquete."
+
+msgid "This template is used to send email when new reservation purchased."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando se compró una "
+"nueva reserva."
+
+msgid "This template is used to send email when new restaurant added."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando se agregó una "
+"nueva pizzería."
+
+msgid "This template is used to send email when new restaurant expired."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando expiró la nueva "
+"pizzería."
+
+msgid "This template is used to send email when new review added."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando se agregó una "
+"nueva reseña."
+
+msgid "This template is used to send email when reply for a review added."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando responda para "
+"una reseña agregada."
+
+msgid ""
+"This template is used to send email when restaurant seller update booking "
+"status."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando el estado de "
+"reserva de actualización del vendedor de Pizzería."
+
+msgid ""
+"This template is used to send email when restaurant seller update order "
+"status."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando el vellador de "
+"Pizzeria actualiza el estado del pedido."
+
+msgid ""
+"This template is used to send email when restaurant user receive booking."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando el usuario de "
+"Pizzeria recibe reserva."
+
+msgid "This template is used to send email when restaurant user receive order."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando el usuario de "
+"Pizzeria recibe pedido."
+
+msgid "This template is used to send email when user submit order."
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando el usuario envía "
+"el pedido."
+
+msgid "This template is used to sending email when buyer Status approved"
+msgstr ""
+"Esta plantilla se usa para enviar un correo electrónico cuando se aprueba el "
+"estado del comprador"
+
+msgid "This template is used to sending email when buyer Status not approved"
+msgstr ""
+"Esta plantilla se usa para enviar un correo electrónico cuando no se aprueba "
+"el estado del comprador"
+
+msgid "This template is used to sending email when publisher Status approved"
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando se aprueba el "
+"estado del editor"
+
+msgid ""
+"This template is used to sending email when publisher Status not approved"
+msgstr ""
+"Esta plantilla se usa para enviar correo electrónico cuando no se aprueba el "
+"estado del editor"
+
+msgid "This template used to send email when user register."
+msgstr ""
+"Esta plantilla solía enviar correo electrónico cuando el usuario se registra."
+
+msgid "This Username already exists."
+msgstr "Este nombre de usuario ya existe."
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Thursday On?"
+msgstr "Jueves activo?"
+
+msgid "Time"
+msgstr "Tiempo"
+
+msgid "Time Lapse"
+msgstr "Lapso de tiempo"
+
+msgid "Time: %s"
+msgstr "Tiempo: %s"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Title *"
+msgstr "Título *"
+
+msgid "Title Alignment"
+msgstr "Alineación del título"
+
+msgid "Title length must be 3 to long."
+msgstr "La longitud del título debe ser de 3 a larga."
+
+msgid "Title of your Comment *"
+msgstr "Título de tu comentario *"
+
+msgid "Title of your review *"
+msgstr "El titulo de tu reseña *"
+
+msgid "To"
+msgstr "A"
+
+msgid "to"
+msgstr "a"
+
+msgid "To Date"
+msgstr "Hasta la fecha"
+
+msgid "Today :"
+msgstr "Hoy :"
+
+msgid "Today : Closed"
+msgstr "Hoy: cerrado"
+
+msgid "Top Banner"
+msgstr "Banner superior"
+
+msgid "Top Categories Restaurant"
+msgstr "Top Categorías Pizzería"
+
+msgid "Top Categories Restaurants"
+msgstr "Top Categorías Pizzería"
+
+msgid "Top Category"
+msgstr "Categoría superior"
+
+msgid "Top Category Restaurant"
+msgstr "Pizzería de categoría superior"
+
+msgid "Top Category Restaurants"
+msgstr "Pizzería de categoría superior"
+
+msgid "Top of Categories"
+msgstr "Top de las categorías"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Charges:"
+msgstr "Cargos totales:"
+
+msgid "Total Earnings"
+msgstr "Ganancias Totales"
+
+msgid "Total Earnings:"
+msgstr "Ganancias Totales:"
+
+msgid "Total Price"
+msgstr "Precio total"
+
+msgid "Total Reviews"
+msgstr "Reseñas totales"
+
+msgid "Total Sales"
+msgstr "Ventas totales"
+
+msgid "Total value of your sales :"
+msgstr "Valor total de sus ventas:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Town"
+msgstr "Pueblo"
+
+msgid "Town / City"
+msgstr "Ciudad / ciudad"
+
+msgid "Transaction ID"
+msgstr "ID de transacción"
+
+msgid "Transaction Id"
+msgstr "ID de transacción"
+
+msgid "Transaction Key"
+msgstr "Clave de transacción"
+
+msgid "Transaction Options"
+msgstr "Opciones de transacción"
+
+msgid "Transactions"
+msgstr "Transacciones"
+
+msgid "Try Again"
+msgstr "Intentar otra vez"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Tuesday On?"
+msgstr "Martes activo?"
+
+msgid "Tumblr"
+msgstr "Tumblr"
+
+msgid "Turn it on If you want to send Email Through Google Email Server.."
+msgstr ""
+"Actúa si deseas enviar correo electrónico a través del servidor de correo "
+"electrónico de Google."
+
+msgid "Turn it on If you want to send Email Through SMTP.."
+msgstr "Actúa si deseas enviar correo electrónico a través de SMTP."
+
+msgid ""
+"Turn it on If you want to use SMTP Authentication.., If checked, you must "
+"provide the SMTP username and password below"
+msgstr ""
+"Actúa si deseas usar la autenticación SMTP ..., si se verifica, debes "
+"proporcionar el nombre de usuario y la contraseña SMTP a continuación"
+
+msgid "Turn on/off user reviews system."
+msgstr "Encender/ Apagar sistema de reseñas del usuario."
+
+msgid ""
+"Turn this switcher OFF to allow direct publishing of submitted restaurants "
+"by publisher without review / moderation. If this switch is ON, restaurants "
+"will be published after admin review / moderation."
+msgstr ""
+"Apaga este conmutador para permitir la publicación directa de pizzerías "
+"enviadas por Publisher sin reseña / moderación. Si este interruptor está "
+"activado, pizzerías se publicará después de la reseña / moderación del "
+"administrador."
+
+msgid ""
+"Turn this switcher ON/OFF to show/hide terms and conditions check in forms."
+msgstr ""
+"Apagar/apagar este conmutador para mostrar/ocultar los formularios de "
+"verificación de términos y condiciones."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Two Tone"
+msgstr "Dos tonos"
+
+msgid "Type"
+msgstr "Escribe"
+
+msgid "Type of food :"
+msgstr "Estilo de pizza :"
+
+msgid "Type Your Address"
+msgstr "Escribe tu dirección"
+
+msgid "Type:"
+msgstr "Escribe:"
+
+msgid "Typography"
+msgstr "Tipografía"
+
+msgid "Unavailable"
+msgstr "No disponible"
+
+msgid "Uncheck Features"
+msgstr "Características de desmarque"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Update Booking Status"
+msgstr "Actualizar el estado de la reserva"
+
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+msgid "Update Cuisine"
+msgstr "Actualizar cocina"
+
+msgid "Update Extra Feature"
+msgstr "Actualizar función adicional"
+
+msgid "Update Feature"
+msgstr "Actualizar función"
+
+msgid "Update Location"
+msgstr "Actualizar localización"
+
+msgid "update map"
+msgstr "Actualizar mapa"
+
+msgid "Update Membership"
+msgstr "Actualizar la membresía"
+
+msgid "Update Menu"
+msgstr "Actualizar carta"
+
+msgid "Update Order Status"
+msgstr "Actualizar el estado del pedido"
+
+msgid "Update Restaurant"
+msgstr "Actualizar pizzeria"
+
+msgid "Update Tag"
+msgstr "Actualizar etiqueta"
+
+msgid "Update Team Member"
+msgstr "Actualizar miembro del equipo"
+
+msgid "Update user when a username or email exists"
+msgstr ""
+"Actualizar al usuario cuando exista un nombre de usuario o correo electrónico"
+
+msgid ""
+"Update your avatar manually, If the not set the default Gravatar will be the "
+"same as your login email/user account. Max Upload Size: 1MB,"
+msgstr ""
+"Actualiza tu avatar manualmente, si no está configurado, el gravatar "
+"predeterminado será el mismo que tu cuenta de correo electrónico/cuenta de "
+"usuario de inicio de sesión. Tamaño de carga máxima: 1 MB,"
+
+msgid ""
+"Update your cover image manually, If the not set the default cover image "
+"will be showing on your restaurant detail page. Max Upload Size: 1MB,"
+msgstr ""
+"Actualiza tu imagen de portada manualmente, si no se establece la imagen de "
+"portada predeterminada se mostrará en tu página de detalles de pizzeria. "
+"Tamaño de carga máxima: 1 MB,"
+
+msgid "Update212"
+msgstr "Actualización212"
+
+msgid "Updated successfully"
+msgstr "Actualizado con éxito"
+
+msgid "Upload a featured image"
+msgstr "Cargar una imagen destacada"
+
+msgid "Upload a profile picture or choose one of the following"
+msgstr "Carga una foto de perfil o elige una de las siguientes"
+
+msgid "Upload Cover Image"
+msgstr "Cargar imagen de portada"
+
+msgid "Upload Image"
+msgstr "Cargar imagen"
+
+msgid "Upload Image / File here."
+msgstr "Carga la imagen / archivo aquí."
+
+msgid "Upload image file only."
+msgstr "Subir solo archivo de imagen."
+
+msgid "Upload Logo"
+msgstr "Subir logotipo"
+
+msgid "Upload Picture"
+msgstr "Subir foto"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "Url : %s"
+msgstr "URL: %s"
+
+msgid "URL: %s"
+msgstr "URL: %s"
+
+msgid "Use Existing Membership"
+msgstr "Utiliza la membresía existente"
+
+msgid "Use SMTP Authentication?"
+msgstr "¿Usar autenticación SMTP?"
+
+msgid "User"
+msgstr ""
+"Actualiza tu avatar manualmente, si no está configurado, el gravatar "
+"predeterminado será el mismo que tu cuenta de correo electrónico/cuenta de "
+"usuario de inicio de sesión. Tamaño de carga máxima: 1 MB,"
+
+msgid "User already exists. Please try another one."
+msgstr "El usuario ya existe. Prueba otro."
+
+msgid "User Comapny"
+msgstr "Empresa del usuario"
+
+msgid "User First name should not be empty."
+msgstr "El nombre del usuario no debe estar vacío."
+
+msgid "User Header Login"
+msgstr "Encabezado de inicio de sesión de usuario"
+
+msgid "User last name should not be empty."
+msgstr "El apellido del usuario no debe estar vacío."
+
+msgid "User Login"
+msgstr "Inicio de sesión de usuario"
+
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+msgid "User Profile Data"
+msgstr "Datos de perfil de usuario"
+
+msgid "User Registration is disabled"
+msgstr "El registro del usuario está deshabilitado"
+
+msgid "User Restaurants"
+msgstr "Pizzerías del usuario"
+
+msgid "User restaurants"
+msgstr "Pizzerías del usuario"
+
+msgid "User Settings"
+msgstr "Ajustes de usuario"
+
+msgid "User Type"
+msgstr "Tipo de usuario"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Username *"
+msgstr "Nombre de usuario *"
+
+msgid "Username available."
+msgstr "Nombre de usuario disponible."
+
+msgid "Username should not be empty."
+msgstr "El nombre de usuario no debe estar vacío."
+
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+msgid "Users has been done export successful."
+msgstr "Los usuarios se han exportado exitosamente."
+
+msgid "Users Import / Export"
+msgstr "Usuarios Import / Export"
+
+msgid "Users import was successful."
+msgstr "La importación de los usuarios fue exitosa."
+
+msgid "Users update"
+msgstr "Actualización de los usuarios"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "VAT (%s&#37;)"
+msgstr "IVA (%s&#37;)"
+
+msgid "VAT :"
+msgstr "IVA :"
+
+msgid "VAT in %"
+msgstr "IVA en %"
+
+msgid "VAT On/Off"
+msgstr "IVA encendido/apagado"
+
+msgid "Vertical Banner"
+msgstr "Banner vertical"
+
+msgid "Very poor"
+msgstr "Muy pobre"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "View 1"
+msgstr "Ver 1"
+
+msgid "View 2"
+msgstr "Ver 2"
+
+msgid "View 3"
+msgstr "Ver 3"
+
+msgid "View All"
+msgstr "Ver todo"
+
+msgid "View Currency Item"
+msgstr "Ver el artículo de la moneda"
+
+msgid "View Email"
+msgstr "Ver correo electrónico"
+
+msgid "View Membership Order Item"
+msgstr "Ver artículo de orden de membresía"
+
+msgid "View Menu"
+msgstr "Ver carta"
+
+msgid "View Restaurant Item"
+msgstr "Ver artículo de pizzería"
+
+msgid "View Review"
+msgstr "Ver reseña"
+
+msgid "View Style"
+msgstr "Vista de estilo"
+
+msgid "View Transaction Item"
+msgstr "Ver elemento de transacción"
+
+msgid "View Withdrawal"
+msgstr "Ver retiro"
+
+msgid "View withdrawal history"
+msgstr "Ver historial de retiro"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Website Link"
+msgstr "Enlace de página web"
+
+msgid "Wed"
+msgstr "Mié"
+
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgid "Wednesday On?"
+msgstr "Miércoles activo?"
+
+msgid "What are you looking for?"
+msgstr "¿Qué estás buscando?"
+
+msgid "Whitespaces not allowed"
+msgstr "Espacios en blanco no permitidos"
+
+msgid "With Background Image"
+msgstr "Con imagen de fondo"
+
+msgid "withdrawalAdd New"
+msgstr "Nuevo retiro"
+
+msgid "Withdrawal Id"
+msgstr "Identificación de retiro"
+
+msgid "Withdrawal Info"
+msgstr "Información de retiro"
+
+msgid "Withdrawal Request"
+msgstr "Solicitud de Retiro"
+
+msgid "withdrawal-%s"
+msgstr "retiros-%s"
+
+msgid "Withdrawals"
+msgstr "Retiros"
+
+msgid "Woocommerce Payment Gateways"
+msgstr "Pasarelas de pago de WooCommerce"
+
+msgid "Wordwrap length"
+msgstr "Longitud de envoltura de palabras"
+
+msgid "WP Foodbakery"
+msgstr "WP FoodBakery"
+
+msgid "Name of the plugin"
+msgstr "Nombre del complemento"
+
+msgid "WPD: Register Options"
+msgstr "WPD: opciones de registro"
+
+msgid "Write a Comment"
+msgstr "Escribir un comentario"
+
+msgid "Write your own reviews"
+msgstr "Escribe tus propias reseñas"
+
+msgid "Years"
+msgstr "Años"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Yes, Delete"
+msgstr "Si, eliminar"
+
+msgid "You already have a restaurant."
+msgstr "Ya tienes una pizzería."
+
+msgid "You are not allowed to post any review."
+msgstr "No tienes permitido publicar ninguna reseña."
+
+msgid "You are not authorised"
+msgstr "No estás autorizado"
+
+msgid ""
+"You are not authorized. Please login as restaurant owner to access this page."
+msgstr ""
+"Usted no está autorizado. Inicia sesión como propietario de Pizzeria para "
+"acceder a esta página."
+
+msgid "You can add only JPG, JPEG, PNG, GIF formates of images."
+msgstr "Puedes agregar solo JPG, JPEG, PNG, formados GIF de imágenes."
+
+msgid "You can choose default restaurant listing open/close status."
+msgstr ""
+"Puedes elegir el estado predeterminado de tu pizzería listado Abierta / "
+"Cerrada."
+
+msgid "You can pickup order in %s minutes"
+msgstr "Puedes recoger el pedido en %s minutos"
+
+msgid ""
+"You can show restaurant open / close label for every restaurant in "
+"restaurant listing"
+msgstr ""
+"Puedes mostrar la etiqueta pizzeria Abierta / Cerrada para cada pizzería en "
+"la lista de pizzería"
+
+msgid "You can turn on/off in filters"
+msgstr "Puedesencender/apagar en filtros"
+
+msgid "You did not have any restaurant alerts."
+msgstr "Top Categorías Pizzerías"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permisos suficientes para acceder a esta página."
+
+msgid "You don't have any booking."
+msgstr "No tienes ninguna reserva."
+
+msgid "You don't have any order."
+msgstr "No tienes ningún pedido."
+
+msgid "You don't have any order/inquiry"
+msgstr "No tienes ningún pedido/consulta"
+
+msgid "You don't have any received booking."
+msgstr "No tienes ninguna reserva recibida."
+
+msgid "You don't have any received order."
+msgstr "No tienes ningún pedido recibido."
+
+msgid "You don't have any shortlists"
+msgstr "No tienes pizzerías favoritas"
+
+msgid "You dont have permissions to delete this review"
+msgstr "No tienes permisos para eliminar esta reseña"
+
+msgid "You have already added review for this order."
+msgstr "Ya has agregado una reseña para este pedido."
+
+msgid "You have already logged in, Please logout to try again."
+msgstr ""
+"Ya has iniciado sesión, por favor, cierra sesión para intentarlo nuevamente."
+
+msgid "You have not sufficient amount for withdrawal."
+msgstr "No tiene suficiente cantidad para el retiro."
+
+msgid "You have selected invalid file type, Please try again."
+msgstr "Has seleccionado un tipo de archivo no válido, inténtalo de nuevo."
+
+msgid ""
+"You have successfully created your restaurant, to add more details, go to "
+"your email inbox for login details."
+msgstr ""
+"Has creado con éxito tu pizzería! para agregar más detalles, vé a tu bandeja "
+"de entrada de correo electrónico para obtener detalles de inicio de sesión."
+
+msgid "You have to login first to place order."
+msgstr "Primero debes iniciar sesión para realizar pedidos."
+
+msgid "You have to login first."
+msgstr "Tienes que iniciar sesión primero."
+
+msgid "You have to login for purchase restaurant."
+msgstr "Tienes que iniciar sesión para realizar un pedido"
+
+msgid "You haven't written any reviews."
+msgstr "No has escrito ninguna reseña."
+
+msgid "You may want to see <a href=\"%s\">the demo file</a>."
+msgstr ""
+"Es posible que desees ver <a href=\"%s\"> el archivo de demostración </a>."
+
+msgid "You should accept Terms and Conditions."
+msgstr "Debes aceptar términos y condiciones."
+
+msgid "You Want To Delete?"
+msgstr "¿Quieres eliminar?"
+
+msgid ""
+"Your account has been registered successfully, Please contact to site admin "
+"for password."
+msgstr ""
+"Tu cuenta se ha registrado correctamente, comunícate con el administrador "
+"del sitio para la contraseña."
+
+msgid "Your account is not activated yet."
+msgstr "Tu cuenta aún no está activada."
+
+msgid ""
+"Your account was created on foodbakery, you can login with following details"
+msgstr ""
+"Tu cuenta fue creada en FoodBakery, puedes iniciar sesión con los siguientes "
+"detalles"
+
+msgid "Your balance:"
+msgstr "Tu balance:"
+
+msgid "Your booking has been sent successfully on"
+msgstr ""
+"Es posible que desees ver <a href=\"%s\"> el archivo de demostración </a>."
+
+msgid "Your booking has been sent successfully."
+msgstr "Tu reserva ha sido enviada con éxito."
+
+msgid "Your booking is %s"
+msgstr "Tu reserva es %s"
+
+msgid "your DB structure updated successfully."
+msgstr ""
+"Ha creado con éxito tu pizzería, para agregar más detalles, vaya a tu "
+"bandeja de entrada de correo electrónico para obtener detalles de inicio de "
+"sesión."
+
+msgid "Your inquiry has been sent User will contact you shortly"
+msgstr "Tu consulta ha sido enviada al usuario, se comunicará contigo en breve"
+
+msgid "Your new password"
+msgstr "Tu nueva contraseña"
+
+msgid "Your Order"
+msgstr "Tu pedido"
+
+msgid "Your order does not meet the minimum order amount."
+msgstr "Tu pedido no cumple con el monto mínimo de pedido."
+
+msgid "Your order has been created successfully."
+msgstr "El Pizzaiolo ya esta en ello! pronto comerás una buena PIZZA : )"
+
+msgid "Your order have been placed. You will pay cash on delivery."
+msgstr "Tu pedido ha sido realizado. Pagará en efectivo en la entrega."
+
+msgid "Your order is %s"
+msgstr "Tu pedido es %s"
+
+msgid "Your order is exceeding the maximum order amount."
+msgstr "Tu pedido excede la cantidad máxima de pedido."
+
+msgid "Your order will be delivered in %s minutes"
+msgstr "Tu pedido se entregará en %s de minutos"
+
+msgid "Your overall rating of this restaurant"
+msgstr "Tu calificación general de esta pizzería"
+
+msgid "Your Profile has been removed from company"
+msgstr "Tu perfil ha sido eliminado de la empresa"
+
+msgid "Your restaurant is expired."
+msgstr "Tu pizzería está caducada."
+
+msgid "Your review successfully added."
+msgstr "Tu reseña se agregó con éxito."
+
+msgid "Your review successfully got deleted."
+msgstr "Tu reseña se eliminó con éxito."
+
+msgid "Your settings successfully saved."
+msgstr "Configuración guardada con éxito."
+
+msgid "Your Total Withdrawals:"
+msgstr "Tus retiros totales:"
+
+msgid "Your transaction for this restaurant is at pending mode."
+msgstr "Tu transacción para esta pizzería está en modo pendiente."
+
+msgid "youtube"
+msgstr "Youtube"
+
+msgid "Zip file"
+msgstr "Archivo zip"
+
+msgid "Zoom Level"
+msgstr "Nivel de zoom"
+
+msgid "|</span>"
+msgstr "| </span>"

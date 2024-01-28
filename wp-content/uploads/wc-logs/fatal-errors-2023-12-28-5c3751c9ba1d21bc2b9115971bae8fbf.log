@@ -1,0 +1,16 @@
+2023-12-28T13:53:47+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/shortcodes/frontend/shortcode-pricing-table.php:205
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/shortcodes.php(355): Foodbakery_Shortcode_Pricing_Table_front->foodbakery_pricing_table_shortcode_callback()
+#1 [internal function]: do_shortcode_tag()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-content/themes/foodbakery/include/frontend/cs-shortcodes/cs-section.php(351): do_shortcode()
+#4 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/shortcodes.php(355): foodbakery_var_section_shortocde()
+#5 [internal function]: do_shortcode_tag()
+#6 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/shortcodes.php(227): preg_replace_callback()
+#7 /var/www/vhosts/get-pizza.com/httpdocs/wp-content/themes/foodbakery/page.php(123): do_shortcode()
+#8 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/template-loader.php(106): include('...')
+#9 /var/www/vhosts/get-pizza.com/httpdocs/wp-blog-header.php(19): require_once('...')
+#10 /var/www/vhosts/get-pizza.com/httpdocs/index.php(17): require('...')
+#11 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/shortcodes/frontend/shortcode-pricing-table.php en la línea 205
+

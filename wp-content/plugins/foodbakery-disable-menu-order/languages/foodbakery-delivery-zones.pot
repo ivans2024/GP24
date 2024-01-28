@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Foodbakery Delivery Zones\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-13 06:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: foodbakery-delivery-zones"
+
+#: includes/frontend/delivery_zones_frontend.php:191
+#: includes/frontend/delivery_zones_frontend.php:317
+msgid "!="
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:194
+#: includes/frontend/delivery_zones_frontend.php:320
+msgid "<"
+msgstr ""
+
+#: foodbakery-delivery-zones.php:91
+msgid ""
+"<em><b>Foodbakery Shortlists</b></em> needs the <b>Foodbakery</b> plugin. "
+"Please install and activate it."
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:192
+#: includes/frontend/delivery_zones_frontend.php:318
+msgid "="
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:193
+#: includes/frontend/delivery_zones_frontend.php:319
+msgid ">"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:147
+#: includes/frontend/delivery_zones_frontend.php:156
+#: includes/frontend/delivery_zones_frontend.php:283
+msgid "Add Delivery Zone"
+msgstr ""
+
+#: foodbakery-delivery-zones.php:70
+msgid "Are you sure to do this?"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:224
+#: includes/frontend/delivery_zones_frontend.php:350
+msgid "Cancel"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:204
+#: includes/frontend/delivery_zones_frontend.php:207
+#: includes/frontend/delivery_zones_frontend.php:330
+#: includes/frontend/delivery_zones_frontend.php:333
+msgid "Delivery Charges"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:107
+msgid "Delivery Zones"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:161
+#: includes/frontend/delivery_zones_frontend.php:164
+#: includes/frontend/delivery_zones_frontend.php:254
+#: includes/frontend/delivery_zones_frontend.php:288
+#: includes/frontend/delivery_zones_frontend.php:291
+msgid "Distance Range (KM)"
+msgstr ""
+
+#. Name of the plugin
+msgid "Foodbakery Delivery Zones"
+msgstr ""
+
+#. Description of the plugin
+msgid "Foodbakery Delivery Zones Add on"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:99
+msgid "Locate me"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:179
+#: includes/frontend/delivery_zones_frontend.php:182
+#: includes/frontend/delivery_zones_frontend.php:255
+#: includes/frontend/delivery_zones_frontend.php:306
+#: includes/frontend/delivery_zones_frontend.php:309
+msgid "Operator"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:101
+msgid "Otherwise, we use your default address"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:223
+msgid "Send"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:349
+msgid "Update"
+msgstr ""
+
+#: includes/frontend/delivery_zones_frontend.php:100
+msgid "Use Default Location"
+msgstr ""

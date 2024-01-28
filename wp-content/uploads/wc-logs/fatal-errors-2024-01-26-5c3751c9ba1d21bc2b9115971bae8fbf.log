@@ -1,0 +1,396 @@
+2024-01-26T13:56:24+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:24:04+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:24:15+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:30:51+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:34:11+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:34:14+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T14:34:34+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:34:37+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T14:34:42+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:35:11+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T14:35:16+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T14:35:24+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T16:52:20+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T16:52:28+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T16:52:30+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T16:57:55+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T16:57:58+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T16:58:22+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:14:59+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:15:07+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T17:22:50+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:23:01+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:49:27+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:51:21+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:51:28+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:53:09+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:53:20+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T17:54:52+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T18:01:32+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-26T18:02:38+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:02:46+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:02:56+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:06:53+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:11:58+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:20:56+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:25:19+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:32:40+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:37:04+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:38:34+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:40:55+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:48:41+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:48:56+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:49:41+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-26T18:49:42+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+

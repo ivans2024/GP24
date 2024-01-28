@@ -1,0 +1,168 @@
+2024-01-25T11:04:25+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:04:35+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:04:53+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:05:03+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:05:10+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:05:44+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:05:54+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:06:12+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:06:15+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:08:51+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:09:11+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:09:25+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:09:33+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:09:35+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:10:16+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:10:18+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:10:23+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php:78
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-earnings.php en la línea 78
+
+2024-01-25T11:13:13+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php:62
+Stack trace:
+#0 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback()
+#1 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/vhosts/get-pizza.com/httpdocs/wp-admin/admin-ajax.php(188): do_action()
+#4 {main}
+  thrown en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/wp-foodbakery/frontend/templates/dashboards/publisher/publisher-withdrawals.php en la línea 62
+
+2024-01-25T11:45:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /var/www/vhosts/get-pizza.com/httpdocs/wp-content/plugins/woocommerce/src/Internal/Traits/AccessiblePrivateMethods.php en la línea 158
+
+2024-01-25T12:10:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/rest-api.php en la línea 3332
+
+2024-01-25T12:10:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /var/www/vhosts/get-pizza.com/httpdocs/wp-includes/rest-api.php en la línea 3332
+

@@ -1,0 +1,1867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Already have an account"
+msgstr "Ya tienes una cuenta"
+
+msgid "Login Now"
+msgstr "Inicia sesión ahora"
+
+msgid "Register"
+msgstr "Registro"
+
+msgid "Slider"
+msgstr "Control deslizante"
+
+msgid "There is problem while connecting to twitter"
+msgstr "Hay un problema mientras se conecta a Twitter"
+
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgid "You have already logged in, Please logout to try again."
+msgstr ""
+"Ya ha iniciado sesión, por favor, cierre sesión para intentarlo nuevamente."
+
+msgid "%s Options"
+msgstr "%S opciones"
+
+msgid "About Author"
+msgstr "Sobre el autor"
+
+msgid "Accordion"
+msgstr "Acordeón"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Ad Unit"
+msgstr "Unidad publicitaria"
+
+msgid "Add button text here Example : Buy Now, Purchase Now, View Packages etc"
+msgstr ""
+"Agregue el texto del botón aquí Ejemplo: compre ahora, compre ahora, vea "
+"paquetes, etc."
+
+msgid "Add Element"
+msgstr "Agregar elemento"
+
+msgid "Add Gallery Images"
+msgstr "Agregar imágenes de la galería"
+
+msgid "Add Icon Box title here"
+msgstr "Agregue el título del cuadro de iconos aquí"
+
+msgid "Add Page Sections"
+msgstr "Agregar secciones de página"
+
+msgid "Add price table button Link here"
+msgstr "Agregue el enlace del botón de la tabla de precios aquí"
+
+msgid "Add price without symbol"
+msgstr "Agregar precio sin símbolo"
+
+msgid "Add Progress Bar"
+msgstr "Agregar barra de progreso"
+
+msgid "Add service title here.."
+msgstr "Agregue el título del servicio aquí..."
+
+msgid "Add Team"
+msgstr "Agregar equipo"
+
+msgid ""
+"Add time duration for package or time range like this package for a month or "
+"year So wirte here for Mothly and year for Yearly Package"
+msgstr ""
+"Agregue la duración del tiempo para el paquete o el rango de tiempo como "
+"este paquete durante un mes o año, por lo que escribe aquí para el paquete "
+"anual"
+
+msgid "Add your currency symbol here like $"
+msgstr "Agregue su símbolo de moneda aquí como $"
+
+msgid "Ads"
+msgstr "Anuncios"
+
+msgid "Ago"
+msgstr "Atrás"
+
+msgid "Alignment"
+msgstr "Alineación"
+
+msgid "All Settings Saved"
+msgstr "Todas las configuraciones guardadas"
+
+msgid "Archives"
+msgstr "Archivos"
+
+msgid "Are you sure! You want to delete this"
+msgstr "¡Estás seguro! Quieres eliminar esto?"
+
+msgid "Article Bottom Banner"
+msgstr "Banner inferior del artículo"
+
+msgid "Attach image from media gallery."
+msgstr "Adjunte la imagen de la galería de medios."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio Url"
+msgstr "URL de audio"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Availability"
+msgstr "Disponibilidad"
+
+msgid "Background Color"
+msgstr "Color de fondo"
+
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+msgid "Background Image Position"
+msgstr "Posición de imagen de fondo"
+
+msgid "Background View"
+msgstr "Vista de fondo"
+
+msgid "Best time"
+msgstr "Mejor tiempo"
+
+msgid "Blockquote"
+msgstr "Bloqueo"
+
+msgid "Blog - Views"
+msgstr "Blog - Vistas"
+
+msgid "Border Bottom"
+msgstr "Fondo del borde"
+
+msgid "Border Color"
+msgstr "Color del borde"
+
+msgid "Border Top"
+msgstr "Borde superior"
+
+msgid "Both Left Sidebars"
+msgstr "Ambas barras laterales izquierdas"
+
+msgid "Both Right Sidebars"
+msgstr "Ambas barras laterales derechas"
+
+msgid "Box"
+msgstr "Caja"
+
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+msgid "Browse"
+msgstr "Navegar"
+
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+msgid "Button Link"
+msgstr "Botón de enlace"
+
+msgid "Button Text"
+msgstr "Botón de texto"
+
+msgid "Button text Color"
+msgstr "Botón de color de texto"
+
+msgid "Buttons"
+msgstr "Botones"
+
+msgid "By"
+msgstr "Por"
+
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Check your email for your new password."
+msgstr "Consulte su correo electrónico para ver su nueva contraseña."
+
+msgid "ChimpStudio"
+msgstr "ChimpStudio"
+
+msgid "Author of the plugin"
+msgstr "Autor del plugin"
+
+msgid "Choose a page that you want to set for maintenance mode"
+msgstr "Elija una página que desee establecer para el modo de mantenimiento"
+
+msgid "Choose background color."
+msgstr "Elija el color de fondo."
+
+msgid "Choose Background Image Position"
+msgstr "Elija la posición de la imagen de fondo"
+
+msgid "Choose Background View."
+msgstr "Elija vista de fondo."
+
+msgid "Choose Border color."
+msgstr "Elija el color del borde."
+
+msgid "Choose Category."
+msgstr "Elegir la categoría."
+
+msgid "Choose Header Style"
+msgstr "Elija el estilo de encabezado"
+
+msgid "Choose icon for list."
+msgstr "Elija icono para la lista."
+
+msgid ""
+"Choose inside thumbnial view type for this post. None for no image. Single "
+"image for display featured image on detail. Slider for display slides on "
+"detail. Audio for make this audio post and video for display video inside "
+"post."
+msgstr ""
+"Elija el tipo de vista de miniatura interior para esta publicación. Ninguno "
+"sin imagen. Imagen individual para mostrar la imagen destacada en detalle. "
+"Control deslizante para diapositivas de visualización en detalle. Audio para "
+"hacer esta publicación de audio y video para visualizar video dentro de la "
+"publicación."
+
+msgid "Choose Mute selection"
+msgstr "Elija la selección de mudo"
+
+msgid "Choose Sidebar"
+msgstr "Elija barra lateral"
+
+msgid "Choose sidebar layout for this post."
+msgstr "Elija el diseño de la barra lateral para esta publicación."
+
+msgid "Choose Sub-Header"
+msgstr "Elija Sub-Header"
+
+msgid ""
+"Choose subheader background image from media gallery or leave it empty for "
+"display default image set by theme options."
+msgstr ""
+"Elija la imagen de fondo del subtítulo de la galería de medios o deje vacío "
+"para mostrar la imagen predeterminada establecida por opciones de tema."
+
+msgid ""
+"Choose thumbnial view type for this post. None for no image. Single image "
+"for display featured image on listings and slider for display slides on "
+"thumbnail view."
+msgstr ""
+"Elija el tipo de vista miniatura para esta publicación. Ninguno sin imagen. "
+"Imagen individual para la imagen de visualización de la imagen destacada en "
+"listados y controles deslizantes para diapositivas de visualización en la "
+"vista miniatura."
+
+msgid "Choose Video Auto Play selection"
+msgstr "Elija Video Auto Play Selection"
+
+msgid "Classic"
+msgstr "Clásico"
+
+msgid "Classic Editor"
+msgstr "Editor clásico"
+
+msgid "Clients"
+msgstr "Clientela"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Column Background Color"
+msgstr "Color de fondo"
+
+msgid "Columns"
+msgstr "Columnas"
+
+msgid "Comments"
+msgstr "Comentario"
+
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+msgid "Common Elements"
+msgstr "Elementos comunes"
+
+msgid "CONFIRM PASSWORD"
+msgstr "CONFIRMAR CONTRASEÑA"
+
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+msgid "Contact Info"
+msgstr "Datos de contacto"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Content Blocks"
+msgstr "Bloques de contenido"
+
+msgid "Content Color"
+msgstr "Color de contenido"
+
+msgid "Content Title"
+msgstr "Título de contenido"
+
+msgid "Content title Color"
+msgstr "Color de título de contenido"
+
+msgid "Count"
+msgstr "Contar"
+
+msgid "Counter"
+msgstr "Counter"
+
+msgid "Cover Image"
+msgstr "Imagen de portada"
+
+msgid "Create Account"
+msgstr "Crear una cuenta"
+
+msgid "CS : Ads"
+msgstr "CS: anuncios"
+
+msgid "CS : Flickr Gallery"
+msgstr "CS: Galería Flickr"
+
+msgid "CS : Recent Posts"
+msgstr "CS: publicaciones recientes"
+
+msgid "CS Page Builder"
+msgstr "Creador de páginas de CS"
+
+msgid "CS Theme Options"
+msgstr "Opciones de tema CS"
+
+msgid "CS: Insert shortcode"
+msgstr "CS: insertar código corto"
+
+msgid "CS: Mail Chimp"
+msgstr "CS: Mail Chimp"
+
+msgid "Currency Symbols"
+msgstr "Símbolos de divisas"
+
+msgid "Current Page"
+msgstr "Página actual"
+
+msgid "Currently there are and issue"
+msgstr "Actualmente hay  problemas"
+
+msgid "Custom Id"
+msgstr "ID personalizado"
+
+msgid "Custom Map Short Code"
+msgstr "Código corto de mapa personalizado"
+
+msgid "Custom Slider"
+msgstr "Control deslizante personalizado"
+
+msgid "Custom Subheader"
+msgstr "Subtítulo personalizado"
+
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+msgid "Dealers Listing"
+msgstr "Listado de distribuidores"
+
+msgid "Default header style"
+msgstr "Estilo de encabezado predeterminado"
+
+msgid "Default Subheader"
+msgstr "Subtítulo predeterminado"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete image"
+msgstr "Eliminar Imagen"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Designation"
+msgstr "Designacion"
+
+msgid "Detail Views"
+msgstr "Vistas detalladas"
+
+msgid "Divider"
+msgstr "Divisor"
+
+msgid "Divider setting on/off"
+msgstr "Configuración de divisor encendido/apagado"
+
+msgid "Dropcap"
+msgstr "Dropcap"
+
+msgid "e.g. http://yourdomain.com/."
+msgstr "P.EJ. http://yourdomain.com/."
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit \"%s\""
+msgstr "Editar \"%s\""
+
+msgid "Edit Item"
+msgstr "Editar elemento"
+
+msgid "Edit Maintain Page Options"
+msgstr "Editar Mantener opciones de página"
+
+msgid "Edit Page Section"
+msgstr "Editar sección de la página"
+
+msgid "Edit SiteMap Options"
+msgstr "Editar opciones de mapa del sitio"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Element Sub Title"
+msgstr ""
+"Subt\n"
+"ítulo del elemento"
+
+msgid "Element Title"
+msgstr "Título de elemento"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Email should not be empty."
+msgstr "El correo electrónico no debe estar vacío."
+
+msgid "Enable Mute"
+msgstr "Habilitar mudo"
+
+msgid "Enable Parallax"
+msgstr "Habilitar parallax"
+
+msgid "Enter accordian content here"
+msgstr "Ingrese el contenido de Accordian aquí"
+
+msgid "Enter accordion title"
+msgstr "Ingrese el título de acordeón"
+
+msgid "Enter Audio URL for this Post"
+msgstr "Ingrese la URL de audio para esta publicación"
+
+msgid "Enter Content Here"
+msgstr "Ingrese el contenido aquí"
+
+msgid "Enter counter author name here"
+msgstr "Ingrese el nombre del autor de contador aquí"
+
+msgid "Enter Counter Range"
+msgstr "Entrar en el rango de contador"
+
+msgid "Enter counter text here"
+msgstr "Ingrese el texto del mostrador aquí"
+
+msgid "Enter Custom Id."
+msgstr "Ingrese la identificación personalizada."
+
+msgid "Enter Custom Slider"
+msgstr "Ingrese el control deslizante personalizado"
+
+msgid "Enter discription here."
+msgstr "Ingrese la descripción aquí."
+
+msgid "Enter E-Mail address..."
+msgstr "Introduzca la dirección de correo electrónico..."
+
+msgid "Enter facebook account link here."
+msgstr "Ingrese el enlace de la cuenta de Facebook aquí."
+
+msgid "Enter faq content here"
+msgstr "Ingrese el contenido de las preguntas frecuentes aquí"
+
+msgid "Enter faq title"
+msgstr "Ingrese el título de las preguntas frecuentes"
+
+msgid "Enter google+ accoount link here."
+msgstr "Ingrese el enlace Google+ Account aquí."
+
+msgid "Enter icon box content here."
+msgstr "Ingrese el contenido del cuadro de iconos aquí."
+
+msgid "Enter image url"
+msgstr "Ingrese la URL de la imagen"
+
+msgid "Enter launch Date"
+msgstr "Ingrese la fecha de lanzamiento"
+
+msgid "Enter linkedin account link here."
+msgstr "Ingrese el enlace de la cuenta de LinkedIn aquí."
+
+msgid "Enter list title here."
+msgstr "Ingrese el título de la lista aquí."
+
+msgid "Enter listing_price author name here"
+msgstr "Ingrese el nombre del autor listing_price aquí"
+
+msgid "Enter listing_price text here."
+msgstr "Ingrese el texto listing_price aquí."
+
+msgid "Enter little description about service."
+msgstr "Ingrese pequeña descripción sobre el servicio."
+
+msgid "Enter Maintenance Subtitle"
+msgstr "Ingrese el subtítulo de mantenimiento"
+
+msgid "Enter Maintenance Text"
+msgstr "Ingrese el texto de mantenimiento"
+
+msgid "Enter Maintenance Title"
+msgstr "Ingrese el título de mantenimiento"
+
+msgid "Enter Mp3 audio url for this post ."
+msgstr "Ingrese URL de audio MP3 para esta publicación."
+
+msgid "Enter Phone Number"
+msgstr "Ingresa número telefónico"
+
+msgid "Enter phone number here."
+msgstr "Ingrese el número de teléfono aquí."
+
+msgid "Enter position of author here"
+msgstr "Ingrese la posición del autor aquí"
+
+msgid "Enter position of author here."
+msgstr "Ingrese la posición del autor aquí."
+
+msgid "Enter Price table Title Here"
+msgstr "Ingrese el título de la tabla de precios aquí"
+
+msgid "Enter progress bar title"
+msgstr "Ingrese el título de la barra de progreso"
+
+msgid "Enter skill (in percentage) here"
+msgstr "Ingrese la habilidad (en porcentaje) aquí"
+
+msgid "Enter Specific Video Url (Youtube, Vimeo and Dailymotion)"
+msgstr "Ingrese URL de video específica (YouTube, Vimeo y Dailymotion)"
+
+msgid "Enter subheading text here.it will display after title."
+msgstr "Ingrese el texto de subtítulo aquí. Se mostrará después del título."
+
+msgid "Enter tab content here."
+msgstr "Ingrese el contenido de la pestaña aquí."
+
+msgid "Enter tab title here."
+msgstr "Ingrese el título de la pestaña aquí."
+
+msgid "Enter team member designation here."
+msgstr "Ingrese la designación de miembros del equipo aquí."
+
+msgid "Enter team member name here."
+msgstr "Ingrese el nombre del miembro del equipo aquí."
+
+msgid "Enter Team Sub Title"
+msgstr "Ingrese el subtítulo del equipo"
+
+msgid "Enter Team Title Here"
+msgstr "Ingrese el título del equipo aquí"
+
+msgid "Enter testimonial author name here."
+msgstr "Ingrese el nombre del autor testimonial aquí."
+
+msgid "Enter testimonial content here."
+msgstr "Ingrese contenido testimonial aquí."
+
+msgid "Enter Title Here"
+msgstr "Ingrese el título aquí"
+
+msgid "Enter twitter account link here."
+msgstr "Ingrese el enlace de la cuenta de Twitter aquí."
+
+msgid "Enter Your Email Address..."
+msgstr "Ingrese su dirección de correo electrónico ..."
+
+msgid "Enter your Flicker Username here"
+msgstr "Ingrese su nombre de usuario de Flicker aquí"
+
+msgid "Enter youtube link here."
+msgstr "Ingrese el enlace de YouTube aquí."
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "Error 404"
+msgstr "Error 404"
+
+msgid "Error:"
+msgstr "Error:"
+
+msgid "Error: Try Again?"
+msgstr "Error: ¿Vuelve a intentarlo?"
+
+msgid "Extra Large"
+msgstr "Extra grande"
+
+msgid "Extra Small"
+msgstr "Extra Pequeño"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "facebook"
+msgstr "Facebook"
+
+msgid "Fancy"
+msgstr "Lujoso"
+
+msgid "Faq"
+msgstr "Preguntas más frecuentes"
+
+msgid "Featured on/off"
+msgstr "Presentado encendido/apagado"
+
+msgid ""
+"Features can be add easily in input with this shortcode \n"
+"[feature_item]Text here[/feature_item][feature_item]Text here[/feature_item]"
+msgstr ""
+"Las características se pueden agregar fácilmente en la entrada con este "
+"código corto\n"
+"[feature_item]Text here[/feature_item][feature_item]Text here[/feature_item]"
+
+msgid "Filter by"
+msgstr "Filtrar por"
+
+msgid "flex editor"
+msgstr "editor flexible"
+
+msgid "Flickr username"
+msgstr "Nombre de usuario de Flickr"
+
+msgid "Foodbakery Framework"
+msgstr "Marco de FoodBakery"
+
+msgid "Name of the plugin"
+msgstr "Nombre del plugin"
+
+msgid "Foodbakery Framework."
+msgstr "Marco de FoodBakery."
+
+msgid "Description of the plugin"
+msgstr "Descripción del plugin"
+
+msgid "Foodbakery Heading"
+msgstr "Encabezado de Foodbakery"
+
+msgid "Footer"
+msgstr "Pie de página"
+
+msgid "Footer Switch"
+msgstr "Paso de pie"
+
+msgid "Forgot Password"
+msgstr "Has olvidado tu contraseña"
+
+msgid "Format"
+msgstr "Formato"
+
+msgid "Free Size"
+msgstr "Tamaño libre"
+
+msgid "From:"
+msgstr "De:"
+
+msgid "full name"
+msgstr "nombre completo"
+
+msgid "Full width"
+msgstr "Ancho completo"
+
+msgid "Gallery"
+msgstr "Galería"
+
+msgid "General Settings"
+msgstr "Configuración general"
+
+msgid "google"
+msgstr "Google"
+
+msgid "Google Plus"
+msgstr "Google Plus"
+
+msgid "google-plus"
+msgstr "Google Plus"
+
+msgid "Header Border Color"
+msgstr "Color del borde del encabezado"
+
+msgid "Header Switch"
+msgstr "Interruptor de encabezado"
+
+msgid "Headings"
+msgstr "Encabezados"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr "http://themeforest.net/user/chimpstudio/"
+
+msgid ""
+"URI of the plugin\n"
+"Author URI of the plugin"
+msgstr ""
+"URI del plugin\n"
+"Autor URI del plugin"
+
+msgid ""
+"I am interested in a price quote on this vehicle. Please contact me at your "
+"earliest convenience with your best price for this vehicle."
+msgstr ""
+"Estoy interesado en una cotización de precios en este vehículo. Comuníquese "
+"conmigo lo antes posible con su mejor precio para este vehículo."
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Icon Background Color"
+msgstr "Color de fondo de icono"
+
+msgid "Icon Box"
+msgstr "Caja de iconos"
+
+msgid "Icon Box Content"
+msgstr "Contenido de caja de iconos"
+
+msgid "Icon Box Icon"
+msgstr "Icono de cuadro icono"
+
+msgid "Icon Box Title"
+msgstr "Título de la caja de iconos"
+
+msgid "Icon Color"
+msgstr "Color de icono"
+
+msgid "Icon Font Size"
+msgstr "Tamaño de fuente de icono"
+
+msgid "Icon Path"
+msgstr "Ruta de icono"
+
+msgid "Icon Type"
+msgstr "Tipo de icono"
+
+msgid "Icons Box"
+msgstr "Caja de iconos"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Image Frame"
+msgstr "Marco de imagen"
+
+msgid "Image Url"
+msgstr "URL de la imagen"
+
+msgid "in stock"
+msgstr "en stock"
+
+msgid "Insert"
+msgstr "Insertar"
+
+msgid "Inside Post Thumbnail"
+msgstr "Miniatura dentro de la publicación"
+
+msgid "Inside Post Thumbnail View"
+msgstr "Vista de la miniatura dentro de la publicación"
+
+msgid "Invalid e-mail address."
+msgstr "Dirección de correo electrónico inválida."
+
+msgid "Inventory Compare"
+msgstr "Comparación de inventario"
+
+msgid "Inventory Listing"
+msgstr "Listado de inventario"
+
+msgid "Inventory Makes"
+msgstr "Inventario hace"
+
+msgid "Inventory Packages"
+msgstr "Paquetes de inventario"
+
+msgid "Inventory Search"
+msgstr "Búsqueda de inventario"
+
+msgid "It looks like nothing was found at this location. Maybe try a search?."
+msgstr ""
+"Parece que no se encontró nada en este lugar. ¿Quizás probar una búsqueda?."
+
+msgid ""
+"It seems we can�t find what you�re looking for. Perhaps searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Quizás buscar puede "
+"ayudar."
+
+msgid "Large"
+msgstr "Largo"
+
+msgid "Large Left and Small Right Sidebars"
+msgstr "Grandes barras laterales izquierda y pequeña derecha"
+
+msgid "Launch Date"
+msgstr "Fecha de lanzamiento"
+
+msgid "Leave us a comment"
+msgstr "Déjanos un comentario"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Link Url"
+msgstr "URL del enlace"
+
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "List Title"
+msgstr "Título de lista"
+
+msgid "Listing Price"
+msgstr "Precio de lista"
+
+msgid "Load from IcoMoon selection.json"
+msgstr "Cargar desde IcoMoon selection.json"
+
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+msgid "Logged in as"
+msgstr "Conectado como"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Login error"
+msgstr "Error de inicio de sesión"
+
+msgid "Login Here"
+msgstr "Entre aquí"
+
+msgid "Login Successfully..."
+msgstr "Inicio de sesión con éxito…"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Loops"
+msgstr "Bucles"
+
+msgid "Mail Chimp Newsletter Widget"
+msgstr "Widget de Mail Chimp Newsletter "
+
+msgid "Maintenance"
+msgstr "Mantenimiento"
+
+msgid "maintenance"
+msgstr "mantenimiento"
+
+msgid "Maintenance Mode"
+msgstr "Modo de mantenimiento"
+
+msgid "Maintenance Mode Logo"
+msgstr "Logotipo de modo de mantenimiento"
+
+msgid "Maintenance Mode Page"
+msgstr "Página del modo de mantenimiento"
+
+msgid "Maintenance Options"
+msgstr "Opciones de mantenimiento"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Margin Bottom"
+msgstr "Margen de fondo"
+
+msgid "Margin Top"
+msgstr "Top de margen"
+
+msgid "Media Element"
+msgstr "Elemento de medios"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Medium Large"
+msgstr "Mediano grande"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Modern"
+msgstr "Moderno"
+
+msgid "Modern Header Style"
+msgstr "Estilo de encabezado moderno"
+
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+msgid "Multi Services"
+msgstr "Múltiples servicios"
+
+msgid "Multiple Service"
+msgstr "Servicio múltiple"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name *"
+msgstr "Nombre *"
+
+msgid "New to Us?"
+msgstr "Nuevo para nosotros?"
+
+msgid "NEWSLETER"
+msgstr "Boletín"
+
+msgid "Newsletter"
+msgstr "Boletin informativo"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Next Image"
+msgstr "Siguiente imagen"
+
+msgid "Next page"
+msgstr "Siguiente página"
+
+msgid "No"
+msgstr "No"
+
+msgid "No Margin"
+msgstr "Sin margen"
+
+msgid "No Padding"
+msgstr "Sin relleno"
+
+msgid "No result found."
+msgstr "No se han encontrado resultados."
+
+msgid "No Subheader"
+msgstr "No Subheader"
+
+msgid "No Title"
+msgstr "Sin título"
+
+msgid "NO tweets found."
+msgstr "No se encontraron tweets."
+
+msgid "no-repeat center"
+msgstr "centro sin repetición"
+
+msgid "no-repeat center / cover"
+msgstr "Centro / cubierta sin repetición"
+
+msgid "no-repeat center top"
+msgstr "Top central sin repetición"
+
+msgid "no-repeat fixed center"
+msgstr "Centro fijo sin repetición"
+
+msgid "no-repeat fixed center / cover"
+msgstr "sin repetir centro / cubierta fija"
+
+msgid "no-repeat left top"
+msgstr "Sin repetición de la izquierda"
+
+msgid "None"
+msgstr "Ninguna"
+
+msgid "Not a Member yet?"
+msgstr "¿No eres miembro todavía?"
+
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+msgid "Number of Photos"
+msgstr "Número de Fotos"
+
+msgid "Number of Posts To Display."
+msgstr "Número de publicaciones para mostrar."
+
+msgid "On"
+msgstr "Encendido"
+
+msgid "One fourth"
+msgstr "Un cuarto"
+
+msgid "One half"
+msgstr "Una mitad"
+
+msgid "One third"
+msgstr "Un tercio"
+
+msgid "Oops something went wrong updating your account"
+msgstr "Ups, algo salió mal actualizando su cuenta"
+
+msgid "Oops! That page can�t be found."
+msgstr "¡Ups! Esa página no se puede encontrar."
+
+msgid "Or"
+msgstr "Ó"
+
+msgid "out of stock"
+msgstr "Agotado"
+
+msgid "Padding Bottom"
+msgstr "Fondo acolchado"
+
+msgid "Padding Top"
+msgstr "Acolchado superior"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Page Background Color"
+msgstr "Color de fondo de la página"
+
+msgid "Page Builder"
+msgstr "Creador de páginas"
+
+msgid "Page Margin"
+msgstr "Margen de página"
+
+msgid "Page Options"
+msgstr "Opciones de página"
+
+msgid "Page Title"
+msgstr "Título de la página"
+
+msgid "Pages:"
+msgstr "Páginas:"
+
+msgid "Parallax"
+msgstr "Parallax"
+
+msgid ""
+"Parallax is an effect where the background content or image in this case, is "
+"moved at a different speed than the foreground content while scrolling can "
+"be enable with this switch."
+msgstr ""
+"Parallax es un efecto en el que el contenido o imagen de fondo en este caso "
+"se mueve a una velocidad diferente al contenido de primer plano, mientras "
+"que el desplazamiento se puede habilitar con este interruptor."
+
+msgid "Partner"
+msgstr "Compañero"
+
+msgid "PASSWORD"
+msgstr "Contraseña"
+
+msgid "Password Not Match"
+msgstr "La contraseña no coincide"
+
+msgid "Password Recovery"
+msgstr "Recuperación de contraseña"
+
+msgid "Password should not be empty"
+msgstr "La contraseña no debe estar vacía"
+
+msgid "Password should not be empty."
+msgstr "La contraseña no debe estar vacía."
+
+msgid "Phone No"
+msgstr "Número de teléfono"
+
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+msgid "Please check your email for login details"
+msgstr ""
+"Consulte su correo electrónico para obtener detalles de inicio de sesión"
+
+msgid "Please enter a valid email."
+msgstr "Por favor introduzca una dirección de correo electrónico válida."
+
+msgid ""
+"Please enter a valid username. You can only enter alphanumeric value and "
+"only ( _ ) longer than or equals 5 chars"
+msgstr ""
+"Ingrese un nombre de usuario válido. Solo puede ingresar el valor "
+"alfanumérico y solo (_) más tiempo que o igual a 5 caracteres"
+
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr "Ingrese la tecla API de Flickr desde las opciones de tema."
+
+msgid "Please enter text for icon"
+msgstr "Ingrese el texto para el icono"
+
+msgid "Please logout first then try to login again"
+msgstr ""
+"Por favor, cierre sesión primero y luego intente iniciar sesión nuevamente"
+
+msgid "Please provide google captcha API keys"
+msgstr "Proporcione las claves de la API de Google Captcha"
+
+msgid "Please Select a Maintinance Page"
+msgstr "Seleccione una página de mantenimiento"
+
+msgid "Please Select a Page"
+msgstr "Seleccione una página"
+
+msgid "Please select captcha field."
+msgstr "Seleccione el campo Captcha."
+
+msgid "Please Select Icon"
+msgstr "Seleccione el icono"
+
+msgid "Please Select Page Background Color"
+msgstr "Seleccione el color de fondo de la página"
+
+msgid "Please select.."
+msgstr "Seleccione..."
+
+msgid "Please set API key"
+msgstr "Establezca la tecla API"
+
+msgid "Please wait..."
+msgstr "Espere por favor..."
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Post comments"
+msgstr "Publicar comentarios"
+
+msgid "Post Gallery"
+msgstr "Galería de publicaciones"
+
+msgid "Post Options"
+msgstr "Opciones de publicación"
+
+msgid "Post Settings"
+msgstr "Configuración de publicación"
+
+msgid "PREVIOUS"
+msgstr "ANTERIOR"
+
+msgid "Previous Image"
+msgstr "Imagen anterior"
+
+msgid "Previous page"
+msgstr "Pagina anterior"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Price Color"
+msgstr "Color de precio"
+
+msgid "Price table featured option enable/disable with this dropdown"
+msgstr ""
+"Opción destacada de tabla de precios habilitar/deshabilitar con este menú "
+"desplegable"
+
+msgid "Pricing Tables"
+msgstr "Tabla de precios"
+
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+msgid "Product Options"
+msgstr "Opciones de productos"
+
+msgid "Progress Bar"
+msgstr "Barra de progreso"
+
+msgid "Progress Bar Color"
+msgstr "Color de la barra de progreso"
+
+msgid "Progress Bar Title"
+msgstr "Título de la barra de progreso"
+
+msgid "Progress Bars"
+msgstr "Barras de progreso"
+
+msgid "Promobox"
+msgstr "PromoBOX"
+
+msgid "Provide a hex color code here (with #) for header border color."
+msgstr ""
+"Proporcione un código de color hexadecimal aquí (con #) para el color del "
+"borde del encabezado."
+
+msgid "Provide a hex color code here (with #) for title."
+msgstr ""
+"Proporcione un código de color hexadecimal aquí (con #) para el título."
+
+msgid ""
+"Provide a hex color code here (with #) if you want to override the default, "
+"leave it empty for using background image."
+msgstr ""
+"Proporcione un código de color hexadecimal aquí (con #) Si desea anular el "
+"valor predeterminado, deje vacío para usar la imagen de fondo."
+
+msgid ""
+"Provide a hex colour code here (with #) for text color. if you want to "
+"override the default."
+msgstr ""
+"Proporcione un código de color hexadecimal aquí (con #) para el color de "
+"texto. Si desea anular el valor predeterminado."
+
+msgid "Ready to publish your first post? Get started here."
+msgstr "Listo para publicar su primer post? Empiece aquí."
+
+msgid "Recent Posts from category."
+msgstr "Publicaciones recientes de la categoría."
+
+msgid "Register Here"
+msgstr "Registrarse aquí"
+
+msgid "Related Posts"
+msgstr "Artículos Relacionados"
+
+msgid "Reload"
+msgstr "Recargar"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "repeat center"
+msgstr "Repetir centro"
+
+msgid "repeat center top"
+msgstr "repetir la parte superior central"
+
+msgid "repeat left top"
+msgstr "Repita la parte superior izquierda"
+
+msgid "Reply"
+msgstr "Respuesta"
+
+msgid "Required fields are marked %s"
+msgstr "Los campos requeridos están marcados %s"
+
+msgid "Revolution Slider"
+msgstr "Control deslizante de revolución"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+msgid "Saving changes..."
+msgstr "Guardando cambios..."
+
+msgid "Schedule Form"
+msgstr "Formulario de agenda"
+
+msgid "Search"
+msgstr "Búsqueda"
+
+msgid "Search Results : %s"
+msgstr "Resultados de la búsqueda: %s"
+
+msgid "Section Title"
+msgstr "Sección de título"
+
+msgid "Select A page"
+msgstr "Seleccione una página"
+
+msgid "Select a view for underconstruction page."
+msgstr "Seleccione una vista para la página en construcción."
+
+msgid "Select Ad"
+msgstr "Seleccionar anuncio"
+
+msgid "Select Attribute"
+msgstr "Seleccionar atributo"
+
+msgid "Select column width. This width will be calculated depend page width."
+msgstr ""
+"Seleccione el ancho de la columna. Este ancho se calculará dependiendo del "
+"ancho de la página."
+
+msgid "Select Content Color"
+msgstr "Seleccionar color de contenido"
+
+msgid "Select Format"
+msgstr "Seleccionar formato"
+
+msgid "Select icon background color"
+msgstr "Seleccione el color de fondo del icono"
+
+msgid "Select icon color"
+msgstr "Seleccionar color del icono"
+
+msgid "Select Icon for accordion"
+msgstr "Seleccionar icono para acordeón"
+
+msgid "Select Icon for faq"
+msgstr "Seleccione el icono para las preguntas frecuentes"
+
+msgid "Select icon type image or font icon."
+msgstr "Seleccione la imagen del tipo de icono o el icono de fuente."
+
+msgid "Select Image for Maintaince background."
+msgstr "Seleccione Imagen para el fondo de mantenimiento"
+
+msgid "Select Image for Maintaince Logo."
+msgstr "Seleccione Imagen para el logotipo de mantenimiento"
+
+msgid "Select Image from Ads."
+msgstr "Seleccione la imagen de los anuncios."
+
+msgid "Select Layout"
+msgstr "Seleccionar diseño"
+
+msgid "Select Left Sidebar"
+msgstr "Seleccione la barra lateral izquierda"
+
+msgid ""
+"Select post view from this dropdown. Default view is selected from theme "
+"option."
+msgstr ""
+"Seleccione Vista de publicación de este menú desplegable. La vista "
+"predeterminada se selecciona de la opción del tema."
+
+msgid "Select Right Sidebar"
+msgstr "Seleccione la barra lateral derecha"
+
+msgid "Select Second Left Sidebar"
+msgstr "Seleccione la segunda barra lateral izquierda"
+
+msgid "Select Second Right Sidebar"
+msgstr "Seleccione la barra lateral de la segunda derecha"
+
+msgid "Select Sidebar"
+msgstr "Seleccionar barra lateral"
+
+msgid "Select Slider"
+msgstr "Seleccionar control deslizante"
+
+msgid "Select team member image from media gallery."
+msgstr "Seleccione la imagen del miembro del equipo de la galería de medios."
+
+msgid "Select the Icon Box style"
+msgstr "Seleccione el estilo de cuadro de icono"
+
+msgid "Select the icons you would like to show with your accordion title."
+msgstr "Seleccione los iconos que desea mostrar con su título de acordeón."
+
+msgid "Select the Icons you would like to show with your tab ."
+msgstr "Seleccione los iconos que desea mostrar con su pestaña."
+
+msgid "Select View"
+msgstr "Vista de selección"
+
+msgid "Select View for Accordion"
+msgstr "Seleccionar vista para acordeón"
+
+msgid "Select Yes to remove margin for this section"
+msgstr "Seleccione Sí para eliminar el margen para esta sección"
+
+msgid "Select Yes to remove padding for this section"
+msgstr "Seleccione Sí para eliminar el relleno para esta sección"
+
+msgid "Send Email"
+msgstr "Enviar correo electrónico"
+
+msgid "Set author image from media gallery."
+msgstr "Establecer imagen del autor de la galería de medios."
+
+msgid "Set button background color with color picker"
+msgstr "Establecer el color de fondo del botón con seleccionador de color"
+
+msgid "Set button color with color picker"
+msgstr "Establecer color de botón con seleccionador de color"
+
+msgid "Set Column Background color"
+msgstr "Establecer color de fondo de columna"
+
+msgid "Set Icon Box icon color from here"
+msgstr "Establezca el color del icono del cuadro de icono desde aquí"
+
+msgid "Set Margin bottom. (In px)"
+msgstr "Establecer el fondo del margen. (En PX)"
+
+msgid "Set Margin top here.(In px)"
+msgstr "Establezca el margen superior aquí. (En PX)"
+
+msgid "Set padding bottom. (In px)"
+msgstr "Ajuste el fondo del acolchado. (En PX)"
+
+msgid "Set padding top here.(In px)"
+msgstr "Establezca la parte superior del relleno aquí. (En PX)"
+
+msgid "Set Price color from here"
+msgstr "Establezca el color del precio desde aquí"
+
+msgid "Set price-table title color from here"
+msgstr "Establezca el color del título de la tabla de precios desde aquí"
+
+msgid "Set progress bar color here"
+msgstr "Establezca el color de la barra de progreso aquí"
+
+msgid "Set text color"
+msgstr "Establecer color de texto"
+
+msgid "Set the Border Bottom (In px)"
+msgstr "Ajuste el fondo del borde (en PX)"
+
+msgid "Set the Border top (In px)"
+msgstr "Establezca la parte superior del borde (en PX)"
+
+msgid "Set the Icon Box Background."
+msgstr "Establezca el fondo del cuadro de icono."
+
+msgid "Set the Icon Font Size"
+msgstr "Establezca el tamaño del icono"
+
+msgid "Set the position of service image here"
+msgstr "Establezca el puesto de imagen de servicio aquí"
+
+msgid "Set the Service Background"
+msgstr "Establezca los antecedentes del servicio"
+
+msgid "Set title color from here."
+msgstr "Establezca el color del título de aquí."
+
+msgid "Set title/sub title alignment from this dropdown."
+msgstr ""
+"Establezca la alineación del título/subtítulo de este menú desplegable."
+
+msgid "Show all"
+msgstr "Mostrar todo"
+
+msgid "Sidebar Left"
+msgstr "Barra lateral a la izquierda"
+
+msgid "Sidebar Right"
+msgstr "Barra lateral derecha"
+
+msgid "SIGN IN"
+msgstr "REGISTRARSE"
+
+msgid "Sign Up Now"
+msgstr "Regístrate ahora"
+
+msgid "Sign up Now"
+msgstr "Regístrate ahora"
+
+msgid "Signin with your Social Networks"
+msgstr "Registrarse con sus redes sociales"
+
+msgid "Signup / Signin with"
+msgstr "Registrarse / Registrarse con"
+
+msgid "Simple"
+msgstr "Simple"
+
+msgid "Single Image"
+msgstr "Imagen única"
+
+msgid "Site Map"
+msgstr "Mapa del sitio"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Skill (in percentage)"
+msgstr "Habilidad (en porcentaje)"
+
+msgid "Small"
+msgstr "Pequeña"
+
+msgid "Small Left and Large Right Sidebars"
+msgstr "Pequeñas barras laterales derechas izquierda y grande"
+
+msgid "Small Left Sidebar"
+msgstr "Barra lateral izquierda pequeña"
+
+msgid "Small Right Sidebar"
+msgstr "Barra lateral derecha pequeña"
+
+msgid "Social Contact"
+msgstr "Contacto social"
+
+msgid "Social Icon On/Off."
+msgstr "Ícono social encendido/apagado."
+
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+msgid "Social Sharing"
+msgstr "Compartiendo socialmente"
+
+msgid "Something went wrong: %s"
+msgstr "Algo salió mal: %s"
+
+msgid "Sorry importer class missing."
+msgstr "Lo siento, importer class perdida."
+
+msgid "Sorry media attachments class missing."
+msgstr "Lo siento, falta la clase de archivos adjuntos de medios."
+
+msgid "Sorry navigation menu items class missing."
+msgstr "Lo siento, faltan la clase de elementos del menú de navegación."
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, pero nada coincidió con sus términos de búsqueda. Vuelva a "
+"intentarlo con algunas palabras clave diferentes."
+
+msgid "Sound"
+msgstr "Sonido"
+
+msgid "SoundCloud URL"
+msgstr "URL SoundCloud"
+
+msgid "Spacer"
+msgstr "Espaciador"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Sub Heading"
+msgstr "Sub encabezado"
+
+msgid "Sub Title"
+msgstr "Subtítulo"
+
+msgid "Sub Title Color"
+msgstr "Color de subtítulo"
+
+msgid "Subheader"
+msgstr "Subtítulo"
+
+msgid "subscribe successfully"
+msgstr "suscripción realizada con éxito"
+
+msgid "Successfully loaded icons"
+msgstr "Iconos cargados con éxito"
+
+msgid "Tab"
+msgstr "Pestaña"
+
+msgid "Tab Icon"
+msgstr "Icono de pestañas"
+
+msgid "Tab Title"
+msgstr "Título de la pestaña"
+
+msgid "Table"
+msgstr "Tabla"
+
+msgid "Tabs"
+msgstr "Pestañas"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Team"
+msgstr "Equipo"
+
+msgid "Team Profile Image"
+msgstr "Imagen de perfil de equipo"
+
+msgid "Testimonial"
+msgstr "Testimonial"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Text Align"
+msgstr "Texto alineado"
+
+msgid "Text Color"
+msgstr "Color de texto"
+
+msgid "Text here..."
+msgstr "Texto aqui..."
+
+msgid "There is no user registered with that email address."
+msgstr "No hay un usuario registrado con esa dirección de correo electrónico."
+
+msgid ""
+"This profile is already linked with other account. Linking process failed!"
+msgstr ""
+"Este perfil ya está vinculado con otra cuenta. ¡El proceso de vinculación "
+"falló!"
+
+msgid "This Sub Title will view below the Title of this section."
+msgstr "Este subtítulo se verá debajo del título de esta sección."
+
+msgid "This Title will view on top of this section."
+msgstr "Este título se verá en la parte superior de esta sección."
+
+msgid "This widget will be displayed on right side of the page."
+msgstr "Este widget se mostrará en el lado derecho de la página."
+
+msgid "This widget will be displayed on right/left side of the page."
+msgstr "Este widget se mostrará en el lado derecho/izquierdo de la página."
+
+msgid "Three fourth"
+msgstr "Tres cuartos"
+
+msgid "Thumbnail Audio URL"
+msgstr "URL de audio en miniatura"
+
+msgid "Thumbnail Video URL"
+msgstr "URL de video en miniatura"
+
+msgid "Thumbnail View demo"
+msgstr "Demostración de visión en miniatura"
+
+msgid "Time Duration"
+msgstr "Duración de tiempo"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Title Color"
+msgstr "Color de título"
+
+msgid "Title Link"
+msgstr "Enlace de título"
+
+msgid "Top Center"
+msgstr "Centro Superior"
+
+msgid "Turn Footer On/Off here"
+msgstr "Activa o desactiva el pie de página aquí"
+
+msgid "Turn Header On/Off here"
+msgstr "Activa o desactiva el encabezado aquí"
+
+msgid "Turn Logo On/Off here"
+msgstr "Activar el logotipo/apagado aquí"
+
+msgid "Turn Maintenance Mode On/Off here"
+msgstr "Activa o desactiva el modo de mantenimiento aquí"
+
+msgid "Turn newsletter On/Off here"
+msgstr "Activa o desactiva el boletín aquí"
+
+msgid "Turn Social Contact On/Off here"
+msgstr "Activa o desactiva el contacto social aquí"
+
+msgid "Tweets"
+msgstr "Tweets"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "twitter"
+msgstr "twitter"
+
+msgid "Two third"
+msgstr "Dos tercios"
+
+msgid "Type a user name to show photos in widget"
+msgstr "Escriba un nombre de usuario para mostrar fotos en widget"
+
+msgid "Type desired username"
+msgstr "Escriba el nombre de usuario deseado"
+
+msgid "Type your email address"
+msgstr "Escriba su dirección de correo electrónico"
+
+msgid "Typography"
+msgstr "Tipografía"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "User already exists. Please try another one."
+msgstr "El usuario ya existe. Prueba otro."
+
+msgid "User Login"
+msgstr "Inicio de sesión de usuario"
+
+msgid "User name should not be empty."
+msgstr "El nombre de usuario no debe estar vacío."
+
+msgid "User Registration"
+msgstr "Registro de usuario"
+
+msgid "User registration Detail"
+msgstr "Detalle de registro de usuarios"
+
+msgid "User Registration is disabled"
+msgstr "El registro del usuario está deshabilitado"
+
+msgid "User Registration Options"
+msgstr "Opciones de registro de usuario"
+
+msgid "User Sign in"
+msgstr "Iniciar sesión de usuario"
+
+msgid "USERNAME"
+msgstr "NOMBRE DE USUARIO"
+
+msgid "username"
+msgstr "nombre de usuario"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Auto Play"
+msgstr "Video Auto Play"
+
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "View 1"
+msgstr "Ver 1"
+
+msgid "View 2"
+msgstr "Ver 2"
+
+msgid "View all posts by %s"
+msgstr "Ver todas las publicaciones por% s"
+
+msgid "Views"
+msgstr "Puntos de vista"
+
+msgid "WC Feature Product"
+msgstr "Producto de funciones de WC"
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Wide"
+msgstr "Ancho"
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid "With Background Image"
+msgstr "Con imagen de fondo"
+
+msgid "WP data successfully got imported."
+msgstr "Los datos de WP se importaron con éxito."
+
+msgid "WP Media Attachments successfully got imported."
+msgstr "Los archivos adjuntos de medios de WP se importaron con éxito."
+
+msgid "WP Navigation Menu Items successfully got imported."
+msgstr "Los elementos del menú de navegación WP se importaron correctamente."
+
+msgid "WPAM"
+msgstr "Wpam"
+
+msgid "Wrong username or password."
+msgstr "Nombre de usuario o contraseña incorrectos."
+
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "You can manage your tabs using this shortcode"
+msgstr "Puede administrar sus pestañas usando este código corto"
+
+msgid ""
+"You can set the accordian section that is open by default on frontend by "
+"select dropdown"
+msgstr ""
+"Puede establecer la sección de Accordian que está abierta de forma "
+"predeterminada en frontend mediante el desplegable seleccionado"
+
+msgid ""
+"You can set the faq section that is open by default on frontend by select "
+"dropdown"
+msgstr ""
+"Puede establecer la sección Preguntas frecuentes que está abierta de forma "
+"predeterminada en frontend mediante el desplegable Seleccionar"
+
+msgid ""
+"You can set the tab section that is open by default on frontend by select "
+"dropdown"
+msgstr ""
+"Puede configurar la sección de pestaña que está abierta de forma "
+"predeterminada en frontend mediante la selección desplegable"
+
+msgid ""
+"You have been successfully registered <a href=\"javascript:void(0);\" data-"
+"toggle=\"modal\" data-target=\"#cs-login\" data-dismiss=\"modal\" class=\"cs-"
+"color\" aria-hidden=\"true\">Login</a>."
+msgstr ""
+"Se ha registrado con éxito <a href=\"javascript:void(0);\" data-toggle="
+"\"modal\" data-target=\"#cs-login\" data-dismiss=\"modal\" class=\"cs-color"
+"\" aria-hidden=\"true\">Login</a>."
+
+msgid "You may use these HTML tags and attributes: %s"
+msgstr "Puede usar estas etiquetas y atributos HTML: %s"
+
+msgid "You must be to post a comment."
+msgstr "Debes estar registrado para publicar un comentario."
+
+msgid ""
+"Your account has been registered successfully, Please contact to site admin "
+"for password."
+msgstr ""
+"Su cuenta se ha registrado correctamente, comuníquese con el administrador "
+"del sitio para la contraseña."
+
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+msgid "Your new password"
+msgstr "Tu nueva contraseña"
+
+msgid "Your new password is:"
+msgstr "Tu nueva contraseña es:"
+
+msgid ""
+"Your request has been completed succssfully, Now you can use following "
+"information for login."
+msgstr ""
+"Su solicitud se ha completado con éxito, ahora puede usar la siguiente "
+"información para iniciar sesión."
+
+msgid "Your username is:"
+msgstr "Tu nombre de usuario es:"
+
+msgid "Youtube"
+msgstr "YouTube"
+
+msgid "Youtube / Vimeo Video URL"
+msgstr "URL de video de YouTube / Vimeo"

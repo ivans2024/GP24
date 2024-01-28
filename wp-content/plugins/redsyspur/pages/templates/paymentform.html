@@ -1,0 +1,241 @@
+<script src="{redsysJs}"></script>
+<link rel="stylesheet" type="text/css"
+	href="{staticPath}/css/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css"
+	href="{staticPath}/css/estilos.css" />
+<script type="text/javascript" 
+	src="{staticPath}/js/jquery-1.7.min.js" ></script>
+
+<script type="text/javascript" 
+	src="{staticPath}/js/jquery-ui.min.js" ></script>
+
+<input type="radio" name="redsys_payment" value="ref" style="{displayRadios}" checked> <h4 style="display: inline; {displayRadios}">{referenceTitle}</h4> {cardBrandLogo} 
+	<button id="redsysRefButton" onclick="redsysReferencePayment()" style="font-size: 18px;padding: 9px 20px;border: none;box-shadow: 0px 2px 7px #CCC;margin: 0 auto;width: 220px;text-align: center;border-radius: 8px;height: 39px;padding-top: 9px;padding-bottom: 9px;color: white; {btnStyle}; display: none;">{btnText}</button>
+	<br>
+<input type="radio" name="redsys_payment" value="new" style="{displayRadios}"> <h4 style="display: inline; {displayRadios}">Usar otra tarjeta</h4><br>
+<div class="col-md-8" id="redsysForm" style="display: none;">
+	<div id="insite-form-container" class="form-container">
+	</div>
+	<div style="width: auto; max-width: 350px; margin: 0 auto;">
+		
+	<!-- Poner esto bien escrito, por ahi van los tiros-->
+		<input type="checkbox" id="check-guardar" name="check-guardar" style="{displayReference}" />
+		<label for="" style="{displayReference}">Guardar tarjeta para futuras compras</label>
+
+	</div>	
+</div>
+<input type="hidden" id="token"></input>
+<input type="hidden" id="errorCode"></input>
+<script>
+		$('input[type=radio][name=redsys_payment]').attr('disabled',true);
+		
+		<!-- Petición de carga de iframes con estilos para el input-->
+		getInSiteForm(
+			'insite-form-container',
+			'{btnStyle}',
+			'{body_style}',
+			'{form_style}',
+			'{form_text_style}',
+			'{btnText}',
+			'{merchantCode}',
+			'{merchantTerminal}',
+			'{idCart}'
+		);
+
+		function cargaValoresBrowser3DS() {
+
+			var valores3DS = new Object();
+
+			//browserJavaEnabled
+			valores3DS.browserJavaEnabled = navigator.javaEnabled();
+
+			//browserJavascriptEnabled
+			valores3DS.browserJavascriptEnabled = true;
+
+			//browserLanguage
+			var userLang = navigator.language || navigator.userLanguage;
+			valores3DS.browserLanguage = userLang;
+
+			//browserColorDepth
+			valores3DS.browserColorDepth = screen.colorDepth;
+
+			//browserScreenHeight
+			//browserScreenWidth
+			var myWidth = 0,
+				myHeight = 0;
+			if (typeof window.innerWidth == "number") {
+				//Non-IE
+				myWidth = window.innerWidth;
+				myHeight = window.innerHeight;
+			} else if (
+				document.documentElement &&
+				(document.documentElement.clientWidth ||
+				document.documentElement.clientHeight)
+			) {
+				//IE 6+ in 'standards compliant mode'
+				myWidth = document.documentElement.clientWidth;
+				myHeight = document.documentElement.clientHeight;
+			} else if (
+				document.body &&
+				(document.body.clientWidth || document.body.clientHeight)
+			) {
+				//IE 4 compatible
+				myWidth = document.body.clientWidth;
+				myHeight = document.body.clientHeight;
+			}
+			valores3DS.browserScreenHeight = myHeight;
+			valores3DS.browserScreenWidth = myWidth;
+
+			//browserTZ
+			var d = new Date();
+			valores3DS.browserTZ = d.getTimezoneOffset();
+
+			//browserUserAgent
+			valores3DS.browserUserAgent = navigator.userAgent;
+
+			var valores3DSstring = JSON.stringify(valores3DS);
+
+			return valores3DSstring;
+		}
+
+        function idOperOK() {
+			//document.getElementById("procesando").style["display"]="block";
+			//document.getElementById("boton").style["display"]="none";
+			//document.getElementById("redsys-err-val").style["display"]="none";
+			$('input[type=radio][name=redsys_payment]').attr('disabled',true);
+
+			var dataToSend={
+				"save":({allowReference})?document.getElementById("check-guardar").checked:false,
+				"operID":event.data.idOper, 
+				"idCart":"{idCart}",
+				"origIdCart":"{origIdCart}",
+				"valores3DS":cargaValoresBrowser3DS()
+			};
+
+			$.ajax({
+				url: "{procUrl}",
+				type: "POST",
+				data: dataToSend,
+				dataType: 'json',
+				success: function (data) {
+					if(data.redir==true)
+						window.location.href=data.url;
+					else{
+						$('<iframe id="redsysModalDialog" src="'+data.url+'" frameborder="no" />').dialog({
+							title: "Autenticación de titular",
+							autoOpen: true,
+							minWidth: 900,
+							minHeight: 600,
+							modal: true,
+							draggable: false,
+							resizable: false,
+							close: function(event, ui) { $(this).remove();},
+							overlay: {
+								opacity: 0.6,
+								background: "black"}
+							}).width(860).height(580);
+					}
+
+					$('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("text-align","center");
+					$('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("background-image","none");
+					$('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("background","none");
+					$('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("border","none");
+					$('#redsysModalDialog').siblings('div.ui-dialog-titlebar').children("button").remove();
+				},
+				error: function (request, status, error){
+					window.location.href="{urlKo}";
+				}
+			});
+		}
+
+		function idOperKO() {
+            window.location.href="{urlKo}";
+        }
+		
+		function merchantValidation() {
+
+			//Insertar validaciones si fuera necesario.
+			return true;
+		}
+
+        window.addEventListener("message", function receiveMessage(event) {
+            storeIdOper(event, "token", "errorCode", merchantValidation);
+            if (document.getElementById("token").value != "") {
+                idOperOK();
+            }
+        });
+		
+		function redsysReferencePayment(){
+			document.getElementById("redsysRefButton").style["display"]="none";
+			$('input[type=radio][name=redsys_payment]').attr('disabled',true);
+			
+			var dataToSend={
+	        	"idCart":"{idCart}",
+	        	"origIdCart":"{origIdCart}",
+				"valores3DS":cargaValoresBrowser3DS()
+        	};
+			
+		    $.ajax({
+		        url: "{procUrlRef}",
+		        type: "POST",
+		        data: dataToSend,
+		        dataType: 'json',
+		        success: function (data) {
+		            if(data.redir==true)
+		            	window.location.href=data.url;
+		            else{
+		            	$('<iframe id="redsysModalDialog" src="'+data.url+'" frameborder="no" />').dialog({
+		            		   title: "Autenticación de titular",
+		            		   autoOpen: true,
+		            		   minWidth: 900,
+		            		   minHeight: 600,
+		            		   modal: true,
+		            		   draggable: false,
+		            		   resizable: false,
+		            		   close: function(event, ui) { $(this).remove();},
+		            		   overlay: {
+		            		       opacity: 0.6,
+		            		       background: "black"}
+		            		}).width(860).height(580);
+		            }
+
+		            $('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("text-align","center");
+		            $('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("background-image","none");
+		            $('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("background","none");
+		            $('#redsysModalDialog').siblings('div.ui-dialog-titlebar').css("border","none");
+		            $('#redsysModalDialog').siblings('div.ui-dialog-titlebar').children("button").remove();
+		        },
+		        error: function (request, status, error){
+		        	window.location.href="{urlKo}";
+		        }
+		    });
+		};
+
+		window.onload = function () {
+			loadRedsysForm();
+			document.getElementById("redsysRefButton").style["display"]="inline";
+			
+			$("#redsys-hosted-pay-button").css("height","auto");
+			$("#redsys-hosted-pay-button").css("min-height","250px");
+			
+			$("#redsys-hosted-pay-button").css("width","auto");
+			$("#redsys-hosted-pay-button").css("min-width","650px");
+
+			if("{displayRadios}"!=""){
+				$("#redsysRefButton").hide();
+				$("#redsysForm").show();
+			}
+			$('input[type=radio][name=redsys_payment]').attr('disabled',false);
+
+		    $('input[type=radio][name=redsys_payment]').change(function() {
+		        if (this.value == 'new') {
+					$("#redsysForm").show();
+					$("#redsysRefButton").hide();
+		        }
+		        else {
+					$("#redsysForm").hide();	
+					$("#redsysRefButton").show();	        	
+		        }
+		    });
+		}
+	</script>

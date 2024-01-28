@@ -1,0 +1,54 @@
+<script>
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "{url_modal}";
+    document.getElementsByTagName("head")[0].appendChild(script);
+
+    function openModal(){
+        var requestParams = {
+            FormData: {
+                Ds_SignatureVersion: "{Ds_SignatureVersion}",
+                Ds_MerchantParameters: "{Ds_MerchantParameters}",
+                Ds_Signature: "{Ds_Signature}"
+            },
+            ReturnFunction: "getPaymentResponse",
+            Environment : "{environment_modal}"
+        };
+        initPayment(requestParams);
+
+        document.getElementsByClassName("kill_box")[0].children[0].addEventListener("click", function(){
+            window.location.reload();
+        });
+    }
+
+    window.addEventListener("message", function(event) {
+        parsePaymentResponse(event);
+    });
+
+    function getPaymentResponse(response){
+        window.location.href = "{url_ok}";
+    }
+    jQuery( 'form.checkout' ).on( 'checkout_place_order', function(e) {
+        var payment_method = jQuery( 'form.checkout input[name=payment_method]:checked' ).val();
+        if ( payment_method == 'redsys') {
+            openModal();
+        }
+        return true;
+    });
+
+    jQuery( 'form.checkout' ).on( 'checkout_place_order_success', function(e, result) {
+        var payment_method = jQuery( 'form.checkout input[name=payment_method]:checked' ).val();
+        if ( payment_method == 'redsys') {
+            return false;
+        }        
+        return true;
+    });
+
+    document.body.checkout_error = function(e){
+        var payment_method = jQuery( 'form.checkout input[name=payment_method]:checked' ).val();
+        if ( payment_method == 'redsys') {
+            jQuery( '.woocommerce-error' ).remove();
+        }
+        return true;
+    }
+</script>

@@ -1,0 +1,56 @@
+/*
+Theme Name: FoodBakery Child
+Theme URI: http://www.chimpstudio.co.uk/
+Template: foodbakery
+Author: Chimp Studio
+Author URI: https://themeforest.net/user/chimpstudio
+Description: FoodBakery theme for WordPress is stylish, customizable, simple, and readable - make it yours with a custom menu and custom theme options. FoodBakery supports multiple widgetized areas and featured images comes with drag and drop page builder for pages). It includes stylesheets for admin Visual Editor.
+Tags: two-columns,left-sidebar,custom-background,custom-colors,custom-header,custom-menu,editor-style,featured-images,microformats,post-formats,rtl-language-support,sticky-post,threaded-comments,translation-ready
+Version: 1.4.0.1510841589
+Updated: 2018-04-09 14:13:09
+
+*/
+@media only screen and (max-width: 600px) {
+  #header .main-header {padding: 20px 0 20px 0;text-align: center;}
+	.main-header .logo img { width:222px!important; height: 38px!important;}
+	.main-header .login-option{margin-top:20px;}
+}
+
+.main-header .login-option a.login-popup {
+  color: #fff!important;
+  font-size: 15px!important;
+  font-weight: 700;
+  text-transform: none!important;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  background-color: #249A4A;
+padding: 10px 24px;
+border-radius: 25px;}
+
+.main-header .login-option a:hover {
+  color: #fff!important;
+  font-size: 15px!important;
+  font-weight: 700;
+  text-transform: none!important;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  background-color: #038C3B;
+padding: 10px 24px;
+border-radius: 25px;}
+
+.main-section {background-color: #fff; padding-top:0px;}
+#col-lg-12 col-md-12 col-sm-12 col-xs-12 .restaurant-detail-image-section { background: #ccc; margin-bottom:60px; padding: 0 0; position: relative; background-position: center center!important; } 
+.restaurant-detail-image-section:before { content: ''; display: block; width: 100%; height: 100%; position: relative; left: 50%; top: 50%; background: rgba(0, 0, 0, 0.6); background-position: center center!important; } 
+
+@media only screen and (max-width: 900px) {
+	.restaurant-detail-image-section {
+  background: #ccc;
+  margin-bottom: 60px;
+  padding: 102px 0;
+    padding-top: 102px;
+    padding-bottom: 102px;
+  position: relative;
+	background-position: center !important;}
+}

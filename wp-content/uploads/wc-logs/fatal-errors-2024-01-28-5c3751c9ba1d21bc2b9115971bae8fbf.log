@@ -1,0 +1,45 @@
+2024-01-28T10:05:34+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-28T10:08:23+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-28T10:08:48+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php:62
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Withdrawals->foodbakery_publisher_withdrawals_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-withdrawals.php en la línea 62
+
+2024-01-28T10:14:16+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:78
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 78
+
+2024-01-28T10:16:04+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php:81
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): Foodbakery_Publisher_Earnings->foodbakery_publisher_earnings_callback('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown en C:\xampp\htdocs\wordpress\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-earnings.php en la línea 81
+

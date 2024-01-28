@@ -1,0 +1,206 @@
+/* Element Title Style Start*/
+.element-title { margin-bottom: 15px; }
+.element-title h2 { margin-bottom: 0px; }
+/*Accordion Style Start*/
+.panel-group.simple.simple { margin-bottom: 30px; }
+.panel-group.simple .panel { box-shadow: none; border-radius: 3px; }
+.panel-group.simple .panel-default > .panel-heading { background-image: none; background-color: #fff; padding: 0px;}
+.panel-group.simple .panel-default .panel-title a i { display: inline-block; margin-right: 5px;}
+.panel-group.simple .panel-default .panel-title a { display: block; padding: 10px 15px;}
+/*Modern Style Start*/
+.panel-group.modern .panel { border-radius: 0px; }
+.panel-group.modern .panel-default > .panel-heading { border-color: rgba(0, 0, 0, 0.8);}
+.panel-group.modern .panel + .panel { margin-top: -1px; }
+.panel-group.modern .panel-heading { padding: 12px 20px; }
+.panel-group.modern .panel-default > .panel-heading { background-image: none; background-color:rgba(0,0,0,0.1); padding: 0px; border-radius: 0px;}
+.panel-group.modern .panel-default .panel-title a i { display: inline-block; margin-right: 5px;}
+.panel-group.modern .panel-default .panel-title a { display: block; padding: 10px 25px 10px 15px; position: relative;}
+.faq.panel-group .panel-heading a i { display: inline-block; margin-right: 5px;}
+.panel-group.modern .panel-default .panel-title a.collapsed:after{content: "\f067"; position: absolute; right: 15px; top: 11px; font-family: "icomoon"; font-size: 14px; color: #666;}
+.panel-group.modern .panel-default .panel-title a:after{content: "\f068"; position: absolute; right: 15px; top: 11px; font-family: "icomoon"; font-size: 14px; color: #666;}
+/*Accordion Style End*/
+/*Call To Action Style Start*/
+.cs-calltoaction { padding: 30px; margin-bottom: 30px; }
+.cs-calltoaction .align-center { text-align: center; }
+.cs-calltoaction .cs-text h2 { margin-bottom: 0px; }
+.cs-calltoaction .align-left { text-align: left; }
+.cs-calltoaction .align-right { text-align: right; }
+.cs-calltoaction .cs-text { display: inline-block; width: 70%; margin-right: 20px;}
+.cs-calltoaction .cs-text p, .cs-calltoaction .cs-text span { color: #999; font-size: 14px;}
+.cs-calltoaction a { float: right; padding: 0 25px; color: #fff !important; border: none; font-size: 14px; text-transform: uppercase; font-weight: 400; height: 36px; line-height: 36px; }
+/*Call To Action Style End*/
+/*Drop Cap Style Start*/
+.cs-dropcap { margin-bottom: 30px; }
+.cs-dropcap > p { font-size: 14px; line-height: 22px; color: #999; font-weight: 400; }
+.cs-dropcap p:first-letter { border: 3px solid #ec2c3b; color: #ec2c3b; float: left; font-size: 24px; font-weight: 400; margin: 9px 15px 0px 0; padding: 10px 15px;}
+/*Drop Cap Style End*/
+/*Banner News Letter Style Start*/
+.banner-news-letter { padding: 30px; margin-bottom: 30px; }
+.banner-news-letter form .input-holder { position: relative; }
+.banner-news-letter form .field-holder { position: relative; margin-bottom: 15px; }
+.banner-news-letter form .field-holder label { width: 100%; position: relative; margin-bottom: 0px; }
+.banner-news-letter form .field-holder label i { position: absolute; left: 15px; top: 15px; font-size: 14px; color: #999; }
+.banner-news-letter form .field-holder .field-input { height: 44px; line-height: 44px; font-size: 14px; color:#999; padding-left: 35px; width: 100%; padding-right: 90px; }
+.banner-news-letter form .btn-submit { height: 43px; line-height: 40px; color: #fff; font-size: 14px; font-weight: 700; padding: 0 15px; border-radius: 2px; border: none; position: absolute; right: 0px; top: 0px; }
+/*Banner News Letter Style End*/
+/*Food Bakery Editor Style Start*/
+.foodbakery_editor { margin-bottom: 30px; }
+.foodbakery_editor p span, .foodbakery_editor span { font-size: 14px; color: #999; font-weight: 400; margin-right: 10px; display: block; }
+/*Food Bakery Editor Style End*/
+/*Main Post Style Start*/
+.main-post { margin-bottom: 30px; }
+.main-post .media-holder.left { float: left; width: 400px; }
+.main-post .cs-text { overflow: hidden; }
+.main-post .media-holder figure img { width: 100%; }
+.main-post .cs-text { padding: 20px; background-color: #fff; }
+.main-post .cs-text h4 { margin-bottom: 5px; }
+.main-post .img-frame figure img { width: auto;}
+.main-post.promo-box{margin-bottom: 0px;}
+/*Main Post Style End*/
+/*Contact Info Style Start*/
+.contact-info ul li:last-child .text-holder { margin-right: 0px; }
+.contact-info { padding: 0px 0px 20px 0; margin: 0px; }
+.contact-info li { list-style: none; padding: 0px; margin: 0px 0 5px 0; vertical-align: middle; font-size: 14px; color: #999; font-weight: 400; }
+.contact-info li i { display: inline-block; margin-right: 5px; font-size: 16px; color: #666; vertical-align: middle; }
+.contact-info li .address-text { display: inline-block; vertical-align: middle; font-size: 14px; color: #999; font-weight: 400; }
+/*Contact Info Style End*/
+/*Site Maps Links Style Start*/
+.site-maps-links { margin-bottom: 25px; }
+.site-maps-links ul { padding: 0px; margin: 0px; }
+.site-maps-links ul li { list-style: none; padding: 0px; margin: 0px 0 5px 0; border: none; box-shadow: none; text-shadow: none; line-height: 22px; }
+.site-maps-links ul li a { display: block; font-size: 14px; color: #999; text-shadow: none; box-shadow: none; text-decoration: none; outline: none; font-weight: 400; }
+/*Site Maps Links Style End*/
+.cs-map-section, .image-frame.fancy { margin-bottom: 25px; }
+.button_style { margin-bottom: 20px; }
+/*Table Style Start*/
+.cs-pricing-table .table { margin-bottom: 30px; }
+.cs-pricing-table .table thead tr th, .cs-pricing-table .table tbody tr td { text-align: left; }
+.cs-pricing-table .table thead tr th { font-size: 14px; color: #000; font-weight: 700; background-color: #fff; padding: 12px 15px; }
+.cs-pricing-table .table tbody tr td { font-size: 14px; color: #999; font-weight: 400; background-color: #fff; padding: 10px 12px; }
+/*Table Style End*/
+.testimonial { margin-bottom: 30px; }
+/*Team Grid Style Start*/
+.team.team-grid { margin-bottom: 30px; }
+.team.team-grid .img-holder figure { position: relative; }
+.team.team-grid:hover .img-holder { overflow: hidden; }
+.team.team-grid:hover .img-holder figcaption { opacity: 1; visibility: visible; }
+.team.team-grid .img-holder figcaption { position: absolute; left: 0px; top: 50%; width: 100%; height: 100%; text-align: center; background-color: rgba(0, 0, 0, 0.4); cursor: pointer; transform: translateY(-50%); -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -o-transform: translateY(-50%); opacity: 0; visibility: hidden; transition: all 0.3s ease-in-out 0s; -webkit-transition: all 0.3s ease-in-out 0s; -moz-transition: all 0.3s ease-in-out 0s; -o-transition: all 0.3s ease-in-out 0s; }
+.team.team-grid .img-holder figcaption a { position: absolute; top: 50%; font-size: 16px; color: #fff; }
+.team.team-grid .img-holder figure img { width: 100%; }
+.team.team-grid .team-info { padding: 20px 15px 10px 15px; background-color: #fff; }
+.team.team-grid .team-info .position { display: block; font-size: 12px; line-height: 14px; margin: 0 0 7px; text-transform: uppercase; }
+.team.team-grid .team-info h2 { margin-bottom: 5px; }
+.team.team-grid .team-info p { font-size: 14px; color: #999; font-weight: 400; }
+/*Team Grid Style End*/
+/*Cs Tweets Ticker Style Start*/
+.cs-tweets-ticker { display: inline-block; width: 100%; margin-bottom: 30px; }
+.cs-tweets-ticker .cs-testimonial-slider { padding: 0px; margin: 0px; }
+.cs-tweets-ticker .cs-testimonial-slider li { list-style: none; display: block; padding: 0px; margin: 0px; color: #999; font-size: 14px; font-weight: 400; width: 100%; }
+/*Cs Tweets Ticker Style End*/
+/*Authore Style Start*/
+.author-list { padding: 0px; margin: 0px 0 20px 0 !important; }
+.author-list li { list-style: none; padding: 0px; margin: 0px 0 15px 0; }
+.author-list .img-holder { float: left; margin-right: 15px; width: 70px; }
+.author-list .img-holder figure img { width: 100%; }
+.author-list .text-holder { overflow: hidden; }
+.author-list .text-holder h5 { margin-bottom: 0px; }
+.author-list .text-holder .btn-view-post { font-size: 12px; color: #999; font-weight: 400; }
+.author-list .text-holder .btn-view-post i { display: inline-block; margin-left: 2px; color: #999; font-size: 16px; vertical-align: middle; }
+/*Authore Post Style Start*/
+.author-post-list .img-holder { width: 100%; }
+.author-post-list .img-holder figure { position: relative; }
+.author-post-list .img-holder figure a { width: 70px; float: left; }
+.author-post-list .img-holder figure a img { width: 100%; }
+.author-post-list .img-holder figure figcaption { overflow: hidden; padding-left: 15px; }
+.author-post-list .img-holder figure figcaption span { font-size: 14px; color: #999; font-weight: 400; display: block; margin-bottom: 10px; }
+/*Authore Style End*/
+.counter-sec.counter-shortcode { width: 100%; text-align: left; }
+/*Progress Info Style Start*/
+.progress-info { margin-bottom: 15px; position: relative; }
+.progress-info span { font-size: 16px; color: #2f313a; font-weight: 700; display: block; line-height: 20px; margin-bottom: 10px; }
+.progress-info .progress { margin: 0px; position: relative; background-color: #fff; background-image: none; box-shadow: none; border-radius: 0px; }
+.progress-info small { position: absolute; right: 10px; z-index: 1; font-size: 12px; color: #999; line-height: 21px; }
+.progress-info .progress-bar { box-shadow: none;-webkit-transition: none;transition:none; }
+/*Progress Info Style End*/
+/*Price Table Style Start*/
+.pricetable-holder.center{text-align: center;}
+.pricetable-holder {font-family: "Open Sans", sans-serif; margin-bottom: 30px; background-color: #fff; box-shadow: 0 0 3px rgba(160, 160, 160, 0.62); position: relative; overflow: hidden; padding-bottom: 30px; }
+.pricetable-holder.active{-webkit-transform: scale(1.03);transform: scale(1.03); margin: 7px auto 0 auto; box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.2); width:-webkit-calc(100% - 10px); width:-moz-calc(100% - 10px); width:calc(100% - 10px);}
+.pricetable-holder .cs-price{border:0; position: relative; min-width:75%; display: inline-block; margin:auto; background-color: #333333; border-radius: 0 0 40% 40%; margin-bottom: 40px;}
+.pricetable-holder.active .cs-price{background-color: #c33332;}
+.pricetable-holder .cs-price h2{font: 700 Normal 21px/22px "Open Sans", sans-serif !important; padding:35px 15px 20px 15px; position: relative; z-index: 1; color:#fff !important; margin-bottom: 0;}
+.pricetable-holder .cs-price > span{font-size: 50px; line-height: 35px; color:#fff; position: relative; padding-bottom: 25px; margin-bottom: 0;}
+.pricetable-holder .cs-price > span small{font-size: 20px; font-weight: 400; vertical-align: sub; line-height: 18px; top:-13px; position: relative;}
+.pricetable-holder .cs-price > span em{font-size: 14px; font-weight: 400;  margin-left: -10px; padding-left: 0; text-transform: capitalize; font-style: normal;}
+.pricetable-holder p{font-size: 16px; color:#333333; font-weight: 600; margin-bottom: 20px;}
+.pricetable-holder ul{margin-bottom: 34px;}
+.pricetable-holder ul li{list-style: none; padding:10px;}
+.pricetable-holder ul li,
+.pricetable-holder ul li strong{color:#9698a0; font-weight: 300; font-size: 14px;}
+.pricetable-holder ul li:nth-child(even){background: #fbfbfb;}
+.pricetable-holder .cs-price:before{content: ''; border-radius: 0 0 50% 50%; display: block; width:100%; height: 100%; position: absolute; left:0; right:0; top:10px; margin:auto; background-color: inherit; z-index: 0;}
+.pricetable-holder .foodbakery-subscribe-pkg-btn,
+.pricetable-holder .foodbakery-subscribe-pkg{font-family: "Open Sans", sans-serif; font-weight: 600; display: inline-block; color:#ebedf3; background: #c33332; font-size: 12px; text-transform: uppercase; padding:9px 36px; color:#fff; border:0; border-radius: 30px; line-height: 18px;}
+.pricetable-holder .foodbakery-subscribe-pkg-btn input[type="submit"],
+.pricetable-holder .foodbakery-subscribe-pkg input[type="submit"]{border:0; background: transparent;}
+.pricetable-holder .foodbakery-subscribe-pkg-btn
+.pricetable-holder .foodbakery-subscribe-pkg i{vertical-align: middle;}
+
+.pricetable-holder .category { display: inline-block; height: 16px; left: -24px; line-height: 12px; position: absolute; top: 22px; -webkit-transform: rotate(-50deg); transform: rotate(-50deg); width: 100px; background-color: #000; }
+.pricetable-holder .category em { color: #fff; font-size: 10px; font-style: normal; font-weight: bold; letter-spacing: 1px; line-height: 14px; text-transform: uppercase; }
+.pricetable-holder p, .pricetable-holder span { font-size: 14px; color: #999; padding: 0 30px; margin-bottom: 15px; display: block; }
+.pricetable-holder .button-holder{display: block;}
+.pricetable-holder .button-holder a{display: inline-block; text-align: center; padding: 0 20px; height: 40px; line-height: 40px; font-size: 16px; font-weight: 400; outline: none; text-decoration: none;}
+.pricetable-holder .button-holder a i{display: inline-block; margin: -1px 0 0 0; vertical-align: middle;}
+
+.advance .pricetable-holder{padding-bottom: 38px;}
+.advance .pricetable-holder.active{padding-bottom: 30px;}
+.advance .pricetable-holder .cs-price{background-color: transparent !important; width:100%; margin-bottom: 20px;}
+.advance .pricetable-holder .cs-price > span{font-size: 48px; color: #333333; background: none !important; border-bottom: 1px solid #dfe1e7; font-weight: 700; position: relative;}
+.advance .pricetable-holder .cs-price > span strong{font-size: 16px; display: block; text-transform: uppercase;}
+.advance .pricetable-holder .cs-price > span small{font-weight: 300; margin-right: 5px;}
+.advance .pricetable-holder .cs-price > span em{font-weight: 300;}
+.advance .pricetable-holder .cs-price > span:after{content: ''; display: block; height: 1px; background: #dfe1e7; position: absolute; bottom:0;}
+.advance .pricetable-holder.active{box-shadow:0 0 15px 0px rgba(0, 0, 0, 0.29);   border:4px solid #c33332;  -webkit-transform: scale(1); transform: scale(1); margin-top: 0;}
+.advance .pricetable-holder .cs-price h2{color:#333333 !important; padding: 28px 15px 13px 15px; text-transform: uppercase !important; letter-spacing: 0 !important;}
+.advance .pricetable-holder ul li:nth-child(even){background: transparent;}
+.advance .pricetable-holder ul li{color:#666666;}
+.advance .pricetable-holder ul li{padding:5px;}
+.advance .foodbakery-subscribe-pkg{background:transparent; font-family:"Open Sans", sans-serif;font-weight:400;display:inline-block;font-size:14px;text-transform:uppercase;line-height:18px;border:1px solid #e1e1e1;color:#666;border-radius:2px;padding:11px 46px;}
+.advance .pricetable-holder.active .foodbakery-subscribe-pkg{background: #c33332; color:#fff;}
+/*Price Table Style End*/
+/*Cs Icon List Style Start*/
+.cs-icon-list { padding: 0px; margin: 0px 0 30px 0; }
+.cs-icon-list li { list-style: none; padding: 0px; margin: 0px 0 10px; border: none; font-size: 14px; color: #999; font-size: 500; line-height: 20px; margin-bottom: 15px; }
+.cs-icon-list li i { display: inline-block; margin-right: 8px; font-size: 16px; color: #999; vertical-align: middle; }
+.cs-icon-list li:last-child { margin-bottom: 0px; }
+/*Cs Icon List Style End*/
+/*Food Bakery Tabs Style Start*/
+.foodbakery-nav .nav-list { padding: 0px; margin: 0px; }
+.foodbakery-nav .nav-list li { list-style: none; display: inline-block; margin-right: -4px; padding: 0px; border: none; }
+.foodbakery-nav .nav-list li a { display: block; box-shadow: none; text-shadow: none; outline: none; text-decoration: none; font-size: 14px; color: #999; }
+.foodbakery-nav .nav-list li a span { display: inline-block; font-size: 14px; color: #999; margin-right: 5px; }
+.foodbakery-nav .nav-list li a strong { display: inline-block; font-size: 14px; color: #666; }
+/*Food Bakery Tabs Style End*/
+/*Horizontal Tabs Style Start*/
+.cs-tabs.horizontal-tabs {margin-bottom: 30px; }
+.cs-tabs.horizontal-tabs .tab-content{padding: 20px; background-color: #fff;}
+.cs-tabs.horizontal-tabs .tab-content .tab-pane span, .cs-tabs.horizontal-tabs .tab-content .tab-pane p{font-size: 14px; color: #999 !important; font-weight: 400 !important;}
+.cs-tabs.horizontal-tabs .nav-tabs { padding: 0px; margin: 0px; }
+.cs-tabs.horizontal-tabs .nav-tabs li { list-style: none; float: left; margin-bottom: -1px; position: relative; }
+.cs-tabs.horizontal-tabs .nav-tabs li a { border: medium none; border-radius: 0; color: #454751; display: inline-block; font-size: 14px; font-weight: 600; line-height: normal; margin: 0; padding: 10px 20px; position: relative; }
+.cs-tabs.horizontal-tabs .nav-tabs li a i { display: inline-block; font-size: 14px; color: #999; margin-right: 5px; vertical-align: middle; }
+.cs-tabs.horizontal-tabs .nav-tabs li:after, .cs-tabs.horizontal-tabs .nav-tabs li.active:after { background-color: #d2d4db; content: ""; height: 10px; position: absolute; right: 0; top: 17px; width: 1px; }
+.cs-tabs.horizontal-tabs .nav-tabs li.active::after, .cs-tabs.horizontal-tabs .nav-tabs li:hover::after { display: none; }
+.cs-tabs.horizontal-tabs .nav-tabs li.active a, .cs-tabs.horizontal-tabs .nav-tabs li.active a:hover, .cs-tabs.horizontal-tabs .nav-tabs li.active a:focus, .cs-tabs.horizontal-tabs .nav-tabs > li > a:hover { background-color: #fff; border: medium none; box-shadow: 0 -5px 4px -2px rgba(0, 0, 0, 0.1); }
+/*Horizontal Tabs Style End*/
+/*Vertical Tabs Style Start*/
+.cs-faq-tabs.vertical-tabs{margin-bottom: 30px; display: inline-block; width: 100%;}
+.cs-faq-tabs.vertical-tabs .nav-tabs{padding: 0px; margin:0px; width: 25%; float: left;}
+.cs-faq-tabs.vertical-tabs .nav-tabs li{width: 100%; list-style: none;}
+.cs-faq-tabs.vertical-tabs .tab-content{width: 75%; float: left; padding: 15px 30px 20px 30px; background-color: #fff; min-height: 150px; border:1px solid #eeeeee; }
+.cs-faq-tabs.vertical-tabs .nav-tabs li a i{display: inline-block; margin-right: 5px; vertical-align: middle;}
+.cs-faq-tabs.vertical-tabs .nav-tabs li a{display: block; font-size: 14px; background-color: #f7f7f7; color: #000; margin-right: -1px; font-weight: 400; border-radius: 0px; border:1px solid #eeeeee; padding: 12px 15px;}
+.cs-faq-tabs.vertical-tabs .nav-tabs li.active a, .cs-faq-tabs.vertical-tabs li.active a:hover, .cs-faq-tabs.vertical-tabs li.active a:focus{ background-color: #fff; box-shadow: none; border:1px solid #eeeeee; border-radius: 0px; border-right:transparent;}
+.cs-faq-tabs.vertical-tabs .nav-tabs li.active:first-child a, .cs-faq-tabs.vertical-tabs li.active:first-child a:hover, .cs-faq-tabs.vertical-tabs li.active:first-child a:focus{border-radius: none; border-right:transparent;}
+/*Vertical Tabs Style End*/

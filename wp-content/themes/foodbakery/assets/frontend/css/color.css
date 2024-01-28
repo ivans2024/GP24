@@ -1,0 +1,75 @@
+/* Text Color */
+.text-color, .listing .post-title:hover h5 a, .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus,
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .pagination > .active > span > a,
+.order-sort-results ul li:hover a, .tabs-holder .nav li a:hover, .nav li  a:focus, .tabs-holder .nav-tabs li.active a, .nav-tabs li.active a:hover, .nav-tabs li.active a:focus, 
+.sub-header .breadcrumbs ul li:hover a, .sub-header .breadcrumbs ul li:hover:before, .widget-popular-cities ul li a:hover, .widget-popular-cuisines ul li a:hover, .widget-menu ul li a:hover, .widget-connect ul li p a:hover,
+.news-letter .news-letter-form form .btn-holder input[type="submit"]:hover, .widget-recent-blog-post .post-title:hover h6 a, .widget-categories ul li a:hover, .widget-categories ul li a:hover:before, .widget-cloud ul li a:hover,
+.panel-group .panel-heading a , .categories-menu li a:hover, .user-order .error-message, .delivery-timing ul li a span, .delivery-timing ul li ul.delivery-dropdown li a:hover, .blog-detail .blockquote-hloder::before, .blog-detail .tags-list li a:hover,
+.blog-detail .swiper-button-prev:hover, .blog-detail .swiper-button-next:hover, .blog .post-title h3 a:hover, .blog .post-title h4 a:hover, .blog-large .author-info p a, .delivery-list .button a:hover, .user-nav-list ul li a:hover, .user-nav-list ul li a:hover i,
+.company-holder .swiper-button-next:hover i, .company-holder .swiper-button-prev:hover i, .user-holder .add-btn a, .user-holder .order-list .author-info .text-holder span.price, .user-holder .order-list .order-btn a{
+    color: #c33332 !important;
+}
+/* Background Color */
+.bgcolor, .chosen-container .chosen-results li.highlighted, .order-sort-results ul li:hover:before, .bootstrap-datetimepicker-widget .btn-primary, 
+.booking-info-sec .contact-info .field-holder .submit-btn input[type="submit"], .user-order input[type="submit"]{
+    background: #c33332 !important;
+}
+/* Border Color */
+.br-color, .listing .list-option .viewmenu-btn, .widget-text .content-btn, .load-more-btn, .blog-detail .blockquote-hloder, .blog-large .read-more, .delivery-list .button a:hover{
+ border-color: #c33332 !important;
+}
+body, .main-section p, .main-content-body p {
+    font: 400 14px/24px 'Open Sans', sans-serif; 
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #999;
+}
+h1, h1 a {
+    font: 700 30px/36px 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: #2f313a;
+}
+h2, h2 a {
+    font: 700 24px/30px 'Montserrat', sans-serif;
+    letter-spacing:  1px ;
+    text-transform:capitalize;
+    color: #2f313a;
+}
+h3, h3 a {
+    font: 700 20px/26px 'Montserrat', sans-serif;
+    letter-spacing:  1px;
+    text-transform: capitalize;
+    color: #2f313a ;
+}
+h4, h4 a {
+    font: 700 18px/24px 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: #2f313a;
+}
+h5, h5 a {
+    font: 700 16px/22px 'Montserrat', sans-serif;
+    letter-spacing:  1px;
+    text-transform: capitalize;
+    color: #2f313a;
+}
+h6, h6 a {
+    font: 700 14px/20px 'Montserrat', sans-serif;
+    letter-spacing:  1px;
+    text-transform: capitalize;
+    color: #2f313a;
+}
+.page-title h1 {
+    font: 700 30px/35px 'Montserrat', sans-serif;
+    letter-spacing:  1px;
+    text-transform: uppercase;
+    color: #000;
+    margin: 0;
+}
+.widget-title h5 {
+    font: 700 16px/20px 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color:#2f313a;
+}
